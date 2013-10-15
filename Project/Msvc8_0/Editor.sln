@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Editor", "Editor.vcproj", "{761511B6-84B0-40FC-A645-D43471D5DA04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		MswDirectX_Debug|Win32 = MswDirectX_Debug|Win32
+		MswDirectX_Release|Win32 = MswDirectX_Release|Win32
+		MswGLES_Debug|Win32 = MswGLES_Debug|Win32
+		MswGLES_Release|Win32 = MswGLES_Release|Win32        
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{761511B6-84B0-40FC-A645-D43471D5DA04}.MswDirectX_Debug|Win32.ActiveCfg = MswDirectX_Debug|Win32
+		{761511B6-84B0-40FC-A645-D43471D5DA04}.MswDirectX_Debug|Win32.Build.0 = MswDirectX_Debug|Win32
+		{761511B6-84B0-40FC-A645-D43471D5DA04}.MswDirectX_Release|Win32.ActiveCfg = MswDirectX_Release|Win32
+		{761511B6-84B0-40FC-A645-D43471D5DA04}.MswDirectX_Release|Win32.Build.0 = MswDirectX_Release|Win32
+		{761511B6-84B0-40FC-A645-D43471D5DA04}.MswGLES_Debug|Win32.ActiveCfg = MswGLES_Debug|Win32
+		{761511B6-84B0-40FC-A645-D43471D5DA04}.MswGLES_Debug|Win32.Build.0 = MswGLES_Debug|Win32
+		{761511B6-84B0-40FC-A645-D43471D5DA04}.MswGLES_Release|Win32.ActiveCfg = MswGLES_Release|Win32
+		{761511B6-84B0-40FC-A645-D43471D5DA04}.MswGLES_Release|Win32.Build.0 = MswGLES_Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

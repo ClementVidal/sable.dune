@@ -1,0 +1,20 @@
+<Document>
+    <Bank Name="Default" BindedObjectCount="1" FirstFree="2">
+        <Buid Uuid="458ff512-ee27-418f-af01-271c23bcbcf3"/>
+        <Entry Spin="0" Index="0">
+            <Ref Type="CAssetModel" Ouid="0"/>
+        </Entry>
+    </Bank>
+    <ObjectTable>
+        <Object PropertyCount="5" Type="CAssetModel" Ouid="0">
+            <Handle Spin="0" Buid="458ff512-ee27-418f-af01-271c23bcbcf3" Index="0"/>
+            <Property ItemCount="0" Type="CPropertyArray" Name="Subsets"/>
+            <Property EditType="0" Type="CPropertyString" Name="FBXId" IsVisible="1" Value="37" IsEnabled="0"/>
+            <Property Wildcard="" Type="CPropertyFilePath" Name="FBXPath" IsVisible="1" Value="S:/test.FBX" IsEnabled="0"/>
+            <Property Type="CPropertyHandle" Name="Parent" IsVisible="1" FilterCount="0" IsEnabled="0">
+                <Value Spin="0" Buid="0430b089-89dc-416f-a358-b036c75d7a79" Index="1"/>
+            </Property>
+            <Property EditType="0" Type="CPropertyString" Name="Name" IsVisible="1" Value="Sphère001" IsEnabled="1"/>
+        </Object>
+    </ObjectTable>
+</Document>

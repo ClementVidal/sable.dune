@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<VisualStudioProject
+	ProjectType="Visual C++"
+	Version="8.00"
+	Name="Editor"
+	ProjectGUID="{761511B6-84B0-40FC-A645-D43471D5DA04}"
+	RootNamespace="Editor"
+	Keyword="MakeFileProj"
+	>
+	<Platforms>
+		<Platform
+			Name="Win32"
+		/>
+	</Platforms>
+	<ToolFiles>
+	</ToolFiles>
+	<Configurations>
+		<Configuration
+			Name="MswDirectX_Debug|Win32"
+			OutputDirectory="$(ConfigurationName)"
+			IntermediateDirectory="$(ConfigurationName)"
+			ConfigurationType="0"
+            BuildLogFile="$(ProjectDir)\Log\$(ConfigurationName).htm"
+			>
+			<Tool
+				Name="VCNMakeTool"
+				BuildCommandLine="python S:\Common\Script\BuildCode\BuildConfig.py Dune Editor MswDirectX Debug"
+				ReBuildCommandLine="python S:\Common\Script\BuildCode\BuildConfig.py -r Dune Editor MswDirectX Debug"
+				CleanCommandLine="python S:\Common\Script\BuildCode\BuildConfig.py -c Dune Editor MswDirectX Debug"
+				Output="s:/Dune/Bin/MswDirectX/Editor_Debug.exe"
+				PreprocessorDefinitions=""
+				IncludeSearchPath=""
+				ForcedIncludes=""
+				AssemblySearchPath=""
+				ForcedUsingAssemblies=""
+				CompileAsManaged=""
+			/>
+		</Configuration>
+		<Configuration
+			Name="MswDirectX_Release|Win32"
+			OutputDirectory="$(ConfigurationName)"
+			IntermediateDirectory="$(ConfigurationName)"
+			ConfigurationType="0"
+            BuildLogFile="$(ProjectDir)\Log\$(ConfigurationName).htm"
+			>
+			<Tool
+				Name="VCNMakeTool"
+				BuildCommandLine="python S:\Common\Script\BuildCode\BuildConfig.py Dune Editor MswDirectX Release"
+				ReBuildCommandLine="python S:\Common\Script\BuildCode\BuildConfig.py -r Dune Editor MswDirectX Release"
+				CleanCommandLine="python S:\Common\Script\BuildCode\BuildConfig.py -c Dune Editor MswDirectX Release"
+				Output="s:/Dune/Bin/MswDirectX/Editor_Release.exe"
+				PreprocessorDefinitions=""
+				IncludeSearchPath=""
+				ForcedIncludes=""
+				AssemblySearchPath=""
+				ForcedUsingAssemblies=""
+				CompileAsManaged=""
+			/>
+		</Configuration>
+		<Configuration
+			Name="MswGLES_Debug|Win32"
+			OutputDirectory="$(ConfigurationName)"
+			IntermediateDirectory="$(ConfigurationName)"
+			ConfigurationType="0"
+            BuildLogFile="$(ProjectDir)\Log\$(ConfigurationName).htm"
+			>
+			<Tool
+				Name="VCNMakeTool"
+				BuildCommandLine="python S:\Common\Script\BuildCode\BuildConfig.py Dune Editor MswGLES Debug"
+				ReBuildCommandLine="python S:\Common\Script\BuildCode\BuildConfig.py -r Dune Editor MswGLES Debug"
+				CleanCommandLine="python S:\Common\Script\BuildCode\BuildConfig.py -c Dune Editor MswGLES Debug"
+				Output="s:/Dune/Bin/MswGLES/Editor_Debug.exe"
+				PreprocessorDefinitions=""
+				IncludeSearchPath=""
+				ForcedIncludes=""
+				AssemblySearchPath=""
+				ForcedUsingAssemblies=""
+				CompileAsManaged=""
+			/>
+		</Configuration>
+		<Configuration
+			Name="MswGLES_Release|Win32"
+			OutputDirectory="$(ConfigurationName)"
+			IntermediateDirectory="$(ConfigurationName)"
+			ConfigurationType="0"
+            BuildLogFile="$(ProjectDir)\Log\$(ConfigurationName).htm"
+			>
+			<Tool
+				Name="VCNMakeTool"
+				BuildCommandLine="python S:\Common\Script\BuildCode\BuildConfig.py Dune Editor MswGLES Release"
+				ReBuildCommandLine="python S:\Common\Script\BuildCode\BuildConfig.py -r Dune Editor MswGLES Release"
+				CleanCommandLine="python S:\Common\Script\BuildCode\BuildConfig.py -c Dune Editor MswGLES Release"
+				Output="s:/Dune/Bin/Win32/Msvc8_0/Editor_Release.exe"
+				PreprocessorDefinitions=""
+				IncludeSearchPath=""
+				ForcedIncludes=""
+				AssemblySearchPath=""
+				ForcedUsingAssemblies=""
+				CompileAsManaged=""
+			/>
+		</Configuration>
+	</Configurations>
+	<References>
+	</References>
+	<Files>
+	</Files>
+	<Globals>
+	</Globals>
+</VisualStudioProject>

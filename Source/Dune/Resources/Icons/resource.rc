@@ -1,0 +1,3 @@
+#define wxUSE_NO_MANIFEST 1
+
+ApplicationIcon ICON "Application.ico"

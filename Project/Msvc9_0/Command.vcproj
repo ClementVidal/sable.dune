@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<VisualStudioProject
+	ProjectType="Visual C++"
+	Version="9,00"
+	Name="Command"
+	ProjectGUID="{DC6AD650-D7AA-5DFB-215A-67D5BC80BE24}"
+	RootNamespace="Command"
+	Keyword="MakeFileProj"
+	TargetFrameworkVersion="131072"
+	>
+	<Platforms>
+		<Platform
+			Name="Win32"
+		/>
+	</Platforms>
+	<ToolFiles>
+	</ToolFiles>
+	<Configurations>
+        <Configuration
+			Name="MswDirectXDebug|Win32"
+			OutputDirectory="$(ConfigurationName)"
+			IntermediateDirectory="$(ConfigurationName)"
+			ConfigurationType="0"
+			>
+			<Tool
+				Name="VCNMakeTool"
+				BuildCommandLine="python S:\Common\Script\BuildConfig\BuildConfig.py Dune CmdBake MswDirectXDebug"
+				ReBuildCommandLine="python S:\Common\Script\BuildConfig\BuildConfig.py -r Dune CmdBake MswDirectXDebug"
+				CleanCommandLine="python S:\Common\Script\BuildConfig\BuildConfig.py -c Dune CmdBake MswDirectXDebug"
+				Output="s:/Dune/Bin/MswDirectXDebug/CmdBake.exe"
+				PreprocessorDefinitions=""
+				IncludeSearchPath=""
+				ForcedIncludes=""
+				AssemblySearchPath=""
+				ForcedUsingAssemblies=""
+				CompileAsManaged=""
+			/>
+		</Configuration>
+		<Configuration
+			Name="MswDirectXRelease|Win32"
+			OutputDirectory="$(ConfigurationName)"
+			IntermediateDirectory="$(ConfigurationName)"
+			ConfigurationType="0"
+			>
+			<Tool
+				Name="VCNMakeTool"
+				BuildCommandLine="python S:\Common\Script\BuildConfig\BuildConfig.py Dune CmdBake MswDirectXRelease"
+				ReBuildCommandLine="python S:\Common\Script\BuildConfig\BuildConfig.py -r Dune CmdBake MswDirectXRelease"
+				CleanCommandLine="python S:\Common\Script\BuildConfig\BuildConfig.py -c Dune CmdBake MswDirectXRelease"
+				Output="s:/Dune/Bin/MswDirectXRelease/CmdBake.exe"
+				PreprocessorDefinitions=""
+				IncludeSearchPath=""
+				ForcedIncludes=""
+				AssemblySearchPath=""
+				ForcedUsingAssemblies=""
+				CompileAsManaged=""
+			/>
+		</Configuration>
+	</Configurations>
+	<References>
+	</References>
+	<Files>
+	</Files>
+	<Globals>
+	</Globals>
+</VisualStudioProject>

@@ -1,0 +1,16 @@
+<Document>
+    <Project Name="Test2">
+        <Settings AssetPathCount="0" Description="" Name="">
+            <BakeOutputPath IsFilePath="0" Buffer=""/>
+            <AssetPath/>
+        </Settings>
+        <Uuid Uuid="0430b089-89dc-416f-a358-b036c75d7a79"/>
+        <BankTable BankCount="1">
+            <Bank>
+                <Uuid Uuid="458ff512-ee27-418f-af01-271c23bcbcf3"/>
+                <FilePath IsFilePath="0" Buffer="S:/Dune/TestProject/Default2.dbnk"/>
+            </Bank>
+        </BankTable>
+    </Project>
+    <ObjectTable/>
+</Document>

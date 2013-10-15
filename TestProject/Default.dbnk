@@ -1,0 +1,376 @@
+<Document>
+    <Bank Name="Default" BindedObjectCount="12" FirstFree="12">
+        <Buid Uuid="1b968b5c-34c3-48ac-b2ac-3b0d02b24abf"/>
+        <Entry Spin="0" Index="0">
+            <Ref Type="Dune::CWidget" Ouid="0"/>
+        </Entry>
+        <Entry Spin="0" Index="1">
+            <Ref Type="Dune::CWidgetFrame" Ouid="1"/>
+        </Entry>
+        <Entry Spin="0" Index="2">
+            <Ref Type="Dune::CWidgetFrame" Ouid="2"/>
+        </Entry>
+        <Entry Spin="0" Index="3">
+            <Ref Type="Dune::CWidgetFrame" Ouid="3"/>
+        </Entry>
+        <Entry Spin="0" Index="4">
+            <Ref Type="Dune::CWidgetFrame" Ouid="4"/>
+        </Entry>
+        <Entry Spin="0" Index="5">
+            <Ref Type="Dune::CLayoutHBox" Ouid="5"/>
+        </Entry>
+        <Entry Spin="0" Index="6">
+            <Ref Type="Dune::CLayoutVBox" Ouid="6"/>
+        </Entry>
+        <Entry Spin="0" Index="7">
+            <Ref Type="Dune::CWidgetFrame" Ouid="7"/>
+        </Entry>
+        <Entry Spin="0" Index="8">
+            <Ref Type="Dune::CWidgetFrame" Ouid="8"/>
+        </Entry>
+        <Entry Spin="0" Index="9">
+            <Ref Type="Dune::CAssetTexture2D" Ouid="9"/>
+        </Entry>
+        <Entry Spin="0" Index="10">
+            <Ref Type="Dune::CWidgetText" Ouid="10"/>
+        </Entry>
+        <Entry Spin="0" Index="11">
+            <Ref Type="Dune::CAssetFont" Ouid="11"/>
+        </Entry>
+    </Bank>
+    <ObjectTable>
+        <Object Type="Dune::CWidget" Ouid="0">
+            <Handle Spin="0" Buid="1b968b5c-34c3-48ac-b2ac-3b0d02b24abf" Index="0"/>
+            <Property Type="CPropertyEnum" Name="HSizePolicy" Value="0"/>
+            <Property Type="CPropertyEnum" Name="VSizePolicy" Value="0"/>
+            <Property Type="CPropertyVector2i" Name="StretchFactor">
+                <Value x="1" y="1"/>
+            </Property>
+            <Property Type="CPropertyHandle" Name="Layout">
+                <Value Spin="-1" Buid="00000000-0000-0000-0000-000000000000" Index="-1"/>
+            </Property>
+            <Property Type="CPropertyHandle" Name="Shader">
+                <Value Spin="-1" Buid="00000000-0000-0000-0000-000000000000" Index="-1"/>
+            </Property>
+            <Property Type="CPropertyInt32" Name="Depth" Value="0"/>
+            <Property Type="CPropertyVector2i" Name="Size">
+                <Value x="221" y="269"/>
+            </Property>
+            <Property Type="CPropertyVector2i" Name="Position">
+                <Value x="133" y="94"/>
+            </Property>
+            <Property Type="CPropertyHandle" Name="Parent">
+                <Value Spin="0" Buid="a8207652-25ae-4094-a851-5157e8345e6b" Index="0"/>
+            </Property>
+            <Property Type="CPropertyString" Name="Name" Value="UI Widget"/>
+        </Object>
+        <Object Type="Dune::CWidgetFrame" Ouid="1">
+            <Handle Spin="0" Buid="1b968b5c-34c3-48ac-b2ac-3b0d02b24abf" Index="1"/>
+            <Property Type="CPropertyVector2i" Name="TextureOrigin">
+                <Value x="0" y="0"/>
+            </Property>
+            <Property Type="CPropertyVector2i" Name="TextureSize">
+                <Value x="1" y="1"/>
+            </Property>
+            <Property Type="CPropertyColor" Name="Color">
+                <Value g="0" a="1" r="0" b="0"/>
+            </Property>
+            <Property Type="CPropertyHandle" Name="Texture">
+                <Value Spin="-1" Buid="00000000-0000-0000-0000-000000000000" Index="-1"/>
+            </Property>
+            <Property Type="CPropertyEnum" Name="HSizePolicy" Value="0"/>
+            <Property Type="CPropertyEnum" Name="VSizePolicy" Value="0"/>
+            <Property Type="CPropertyVector2i" Name="StretchFactor">
+                <Value x="1" y="1"/>
+            </Property>
+            <Property Type="CPropertyHandle" Name="Layout">
+                <Value Spin="0" Buid="1b968b5c-34c3-48ac-b2ac-3b0d02b24abf" Index="5"/>
+            </Property>
+            <Property Type="CPropertyHandle" Name="Shader">
+                <Value Spin="-1" Buid="00000000-0000-0000-0000-000000000000" Index="-1"/>
+            </Property>
+            <Property Type="CPropertyInt32" Name="Depth" Value="1"/>
+            <Property Type="CPropertyVector2i" Name="Size">
+                <Value x="429" y="234"/>
+            </Property>
+            <Property Type="CPropertyVector2i" Name="Position">
+                <Value x="209" y="58"/>
+            </Property>
+            <Property Type="CPropertyHandle" Name="Parent">
+                <Value Spin="0" Buid="1b968b5c-34c3-48ac-b2ac-3b0d02b24abf" Index="0"/>
+            </Property>
+            <Property Type="CPropertyString" Name="Name" Value="UI WindowPane"/>
+        </Object>
+        <Object Type="Dune::CWidgetFrame" Ouid="2">
+            <Handle Spin="0" Buid="1b968b5c-34c3-48ac-b2ac-3b0d02b24abf" Index="2"/>
+            <Property Type="CPropertyVector2i" Name="TextureOrigin">
+                <Value x="0" y="0"/>
+            </Property>
+            <Property Type="CPropertyVector2i" Name="TextureSize">
+                <Value x="1" y="1"/>
+            </Property>
+            <Property Type="CPropertyColor" Name="Color">
+                <Value g="0.439216" a="1" r="0.286274" b="0.505882"/>
+            </Property>
+            <Property Type="CPropertyHandle" Name="Texture">
+                <Value Spin="-1" Buid="00000000-0000-0000-0000-000000000000" Index="-1"/>
+            </Property>
+            <Property Type="CPropertyEnum" Name="HSizePolicy" Value="0"/>
+            <Property Type="CPropertyEnum" Name="VSizePolicy" Value="0"/>
+            <Property Type="CPropertyVector2i" Name="StretchFactor">
+                <Value x="1" y="1"/>
+            </Property>
+            <Property Type="CPropertyHandle" Name="Layout">
+                <Value Spin="0" Buid="1b968b5c-34c3-48ac-b2ac-3b0d02b24abf" Index="6"/>
+            </Property>
+            <Property Type="CPropertyHandle" Name="Shader">
+                <Value Spin="-1" Buid="00000000-0000-0000-0000-000000000000" Index="-1"/>
+            </Property>
+            <Property Type="CPropertyInt32" Name="Depth" Value="0"/>
+            <Property Type="CPropertyVector2i" Name="Size">
+                <Value x="281" y="207"/>
+            </Property>
+            <Property Type="CPropertyVector2i" Name="Position">
+                <Value x="-5" y="19"/>
+            </Property>
+            <Property Type="CPropertyHandle" Name="Parent">
+                <Value Spin="0" Buid="1b968b5c-34c3-48ac-b2ac-3b0d02b24abf" Index="0"/>
+            </Property>
+            <Property Type="CPropertyString" Name="Name" Value="UI WindowPane"/>
+        </Object>
+        <Object Type="Dune::CWidgetFrame" Ouid="3">
+            <Handle Spin="0" Buid="1b968b5c-34c3-48ac-b2ac-3b0d02b24abf" Index="3"/>
+            <Property Type="CPropertyVector2i" Name="TextureOrigin">
+                <Value x="0" y="0"/>
+            </Property>
+            <Property Type="CPropertyVector2i" Name="TextureSize">
+                <Value x="1" y="1"/>
+            </Property>
+            <Property Type="CPropertyColor" Name="Color">
+                <Value g="0.427451" a="1" r="0.298039" b="0.4"/>
+            </Property>
+            <Property Type="CPropertyHandle" Name="Texture">
+                <Value Spin="0" Buid="1b968b5c-34c3-48ac-b2ac-3b0d02b24abf" Index="9"/>
+            </Property>
+            <Property Type="CPropertyEnum" Name="HSizePolicy" Value="0"/>
+            <Property Type="CPropertyEnum" Name="VSizePolicy" Value="0"/>
+            <Property Type="CPropertyVector2i" Name="StretchFactor">
+                <Value x="1" y="1"/>
+            </Property>
+            <Property Type="CPropertyHandle" Name="Layout">
+                <Value Spin="-1" Buid="00000000-0000-0000-0000-000000000000" Index="-1"/>
+            </Property>
+            <Property Type="CPropertyHandle" Name="Shader">
+                <Value Spin="-1" Buid="00000000-0000-0000-0000-000000000000" Index="-1"/>
+            </Property>
+            <Property Type="CPropertyInt32" Name="Depth" Value="3"/>
+            <Property Type="CPropertyVector2i" Name="Size">
+                <Value x="41" y="50"/>
+            </Property>
+            <Property Type="CPropertyVector2i" Name="Position">
+                <Value x="35" y="39"/>
+            </Property>
+            <Property Type="CPropertyHandle" Name="Parent">
+                <Value Spin="0" Buid="1b968b5c-34c3-48ac-b2ac-3b0d02b24abf" Index="5"/>
+            </Property>
+            <Property Type="CPropertyString" Name="Name" Value="UI WindowPane"/>
+        </Object>
+        <Object Type="Dune::CWidgetFrame" Ouid="4">
+            <Handle Spin="0" Buid="1b968b5c-34c3-48ac-b2ac-3b0d02b24abf" Index="4"/>
+            <Property Type="CPropertyVector2i" Name="TextureOrigin">
+                <Value x="0" y="0"/>
+            </Property>
+            <Property Type="CPropertyVector2i" Name="TextureSize">
+                <Value x="20" y="20"/>
+            </Property>
+            <Property Type="CPropertyColor" Name="Color">
+                <Value g="0.65098" a="1" r="0.286274" b="0.309804"/>
+            </Property>
+            <Property Type="CPropertyHandle" Name="Texture">
+                <Value Spin="0" Buid="1b968b5c-34c3-48ac-b2ac-3b0d02b24abf" Index="9"/>
+            </Property>
+            <Property Type="CPropertyEnum" Name="HSizePolicy" Value="0"/>
+            <Property Type="CPropertyEnum" Name="VSizePolicy" Value="0"/>
+            <Property Type="CPropertyVector2i" Name="StretchFactor">
+                <Value x="1" y="1"/>
+            </Property>
+            <Property Type="CPropertyHandle" Name="Layout">
+                <Value Spin="-1" Buid="00000000-0000-0000-0000-000000000000" Index="-1"/>
+            </Property>
+            <Property Type="CPropertyHandle" Name="Shader">
+                <Value Spin="-1" Buid="00000000-0000-0000-0000-000000000000" Index="-1"/>
+            </Property>
+            <Property Type="CPropertyInt32" Name="Depth" Value="3"/>
+            <Property Type="CPropertyVector2i" Name="Size">
+                <Value x="156" y="66"/>
+            </Property>
+            <Property Type="CPropertyVector2i" Name="Position">
+                <Value x="35" y="124"/>
+            </Property>
+            <Property Type="CPropertyHandle" Name="Parent">
+                <Value Spin="0" Buid="1b968b5c-34c3-48ac-b2ac-3b0d02b24abf" Index="5"/>
+            </Property>
+            <Property Type="CPropertyString" Name="Name" Value="UI WindowPane"/>
+        </Object>
+        <Object Type="Dune::CLayoutHBox" Ouid="5">
+            <Handle Spin="0" Buid="1b968b5c-34c3-48ac-b2ac-3b0d02b24abf" Index="5"/>
+            <Property Type="CPropertyEnum" Name="HSizePolicy" Value="0"/>
+            <Property Type="CPropertyEnum" Name="VSizePolicy" Value="0"/>
+            <Property Type="CPropertyVector2i" Name="Size">
+                <Value x="0" y="0"/>
+            </Property>
+            <Property Type="CPropertyVector2i" Name="StretchFactor">
+                <Value x="1" y="1"/>
+            </Property>
+            <Property Type="CPropertyHandle" Name="Parent">
+                <Value Spin="0" Buid="1b968b5c-34c3-48ac-b2ac-3b0d02b24abf" Index="1"/>
+            </Property>
+            <Property Type="CPropertyString" Name="Name" Value="LayoutHBox"/>
+        </Object>
+        <Object Type="Dune::CLayoutVBox" Ouid="6">
+            <Handle Spin="0" Buid="1b968b5c-34c3-48ac-b2ac-3b0d02b24abf" Index="6"/>
+            <Property Type="CPropertyEnum" Name="HSizePolicy" Value="0"/>
+            <Property Type="CPropertyEnum" Name="VSizePolicy" Value="0"/>
+            <Property Type="CPropertyVector2i" Name="Size">
+                <Value x="0" y="0"/>
+            </Property>
+            <Property Type="CPropertyVector2i" Name="StretchFactor">
+                <Value x="1" y="1"/>
+            </Property>
+            <Property Type="CPropertyHandle" Name="Parent">
+                <Value Spin="0" Buid="1b968b5c-34c3-48ac-b2ac-3b0d02b24abf" Index="2"/>
+            </Property>
+            <Property Type="CPropertyString" Name="Name" Value="LayoutVBox"/>
+        </Object>
+        <Object Type="Dune::CWidgetFrame" Ouid="7">
+            <Handle Spin="0" Buid="1b968b5c-34c3-48ac-b2ac-3b0d02b24abf" Index="7"/>
+            <Property Type="CPropertyVector2i" Name="TextureOrigin">
+                <Value x="0" y="0"/>
+            </Property>
+            <Property Type="CPropertyVector2i" Name="TextureSize">
+                <Value x="1" y="1"/>
+            </Property>
+            <Property Type="CPropertyColor" Name="Color">
+                <Value g="1" a="1" r="0.756863" b="0.388235"/>
+            </Property>
+            <Property Type="CPropertyHandle" Name="Texture">
+                <Value Spin="-1" Buid="00000000-0000-0000-0000-000000000000" Index="-1"/>
+            </Property>
+            <Property Type="CPropertyEnum" Name="HSizePolicy" Value="0"/>
+            <Property Type="CPropertyEnum" Name="VSizePolicy" Value="0"/>
+            <Property Type="CPropertyVector2i" Name="StretchFactor">
+                <Value x="1" y="1"/>
+            </Property>
+            <Property Type="CPropertyHandle" Name="Layout">
+                <Value Spin="-1" Buid="00000000-0000-0000-0000-000000000000" Index="-1"/>
+            </Property>
+            <Property Type="CPropertyHandle" Name="Shader">
+                <Value Spin="-1" Buid="00000000-0000-0000-0000-000000000000" Index="-1"/>
+            </Property>
+            <Property Type="CPropertyInt32" Name="Depth" Value="2"/>
+            <Property Type="CPropertyVector2i" Name="Size">
+                <Value x="128" y="128"/>
+            </Property>
+            <Property Type="CPropertyVector2i" Name="Position">
+                <Value x="0" y="0"/>
+            </Property>
+            <Property Type="CPropertyHandle" Name="Parent">
+                <Value Spin="0" Buid="1b968b5c-34c3-48ac-b2ac-3b0d02b24abf" Index="6"/>
+            </Property>
+            <Property Type="CPropertyString" Name="Name" Value="UI WindowPane"/>
+        </Object>
+        <Object Type="Dune::CWidgetFrame" Ouid="8">
+            <Handle Spin="0" Buid="1b968b5c-34c3-48ac-b2ac-3b0d02b24abf" Index="8"/>
+            <Property Type="CPropertyVector2i" Name="TextureOrigin">
+                <Value x="0" y="0"/>
+            </Property>
+            <Property Type="CPropertyVector2i" Name="TextureSize">
+                <Value x="1" y="1"/>
+            </Property>
+            <Property Type="CPropertyColor" Name="Color">
+                <Value g="0.552941" a="1" r="0.184314" b="0.270588"/>
+            </Property>
+            <Property Type="CPropertyHandle" Name="Texture">
+                <Value Spin="-1" Buid="00000000-0000-0000-0000-000000000000" Index="-1"/>
+            </Property>
+            <Property Type="CPropertyEnum" Name="HSizePolicy" Value="0"/>
+            <Property Type="CPropertyEnum" Name="VSizePolicy" Value="0"/>
+            <Property Type="CPropertyVector2i" Name="StretchFactor">
+                <Value x="1" y="1"/>
+            </Property>
+            <Property Type="CPropertyHandle" Name="Layout">
+                <Value Spin="-1" Buid="00000000-0000-0000-0000-000000000000" Index="-1"/>
+            </Property>
+            <Property Type="CPropertyHandle" Name="Shader">
+                <Value Spin="-1" Buid="00000000-0000-0000-0000-000000000000" Index="-1"/>
+            </Property>
+            <Property Type="CPropertyInt32" Name="Depth" Value="2"/>
+            <Property Type="CPropertyVector2i" Name="Size">
+                <Value x="128" y="128"/>
+            </Property>
+            <Property Type="CPropertyVector2i" Name="Position">
+                <Value x="0" y="0"/>
+            </Property>
+            <Property Type="CPropertyHandle" Name="Parent">
+                <Value Spin="0" Buid="1b968b5c-34c3-48ac-b2ac-3b0d02b24abf" Index="6"/>
+            </Property>
+            <Property Type="CPropertyString" Name="Name" Value="UI WindowPane"/>
+        </Object>
+        <Object Type="Dune::CAssetTexture2D" Ouid="9">
+            <Handle Spin="0" Buid="1b968b5c-34c3-48ac-b2ac-3b0d02b24abf" Index="9"/>
+            <Property Type="CPropertyInt32" Name="MipMapCount" Value="1"/>
+            <Property Type="CPropertyVector2i" Name="Size">
+                <Value x="256" y="256"/>
+            </Property>
+            <Property Type="CPropertyFilePath" Name="FilePath" Value="S:/Sable/Data/Texture/Particle.dds"/>
+            <Property Type="CPropertyHandle" Name="Parent">
+                <Value Spin="0" Buid="a8207652-25ae-4094-a851-5157e8345e6b" Index="1"/>
+            </Property>
+            <Property Type="CPropertyString" Name="Name" Value="Texture"/>
+        </Object>
+        <Object Type="Dune::CWidgetText" Ouid="10">
+            <Handle Spin="0" Buid="1b968b5c-34c3-48ac-b2ac-3b0d02b24abf" Index="10"/>
+            <Property Type="CPropertyEnum" Name="HAlign" Value="0"/>
+            <Property Type="CPropertyEnum" Name="VAlign" Value="0"/>
+            <Property Type="CPropertyInt32" Name="Capacity" Value="128"/>
+            <Property Type="CPropertyFloat32" Name="FontSize" Value="1"/>
+            <Property Type="CPropertyHandle" Name="Font">
+                <Value Spin="0" Buid="1b968b5c-34c3-48ac-b2ac-3b0d02b24abf" Index="11"/>
+            </Property>
+            <Property Type="CPropertyColor" Name="Color">
+                <Value g="1" a="1" r="0.458824" b="0.984314"/>
+            </Property>
+            <Property Type="CPropertyString" Name="Text" Value="AAA&#xa;BBBddddd&#xa;CVV&#xa;&#xa;--------------------"/>
+            <Property Type="CPropertyEnum" Name="HSizePolicy" Value="0"/>
+            <Property Type="CPropertyEnum" Name="VSizePolicy" Value="0"/>
+            <Property Type="CPropertyVector2i" Name="StretchFactor">
+                <Value x="1" y="1"/>
+            </Property>
+            <Property Type="CPropertyHandle" Name="Layout">
+                <Value Spin="-1" Buid="00000000-0000-0000-0000-000000000000" Index="-1"/>
+            </Property>
+            <Property Type="CPropertyHandle" Name="Shader">
+                <Value Spin="-1" Buid="00000000-0000-0000-0000-000000000000" Index="-1"/>
+            </Property>
+            <Property Type="CPropertyInt32" Name="Depth" Value="3"/>
+            <Property Type="CPropertyVector2i" Name="Size">
+                <Value x="204" y="208"/>
+            </Property>
+            <Property Type="CPropertyVector2i" Name="Position">
+                <Value x="24" y="20"/>
+            </Property>
+            <Property Type="CPropertyHandle" Name="Parent">
+                <Value Spin="0" Buid="1b968b5c-34c3-48ac-b2ac-3b0d02b24abf" Index="2"/>
+            </Property>
+            <Property Type="CPropertyString" Name="Name" Value="UI TextField"/>
+        </Object>
+        <Object Type="Dune::CAssetFont" Ouid="11">
+            <Handle Spin="0" Buid="1b968b5c-34c3-48ac-b2ac-3b0d02b24abf" Index="11"/>
+            <Property Type="CPropertyFilePath" Name="FilePath" Value="S:/Sable/Data/Font/Default.dfnt"/>
+            <Property Type="CPropertyHandle" Name="Parent">
+                <Value Spin="0" Buid="a8207652-25ae-4094-a851-5157e8345e6b" Index="1"/>
+            </Property>
+            <Property Type="CPropertyString" Name="Name" Value="Font"/>
+        </Object>
+    </ObjectTable>
+</Document>
