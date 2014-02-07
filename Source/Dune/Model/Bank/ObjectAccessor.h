@@ -1,8 +1,8 @@
 #ifndef _DUNE_MODEL_BANK_OBJECTACCESSOR_
 #define _DUNE_MODEL_BANK_OBJECTACCESSOR_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\ManagedObject\ManagedObject.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/ManagedObject/ManagedObject.h>
 
 namespace Dune
 {

@@ -1,8 +1,8 @@
 #ifndef _DUNE_COMMON_LOG_
 #define _DUNE_COMMON_LOG_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\Log\Handler.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/Log/Handler.h>
 
 
 

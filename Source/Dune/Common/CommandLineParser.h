@@ -1,11 +1,11 @@
 #ifndef _DUNE_COMMON_COMMANDLINEPARSER_
 #define _DUNE_COMMON_COMMANDLINEPARSER_
 
-#include <Sable\Core\Common\DataTypes.h>
+#include <Sable/Core/Common/DataTypes.h>
 
-#include <QtCore\QString>
-#include <QtCore\QStringList>
-#include <QtCore\QList>
+#include <QtCore/QString>
+#include <QtCore/QStringList>
+#include <QtCore/QList>
 
 namespace Dune
 {

@@ -1,6 +1,6 @@
-#include <Dune\Common\CommandLineParser.h>
+#include <Dune/Common/CommandLineParser.h>
 
-#include <QtCore\QRegExp>
+#include <QtCore/QRegExp>
 
 using namespace Dune;
 

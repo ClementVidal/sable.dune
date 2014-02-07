@@ -1,9 +1,9 @@
 #ifndef _DUNE_COMMON_OBJLOADER_
 #define _DUNE_COMMON_OBJLOADER_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\String\StaticString.h>
-#include <Sable\Core\Common\IODevice.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/String/StaticString.h>
+#include <Sable/Core/Common/IODevice.h>
 
 namespace Dune
 {

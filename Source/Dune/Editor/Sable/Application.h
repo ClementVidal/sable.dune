@@ -1,14 +1,14 @@
 #ifndef _DUNE_APPLICATION_DUNE_
 #define _DUNE_APPLICATION_DUNE_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Application\Application.h>
-#include <Sable\Core\Common\Manager.h>
-#include <Sable\Graphics\Common\Manager.h>
-#include <Sable\Input\Common\Manager.h>
-#include <Sable\Core\Event\Header.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Application/Application.h>
+#include <Sable/Core/Common/Manager.h>
+#include <Sable/Graphics/Common/Manager.h>
+#include <Sable/Input/Common/Manager.h>
+#include <Sable/Core/Event/Header.h>
 
-#include <Dune\Common\Log.h>
+#include <Dune/Common/Log.h>
 
 namespace Dune
 {

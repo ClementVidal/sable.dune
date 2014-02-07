@@ -1,10 +1,10 @@
 #ifndef _DUNE_COMMON_LEXICALCAST_
 #define _DUNE_COMMON_LEXICALCAST_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\String\String.h>
-#include <Sable\Core\String\StaticString.h>
-#include <Sable\Core\Collection\Array.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/String/String.h>
+#include <Sable/Core/String/StaticString.h>
+#include <Sable/Core/Collection/Array.h>
 
 namespace Sable
 {

@@ -1,19 +1,19 @@
 #ifndef _DUNE_PROPERTY_PROPERTY_
 #define _DUNE_PROPERTY_PROPERTY_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\Common\Color.h>
-#include <Sable\Core\File\FilePath.h>
-#include <Sable\Core\Collection\Array.h>
-#include <Sable\Core\String\StaticString.h>
-#include <Sable\Core\Math\Vector3f.h>
-#include <Sable\Core\Math\Vector2i.h>
-#include <Sable\Core\Math\Vector2f.h>
-#include <Sable\Core\Math\Matrix4x4f.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/Common/Color.h>
+#include <Sable/Core/File/FilePath.h>
+#include <Sable/Core/Collection/Array.h>
+#include <Sable/Core/String/StaticString.h>
+#include <Sable/Core/Math/Vector3f.h>
+#include <Sable/Core/Math/Vector2i.h>
+#include <Sable/Core/Math/Vector2f.h>
+#include <Sable/Core/Math/Matrix4x4f.h>
 
-#include <Dune\Model\Property\Concrete.h>
-#include <Dune\Model\Property\Macro.h>
-#include <Dune\Model\Bank\Bank.h>
+#include <Dune/Model/Property/Concrete.h>
+#include <Dune/Model/Property/Macro.h>
+#include <Dune/Model/Bank/Bank.h>
 
 
 namespace Dune

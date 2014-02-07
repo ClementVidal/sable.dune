@@ -1,12 +1,12 @@
 #ifndef _DUNE_BAKE_DEPENDENCYSOLVER_
 #define _DUNE_BAKE_DEPENDENCYSOLVER_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\Collection\List.h>
-#include <Sable\Core\Collection\Array.h>
-#include <Sable\Core\Collection\Map.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/Collection/List.h>
+#include <Sable/Core/Collection/Array.h>
+#include <Sable/Core/Collection/Map.h>
 
-#include <Dune\Model\Bank\ObjectAccessor.h>
+#include <Dune/Model/Bank/ObjectAccessor.h>
 
 namespace Dune
 {

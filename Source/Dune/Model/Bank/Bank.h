@@ -1,13 +1,13 @@
 #ifndef _DUNE_MODEL_BANK_REPO_
 #define _DUNE_MODEL_BANK_REPO_
 
-#include <Sable\Core\Collection\Array.h>
-#include <Sable\Core\Collection\Map.h>
-#include <Sable\Core\ManagedObject\Ref.h>
-#include <Sable\Core\Event\Signal.h>
+#include <Sable/Core/Collection/Array.h>
+#include <Sable/Core/Collection/Map.h>
+#include <Sable/Core/ManagedObject/Ref.h>
+#include <Sable/Core/Event/Signal.h>
 
-#include <Dune\Model\Bank\ObjectAccessor.h>
-#include <Dune\Common\Uuid.h>
+#include <Dune/Model/Bank/ObjectAccessor.h>
+#include <Dune/Common/Uuid.h>
 
 #define CastRepoObject( obj, type ) (*(type*)&(obj))
 

@@ -1,8 +1,8 @@
-#include <Dune\Model\Asset\StatesBlend.h>
+#include <Dune/Model/Asset/StatesBlend.h>
 
-#include <Dune\Model\Project\Project.h>
+#include <Dune/Model/Project/Project.h>
 
-#include <Sable\Graphics\Common\DataTypes.h>
+#include <Sable/Graphics/Common/DataTypes.h>
 
 using namespace Dune;
 

@@ -1,7 +1,7 @@
-#include <Dune\Bake\DependencySolver.h>
+#include <Dune/Bake/DependencySolver.h>
 
-#include <Dune\Model\Bank\Header.h>
-#include <Dune\Model\Project\Project.h>
+#include <Dune/Model/Bank/Header.h>
+#include <Dune/Model/Project/Project.h>
 
 using namespace Dune;
 

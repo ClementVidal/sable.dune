@@ -1,10 +1,10 @@
 #ifndef _DUNE_PROPERTY_INTERFACE_
 #define _DUNE_PROPERTY_INTERFACE_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\String\String.h>
-#include <Sable\Core\Collection\List.h>
-#include <Sable\Core\Event\Signal.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/String/String.h>
+#include <Sable/Core/Collection/List.h>
+#include <Sable/Core/Event/Signal.h>
 
 #define CastProperty( prop, type ) ((type*)&prop)
 

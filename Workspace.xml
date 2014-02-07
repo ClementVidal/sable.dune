@@ -1,190 +1,171 @@
 <Workspace Name="Dune">
 
-    <!-- 
-    Build options 
-    -->
-    
-    <!-- 
-    Win32 specifics options 
-    -->
-    <BuildOptions Name="Win32Common" >
-        
-        <IncludePath>
-            ${__FBX__}/include
-            S:/Dune/Source/
-        </IncludePath>
-        
-        <LibPath>
-        </LibPath>
-        
-        <Libs>      
-            Advapi32.lib   
-        </Libs>
-            
-        <CompilerFlags>   
-            /DFBXSDK_NEW_API
-        </CompilerFlags>
-        
-        <LinkerFlags>
-            /INCREMENTAL:NO /DYNAMICBASE:NO /nologo /MANIFEST 
-        </LinkerFlags>
-            
-    </BuildOptions>
-    
-    <BuildOptions Name="Win32Debug" >
-          <LibPath>
-            ${__FBX__}/lib/vs${__MsvcYear__}/x86/Debug
-        </LibPath>
-        
-        <Libs>      
-            libfbxsdk.lib  
-        </Libs>
-    </BuildOptions>
-    
-    <BuildOptions Name="Win32Release" >
-          <LibPath>
-            ${__FBX__}/lib/vs${__MsvcYear__}/x86/Release
-        </LibPath>
-        
-        <Libs>      
-            libfbxsdk.lib  
-        </Libs>
-    </BuildOptions>
-    
-    <!-- 
-    Cmdbake specifics options 
-    -->
-    <BuildOptions Name="CmdBakeRelease" >
-    </BuildOptions>
-    
-    <BuildOptions Name="CmdBakeDebug" >
-    </BuildOptions>
-    
-    <BuildOptions Name="CmdBakeCommon" >        
-        <IncludePath>
-            ${__Qt__}/Include
-        </IncludePath>
-        <LibPath>
-            ${__Qt__}/lib 
-        </LibPath>
-        <LinkerFlags>
-            /SUBSYSTEM:CONSOLE                
-        </LinkerFlags>
-        <Libs>       
-            qtcore4.lib qtgui4.lib qtxml4.lib
-        </Libs>        
-    </BuildOptions>
-    
-    <!-- 
-    Editor specifics options 
-    -->
-    <BuildOptions Name="EditorRelease" >
-        <Libs>       
-            qtcore4.lib qtgui4.lib qtxml4.lib
-        </Libs>
-    </BuildOptions>
-    
-    <BuildOptions Name="EditorDebug" >
-        <Libs>       
-            qtcored4.lib qtguid4.lib qtxmld4.lib   
-        </Libs>
-    </BuildOptions>
-    
-    <BuildOptions Name="EditorCommon" >
-        <IncludePath>
-            ${__Qt__}/Include
-        </IncludePath>
+	<!-- Build options -->
+	<BuildOptions Name="Common">
+		<IncludePath>
+			${__ROOTDIR__}/Dune/Source/
+		</IncludePath>
 
-        <LibPath>
-            ${__Qt__}/lib 
-        </LibPath>
-        
-        <LinkerFlags>
-            /SUBSYSTEM:WINDOWS               
-        </LinkerFlags>
-    </BuildOptions>
-    
-   
-    <!-- 
-    Projects descriptions 
-    -->
-    
-    <!-- 
-    CmdBake descriptions 
-    -->
-    <Project Name="CmdBake" BuildType="Program">
-            
-        <BuildConfig Name="MswDirectXDebug" ImplTypes="Msw DirectX" ToolChain="Win32">
-        
-            <Dependency Workspace="Sable" Project="Sable" BuildConfig="MswDirectXDebug"/>
-            
-            <CodePackage Path="S:/Dune/Source/Dune/Command/Bake" IsAgregated="False"/>  
-            <CodePackage Path="S:/Dune/Source/Dune/Model/" />
-            <CodePackage Path="S:/Dune/Source/Dune/Common/" />
-            <CodePackage Path="S:/Dune/Source/Dune/Bake/" />
-            
-            <BuildOptions Name="Win32Common" />
-            <BuildOptions Name="Win32Debug" />
-            <BuildOptions Name="CmdBakeCommon" />
-            <BuildOptions Name="CmdBakeDebug" />
-            
-        </BuildConfig>
-        
-        <BuildConfig Name="MswDirectXRelease" ImplTypes="Msw DirectX" ToolChain="Win32">
-        
-            <Dependency Workspace="Sable" Project="Sable" BuildConfig="MswDirectXRelease"/>
-            
-            <CodePackage Path="S:/Dune/Source/Dune/Command/Bake" IsAgregated="False"/>   
-            <CodePackage Path="S:/Dune/Source/Dune/Model/" />
-            <CodePackage Path="S:/Dune/Source/Dune/Common/" />
-            <CodePackage Path="S:/Dune/Source/Dune/Bake/" />
-            
-            <BuildOptions Name="Win32Common" />
-            <BuildOptions Name="Win32Release" />
-            <BuildOptions Name="CmdBakeCommon" />
-            <BuildOptions Name="CmdBakeRelease" />
-            
-        </BuildConfig>
-        
-    </Project>
-    
-    <!-- 
-    Editor descriptions 
-    -->
-    <Project Name="Editor" BuildType="Program">
-            
-        <BuildConfig Name="MswDirectXDebug" ImplTypes="Msw DirectX" ToolChain="Win32">
-        
-            <Dependency Workspace="Sable" Project="Sable" BuildConfig="MswDirectXDebug"/>
-        
-            <CodePackage Path="S:/Dune/Source/Dune/Editor/" />    
-            <CodePackage Path="S:/Dune/Source/Dune/Model/" />
-            <CodePackage Path="S:/Dune/Source/Dune/Common/" />
-            <CodePackage Path="S:/Dune/Source/Dune/Bake/" />
+		<CompilerFlags>
+			
+		</CompilerFlags>
+	</BuildOptions>
+	
+	<!-- Win32 specifics options -->
+	<BuildOptions Name="Win32Common">
+		<IncludePath>
+			${__FBX__}/include
+			${__ROOTDIR__}/Dune/Source/
+		</IncludePath>
 
-            <BuildOptions Name="Win32Common" />
-            <BuildOptions Name="Win32Debug" />
-            <BuildOptions Name="EditorCommon" />
-            <BuildOptions Name="EditorDebug" />
-            
-        </BuildConfig>
+		<LibPath>
+		</LibPath>
 
-        <BuildConfig Name="MswDirectXRelease" ImplTypes="Msw DirectX" ToolChain="Win32">
-        
-            <Dependency Workspace="Sable" Project="Sable" BuildConfig="MswDirectXRelease"/>
-            
-            <CodePackage Path="S:/Dune/Source/Dune/Editor/" />  
-            <CodePackage Path="S:/Dune/Source/Dune/Model/" />
-            <CodePackage Path="S:/Dune/Source/Dune/Common/" />
-            <CodePackage Path="S:/Dune/Source/Dune/Bake/" />
-            
-            <BuildOptions Name="Win32Common" />
-            <BuildOptions Name="Win32Release" />
-            <BuildOptions Name="EditorCommon" />
-            <BuildOptions Name="EditorRelease" />
-            
-        </BuildConfig>
-        
-    </Project>
-    
+		<Libs>
+			Advapi32.lib
+		</Libs>
+
+		<CompilerFlags>
+			/DFBXSDK_NEW_API
+		</CompilerFlags>
+
+		<LinkerFlags>
+			/INCREMENTAL:NO /DYNAMICBASE:NO /nologo /MANIFEST
+		</LinkerFlags>
+	</BuildOptions>
+
+	<BuildOptions Name="Win32Debug">
+		<LibPath>
+			${__FBX__}/lib/vs${__MsvcYear__}/x86/Debug
+		</LibPath>
+
+		<Libs>
+			libfbxsdk.lib
+		</Libs>
+	</BuildOptions>
+
+	<BuildOptions Name="Win32Release">
+		<LibPath>
+			${__FBX__}/lib/vs${__MsvcYear__}/x86/Release
+		</LibPath>
+
+		<Libs>
+			libfbxsdk.lib
+		</Libs>
+	</BuildOptions>
+
+	<!-- Cmdbake specifics options -->
+	<BuildOptions Name="CmdBakeRelease">
+	</BuildOptions>
+
+	<BuildOptions Name="CmdBakeDebug">
+	</BuildOptions>
+
+	<BuildOptions Name="CmdBakeCommon">
+		<IncludePath>
+			${__Qt__}/Include
+		</IncludePath>
+		<LibPath>
+			${__Qt__}/lib
+		</LibPath>
+		<LinkerFlags>
+			/SUBSYSTEM:CONSOLE
+		</LinkerFlags>
+		<Libs>
+			qtcore4.lib qtgui4.lib qtxml4.lib
+		</Libs>
+	</BuildOptions>
+
+	<!-- Editor specifics options -->
+	<BuildOptions Name="EditorRelease">
+		<Libs>
+			qtcore4.lib qtgui4.lib qtxml4.lib
+		</Libs>
+	</BuildOptions>
+
+	<BuildOptions Name="EditorDebug">
+		<Libs>
+			qtcored4.lib qtguid4.lib qtxmld4.lib
+		</Libs>
+	</BuildOptions>
+
+	<BuildOptions Name="EditorCommon">
+		<IncludePath>
+			${__Qt__}/Include
+		</IncludePath>
+
+		<LibPath>
+			${__Qt__}/lib
+		</LibPath>
+
+		<LinkerFlags>
+			/SUBSYSTEM:WINDOWS
+		</LinkerFlags>
+	</BuildOptions>
+
+
+	<!-- Projects descriptions -->
+
+	<!-- CmdBake descriptions -->
+	<Project Name="CmdBake" BuildType="Program">
+
+		<BuildConfig Name="MswDirectXDebug" ImplTypes="Msw DirectX"
+			ToolChain="Win32">
+
+			<Dependency Workspace="Sable" Project="Sable" BuildConfig="MswDirectXDebug" />
+
+			<CodePackage Path="S:/Dune/Source/Dune/Command/Bake"
+				IsAgregated="False" />
+			<CodePackage Path="S:/Dune/Source/Dune/Model/" />
+			<CodePackage Path="S:/Dune/Source/Dune/Common/" />
+			<CodePackage Path="S:/Dune/Source/Dune/Bake/" />
+
+			<BuildOptions Name="Win32Common Win32Debug CmdBakeCommon CmdBakeDebug" />
+		</BuildConfig>
+
+		<BuildConfig Name="MswDirectXRelease" ImplTypes="Msw DirectX"
+			ToolChain="Win32">
+
+			<Dependency Workspace="Sable" Project="Sable" BuildConfig="MswDirectXRelease" />
+
+			<CodePackage Path="S:/Dune/Source/Dune/Command/Bake" IsAgregated="False" />
+			<CodePackage Path="S:/Dune/Source/Dune/Model/" />
+			<CodePackage Path="S:/Dune/Source/Dune/Common/" />
+			<CodePackage Path="S:/Dune/Source/Dune/Bake/" />
+
+			<BuildOptions Name="CmdBakeCommon CmdBakeRelease Win32Release Win32Common" />
+		</BuildConfig>
+
+	</Project>
+
+	<!-- Editor descriptions -->
+	<Project Name="Editor" BuildType="Program">
+Sable/Samples/Source/EmptyApplication/
+		<CodePackageSet Name="Common">
+			<CodePackage Path="/Dune/Source/Dune/Editor/" />
+			<CodePackage Path="/Dune/Source/Dune/Model/" />
+			<CodePackage Path="/Dune/Source/Dune/Common/" />
+			<CodePackage Path="/Dune/Source/Dune/Bake/" />
+		</CodePackageSet>
+
+		<BuildConfig Name="MswDirectXDebug" ImplTypes="Msw DirectX" ToolChain="Win32">
+			<Dependency Workspace="Sable" Project="Sable" BuildConfig="MswDirectXDebug" />
+			<CodePackageSet Name="Common" />
+			<BuildOptions Name="Win32Common Win32Debug EditorCommon EditorDebug" />
+		</BuildConfig>
+
+		<BuildConfig Name="MswDirectXRelease" ImplTypes="Msw DirectX" ToolChain="Win32">
+			<Dependency Workspace="Sable" Project="Sable" BuildConfig="MswDirectXRelease" />
+			<CodePackageSet Name="Common" />
+			<BuildOptions Name="Win32Common Win32Release EditorCommon EditorRelease" />
+		</BuildConfig>
+
+		<BuildConfig Name="GCCGlesDebug" ImplTypes="Linux" ToolChain="GCC">
+			<Dependency Workspace="Sable" Project="Sable" BuildConfig="GCCGlesDebug" />
+			<CodePackageSet Name="Common" />
+			<BuildOptions Name="Common" />
+		</BuildConfig>
+		
+	</Project>
+
 </Workspace>

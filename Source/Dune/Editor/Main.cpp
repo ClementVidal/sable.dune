@@ -1,7 +1,7 @@
-#include <Dune\Editor\Application\Application.h>
+#include <Dune/Editor/Application/Application.h>
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Dune\Common\ObjLoader.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Dune/Common/ObjLoader.h>
 
 #include <Shellapi.h>
 

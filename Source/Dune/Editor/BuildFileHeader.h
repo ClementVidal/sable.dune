@@ -1,7 +1,7 @@
 #ifndef _SABLE_EDITOR_BUILDFILEHEADER_
 #define _SABLE_EDITOR_BUILDFILEHEADER_
 
-#include <Sable\Setup.h>
+#include <Sable/Setup.h>
 
 namespace Sb = Sable;
 
@@ -24,8 +24,8 @@ namespace Sb = Sable;
 
 #if defined( SETUP_IMPLTYPE_GLES )
 
-#include <EGL\egl.h>
-#include <GLES2\gl2.h>
+#include <EGL/egl.h>
+#include <GLES2/gl2.h>
 
 #endif
 

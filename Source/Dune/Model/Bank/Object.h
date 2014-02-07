@@ -1,14 +1,14 @@
 #ifndef _DUNE_MODEL_BANK_OBJECT_
 #define _DUNE_MODEL_BANK_OBJECT_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\ManagedObject\ManagedObject.h>
-#include <Sable\Core\Event\Header.h>
-#include <Sable\Core\Collection\List.h>
-#include <Sable\Core\Collection\Map.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/ManagedObject/ManagedObject.h>
+#include <Sable/Core/Event/Header.h>
+#include <Sable/Core/Collection/List.h>
+#include <Sable/Core/Collection/Map.h>
 
-#include <Dune\Model\Bank\Handle.h>
-#include <Dune\Model\Bank\Bank.h>
+#include <Dune/Model/Bank/Handle.h>
+#include <Dune/Model/Bank/Bank.h>
 
 namespace Sable
 {

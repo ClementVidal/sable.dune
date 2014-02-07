@@ -1,7 +1,7 @@
 #ifndef _DUNE_MODEL_BANK_HANDLE_
 #define _DUNE_MODEL_BANK_HANDLE_
 
-#include <Dune\Common\Uuid.h>
+#include <Dune/Common/Uuid.h>
 
 namespace Sable
 {

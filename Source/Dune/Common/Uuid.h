@@ -1,8 +1,8 @@
 #ifndef _DUNE_COMMON_UUID_
 #define _DUNE_COMMON_UUID_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\String\StaticString.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/String/StaticString.h>
 
 #define _UUID_BYTE_SIZE_ 16
 #define _UUID_STRING_SIZE_ 37

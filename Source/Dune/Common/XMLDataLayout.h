@@ -1,12 +1,12 @@
 #ifndef _DUNE_COMMON_XMLDATALAYOUT_
 #define _DUNE_COMMON_XMLDATALAYOUT_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\Persistent\DataLayout.h>
-#include <Sable\Core\Collection\Stack.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/Persistent/DataLayout.h>
+#include <Sable/Core/Collection/Stack.h>
 
-#include <QtXml\QDomElement>
-#include <QtXml\QDomDocument>
+#include <QtXml/QDomElement>
+#include <QtXml/QDomDocument>
 
 namespace Sable
 {

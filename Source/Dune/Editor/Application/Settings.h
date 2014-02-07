@@ -1,10 +1,10 @@
 #ifndef _DUNE_APPLICATION_SETTINGS_
 #define _DUNE_APPLICATION_SETTINGS_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\String\StaticString.h>
-#include <Sable\Core\Collection\List.h>
-#include <Sable\Core\ManagedObject\ManagedObject.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/String/StaticString.h>
+#include <Sable/Core/Collection/List.h>
+#include <Sable/Core/ManagedObject/ManagedObject.h>
 
 
 

@@ -1,12 +1,12 @@
 #ifndef _DUNE_PROPERTY_CONRETE_
 #define _DUNE_PROPERTY_CONRETE_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\String\String.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/String/String.h>
 
-#include <Dune\Model\Property\Interface.h>
+#include <Dune/Model/Property/Interface.h>
 
-#include <Dune\Common\LexicalCast.h>
+#include <Dune/Common/LexicalCast.h>
 
 
 namespace Dune
@@ -59,7 +59,7 @@ protected:
 };
 
 
-#include <Dune\Model\Property\Concrete.hpp>
+#include <Dune/Model/Property/Concrete.hpp>
 
 };
 

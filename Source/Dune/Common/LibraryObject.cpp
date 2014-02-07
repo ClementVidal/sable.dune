@@ -1,12 +1,12 @@
-#include <Dune\Common\LibraryObject.h>
+#include <Dune/Common/LibraryObject.h>
 
-#include <Dune\Common\XMLDataLayout.h>
-#include <Dune\Bake\DependencySolver.h>
-#include <Sable\Core\Persistent\Archive.h>
+#include <Dune/Common/XMLDataLayout.h>
+#include <Dune/Bake/DependencySolver.h>
+#include <Sable/Core/Persistent/Archive.h>
 
-#include <Dune\Resources\Icons\UnknownLibraryObject.xpm>
+#include <Dune/Resources/Icons/UnknownLibraryObject.xpm>
 
-#include <QtGui\QPixmap>
+#include <QtGui/QPixmap>
 
 using namespace Dune;
 

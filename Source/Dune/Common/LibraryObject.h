@@ -1,9 +1,9 @@
 #ifndef _DUNE_COMMON_LIBRARYOBJECT_
 #define _DUNE_COMMON_LIBRARYOBJECT_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\Collection\Array.h>
-#include <Sable\Core\ManagedObject\ManagedObject.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/Collection/Array.h>
+#include <Sable/Core/ManagedObject/ManagedObject.h>
 
 namespace Dune
 {

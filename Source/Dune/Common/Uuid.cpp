@@ -1,6 +1,6 @@
-#include <Dune\Common\Uuid.h>
+#include <Dune/Common/Uuid.h>
 
-#include <Sable\Core\Persistent\Archive.h>
+#include <Sable/Core/Persistent/Archive.h>
 
 #include <Objbase.h>
 using namespace Dune;

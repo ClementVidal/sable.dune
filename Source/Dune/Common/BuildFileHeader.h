@@ -1,7 +1,7 @@
 #ifndef _SABLE_COMMON_BUILDFILEHEADER_
 #define _SABLE_COMMON_BUILDFILEHEADER_
 
-#include <Sable\Setup.h>
+#include <Sable/Setup.h>
 
 namespace Sb = Sable;
 

@@ -1,13 +1,13 @@
 #ifndef _DUNE_APPLICATION_WXAPPLICATION_
 #define _DUNE_APPLICATION_WXAPPLICATION_
 
-#include <Dune\Editor\Sable\Application.h>
-#include <Dune\Editor\Application\Settings.h>
+#include <Dune/Editor/Sable/Application.h>
+#include <Dune/Editor/Application/Settings.h>
 
-#include <Sable\Core\Event\Header.h>
-#include <Sable\Core\ManagedObject\Ref.h>
+#include <Sable/Core/Event/Header.h>
+#include <Sable/Core/ManagedObject/Ref.h>
 
-#include <QtGui\QApplication>
+#include <QtGui/QApplication>
 
 namespace Dune
 {

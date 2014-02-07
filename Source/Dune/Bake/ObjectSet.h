@@ -1,9 +1,9 @@
 #ifndef _DUNE_BAKE_OBJECTSET_
 #define _DUNE_BAKE_OBJECTSET_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\Collection\Array.h>
-#include <Sable\Core\String\StaticString.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/Collection/Array.h>
+#include <Sable/Core/String/StaticString.h>
 
 
 
@@ -11,7 +11,7 @@ namespace Dune
 {
 
 /**
-\ingroup Bake
+/ingroup Bake
 Represent a set of named sable object ready for beeing baked
 */
 class CBakeObjectSet

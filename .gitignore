@@ -1,0 +1,6 @@
+# Generated files
+########################
+Header.h
+BuildFileHeader.h
+Source/Dune/BuildFile/*
+Build/*
