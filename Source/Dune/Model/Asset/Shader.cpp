@@ -1,16 +1,16 @@
-#include <Dune\Model\Asset\Shader.h>
+#include <Dune/Model/Asset/Shader.h>
 
-#include <Dune\Model\Asset\StatesBlend.h>
-#include <Dune\Model\Asset\StatesRasterizer.h>
-#include <Dune\Model\Asset\StatesDepthStencil.h>
-#include <Dune\Model\Asset\StatesSampler.h>
+#include <Dune/Model/Asset/StatesBlend.h>
+#include <Dune/Model/Asset/StatesRasterizer.h>
+#include <Dune/Model/Asset/StatesDepthStencil.h>
+#include <Dune/Model/Asset/StatesSampler.h>
 
 
-#include <QtCore\QDir>
-#include <QtCore\QFile>
-#include <QtCore\QString>
-#include <QtCore\QProcessEnvironment>
-#include <QtCore\QFileInfo>
+#include <QtCore/QDir>
+#include <QtCore/QFile>
+#include <QtCore/QString>
+#include <QtCore/QProcessEnvironment>
+#include <QtCore/QFileInfo>
 
 #include <D3DX9Effect.h>
 

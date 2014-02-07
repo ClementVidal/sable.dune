@@ -1,4 +1,4 @@
-#include <Dune\Editor\Ctrl\Cmd\RemoveObjectProperty.h>
+#include <Dune/Editor/Ctrl/Cmd/RemoveObjectProperty.h>
 
 IMPLEMENT_MANAGED_CLASS1( Dune, CCmdRemoveObjectProperty, CCmd );
 

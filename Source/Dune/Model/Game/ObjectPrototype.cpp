@@ -1,9 +1,9 @@
-#include <Dune\Model\Game\ObjectPrototype.h>
+#include <Dune/Model/Game/ObjectPrototype.h>
 
-#include <Dune\Model\Property\Property.h>
-#include <Dune\Model\Property\PropertyArray.h>
+#include <Dune/Model/Property/Property.h>
+#include <Dune/Model/Property/PropertyArray.h>
 
-#include <Sable\Game\Object\Header.h>
+#include <Sable/Game/Object/Header.h>
 
 using namespace Dune;
 

@@ -1,9 +1,9 @@
 #ifndef _DUNE_MODEl_ELEMENT_UI_WINDOWPANE_
 #define _DUNE_MODEl_ELEMENT_UI_WINDOWPANE_
 
-#include <Sable\Core\Common\DataTypes.h>
+#include <Sable/Core/Common/DataTypes.h>
 
-#include <Dune\Model\Gui\Widget.h>
+#include <Dune/Model/Gui/Widget.h>
 
 namespace Dune
 {

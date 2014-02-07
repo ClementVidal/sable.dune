@@ -1,13 +1,13 @@
 #ifndef _DUNE_EDITOR_WXVIEW_
 #define _DUNE_EDITOR_WXVIEW_
 
-#include <Sable\Core\Collection\Map.h>
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\Event\Header.h>
+#include <Sable/Core/Collection/Map.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/Event/Header.h>
 
-#include <Dune\Editor\Ctrl\EventClient.h>
+#include <Dune/Editor/Ctrl/EventClient.h>
 
-#include <QtGui\QTabWidget>
+#include <QtGui/QTabWidget>
 
 
 namespace Dune

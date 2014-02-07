@@ -1,15 +1,15 @@
 #ifndef _DUNE_EDITOR_CTRL_EDITOR_PARTICLESYSTEM_
 #define _DUNE_EDITOR_CTRL_EDITOR_PARTICLESYSTEM_
 
-#include <Sable\Core\Common\DataTYpes.h>
-#include <Sable\Core\ManagedObject\Ref.h>
-#include <Sable\Core\Event\Header.h>
-#include <Sable\Graphics\Particle\Operator\Header.h>
-#include <Sable\Graphics\Camera\Perspective.h>
+#include <Sable/Core/Common/DataTYpes.h>
+#include <Sable/Core/ManagedObject/Ref.h>
+#include <Sable/Core/Event/Header.h>
+#include <Sable/Graphics/Particle/Operator/Header.h>
+#include <Sable/Graphics/Camera/Perspective.h>
 
-#include <Dune\Editor\Sable\EditorRenderer.h>
+#include <Dune/Editor/Sable/EditorRenderer.h>
 
-#include <Dune\Editor\Ctrl\Editor\Editor.h>
+#include <Dune/Editor/Ctrl/Editor/Editor.h>
 
 namespace Dune
 {

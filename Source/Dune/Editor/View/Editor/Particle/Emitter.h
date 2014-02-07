@@ -1,17 +1,17 @@
 #ifndef _DUNE_EDITOR_VIEW_EDITOR_PARTICLE_EMITTER_
 #define _DUNE_EDITOR_VIEW_EDITOR_PARTICLE_EMITTER_
 
-#include <Sable\Core\Common\DataTypes.h>
+#include <Sable/Core/Common/DataTypes.h>
 
-#include <Dune\Editor\Widget\Float32RangeWidget.h>
-#include <Dune\Editor\Widget\ColorWidget.h>
-#include <Dune\Editor\View\Editor\Particle\Operator.h>
+#include <Dune/Editor/Widget/Float32RangeWidget.h>
+#include <Dune/Editor/Widget/ColorWidget.h>
+#include <Dune/Editor/View/Editor/Particle/Operator.h>
 
-#include <QtGui\QFrame>
-#include <QtGui\QFormLayout>
-#include <QtGui\QVBoxLayout>
-#include <QtGui\QHBoxLayout>
-#include <QtGui\QDoubleSpinBox>
+#include <QtGui/QFrame>
+#include <QtGui/QFormLayout>
+#include <QtGui/QVBoxLayout>
+#include <QtGui/QHBoxLayout>
+#include <QtGui/QDoubleSpinBox>
 
 
 

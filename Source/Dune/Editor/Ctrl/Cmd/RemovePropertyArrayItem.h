@@ -1,7 +1,7 @@
 #ifndef _DUNE_EDITOR_CTRL_CMD_REMOVEPROPERTYARRAYITEM_
 #define _DUNE_EDITOR_CTRL_CMD_REMOVEPROPERTYARRAYITEM_
 
-#include <Dune\Editor\Ctrl\Cmd\Cmd.h>
+#include <Dune/Editor/Ctrl/Cmd/Cmd.h>
 
 namespace Dune
 {

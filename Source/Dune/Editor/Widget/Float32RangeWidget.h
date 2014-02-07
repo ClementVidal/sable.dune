@@ -1,9 +1,9 @@
 #ifndef _DUNE_EDITOR_WIDGET_FLOAT32RANGEWIDGET_
 #define _DUNE_EDITOR_WIDGET_FLOAT32RANGEWIDGET_
 
-#include <Sable\Core\Common\DataTypes.h>
+#include <Sable/Core/Common/DataTypes.h>
 
-#include <QtGui\QDoubleSpinBox> 
+#include <QtGui/QDoubleSpinBox> 
 
 
 

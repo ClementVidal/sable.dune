@@ -1,14 +1,14 @@
-#include <Dune\Model\Asset\Texture2D.h>
+#include <Dune/Model/Asset/Texture2D.h>
 
-#include <Dune\Model\Project\Project.h>
+#include <Dune/Model/Project/Project.h>
 
-#include <Sable\Graphics\Texture\Texture2D.h>
-#include <Sable\Graphics\Common\DataTypes.h>
-#include <Sable\Media\Tga\Header.h>
-#include <Sable\Media\DDS\Header.h>
+#include <Sable/Graphics/Texture/Texture2D.h>
+#include <Sable/Graphics/Common/DataTypes.h>
+#include <Sable/Media/Tga/Header.h>
+#include <Sable/Media/DDS/Header.h>
 
-#include <QtCore\QFile>
-#include <QtCore\QString>
+#include <QtCore/QFile>
+#include <QtCore/QString>
 
 using namespace Dune;
 

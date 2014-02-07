@@ -1,10 +1,10 @@
 #ifndef _DUNE_USERINTERFACE_WIDGET_
 #define _DUNE_USERINTERFACE_WIDGET_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\String\String.h>
-#include <Sable\Core\Collection\Array.h>
-#include <Sable\Core\Geometry\Rect2Df.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/String/String.h>
+#include <Sable/Core/Collection/Array.h>
+#include <Sable/Core/Geometry/Rect2Df.h>
 
 namespace Dune
 {

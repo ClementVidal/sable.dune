@@ -1,9 +1,9 @@
-#include <Dune\Model\Asset\StatesDepthStencil.h>
+#include <Dune/Model/Asset/StatesDepthStencil.h>
 
-#include <Dune\Model\Project\Project.h>
+#include <Dune/Model/Project/Project.h>
 
-#include <Sable\Graphics\Common\DataTypes.h>
-#include <Sable\Graphics\States\DepthStencil.h>
+#include <Sable/Graphics/Common/DataTypes.h>
+#include <Sable/Graphics/States/DepthStencil.h>
 
 using namespace Dune;
 

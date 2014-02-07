@@ -1,9 +1,9 @@
 #ifndef _DUNE_EDITOR_VIEW_EDITOR_PARTICLE_EMITTERPOINT_
 #define _DUNE_EDITOR_VIEW_EDITOR_PARTICLE_EMITTERPOINT_
 
-#include <Sable\Core\Common\DataTypes.h>
+#include <Sable/Core/Common/DataTypes.h>
 
-#include <Dune\Editor\Widget\VectorWidget.h>
+#include <Dune/Editor/Widget/VectorWidget.h>
 
 
 

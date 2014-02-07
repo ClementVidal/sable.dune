@@ -1,6 +1,6 @@
-#include <Dune\Editor\View\Editor\Scene\ManipulatorHandleTranslation1D.h>
+#include <Dune/Editor/View/Editor/Scene/ManipulatorHandleTranslation1D.h>
 
-#include <Sable\Core\Geometry\Cylinder.h>
+#include <Sable/Core/Geometry/Cylinder.h>
 
 #define AXIS_UNIT_LENGTH (1.0f/4.0f)
 #define ARROW_UNIT_LENGTH (1.0f/8.0f)
@@ -14,7 +14,7 @@ CManipulatorHandleTranslation1D::CManipulatorHandleTranslation1D( const Sb::CCol
 
 	CObjLoader loader;
 	loader.Load( 
-#include <Dune\Resources\Mesh\Arrow.inc>
+#include <Dune/Resources/Mesh/Arrow.inc>
 		);
 
 	const CObjLoader::SFaceTable& faceTable = loader.GetFaceTable();

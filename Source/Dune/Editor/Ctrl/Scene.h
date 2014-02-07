@@ -1,7 +1,7 @@
 #ifndef _DUNE_EDITOR_CTRL_SCENE_
 #define _DUNE_EDITOR_CTRL_SCENE_
 
-#include <Dune\Editor\Ctrl\Ctrl.h>
+#include <Dune/Editor/Ctrl/Ctrl.h>
 
 namespace Dune
 {

@@ -1,7 +1,7 @@
-#include <Dune\Editor\Widget\MaterialEditor.h> 
+#include <Dune/Editor/Widget/MaterialEditor.h> 
 
-#include <Dune\Model\Bank\Object.h>
-#include <Sable\Core\Collection\Map.h>
+#include <Dune/Model/Bank/Object.h>
+#include <Sable/Core/Collection/Map.h>
 
 using namespace Dune;
 

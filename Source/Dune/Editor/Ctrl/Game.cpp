@@ -1,10 +1,10 @@
-#include <Dune\Editor\Ctrl\Game.h>
+#include <Dune/Editor/Ctrl/Game.h>
 
-#include <Dune\Editor\View\Property.h>
-#include <Dune\Model\Game\Header.h>
-#include <Dune\Editor\Ctrl\Project.h>
-#include <Dune\Common\LibraryObject.h>
-#include <Dune\Editor\Ctrl\Cmd\Header.h>
+#include <Dune/Editor/View/Property.h>
+#include <Dune/Model/Game/Header.h>
+#include <Dune/Editor/Ctrl/Project.h>
+#include <Dune/Common/LibraryObject.h>
+#include <Dune/Editor/Ctrl/Cmd/Header.h>
 
 using namespace Dune;
 

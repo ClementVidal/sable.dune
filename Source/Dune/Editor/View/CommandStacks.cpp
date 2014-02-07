@@ -1,6 +1,6 @@
-#include <Dune\Editor\View\CommandStacks.h> 
+#include <Dune/Editor/View/CommandStacks.h> 
 
-#include <QtGui\QHBoxLayout>
+#include <QtGui/QHBoxLayout>
 
 using namespace Dune;
 

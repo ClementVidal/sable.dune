@@ -1,18 +1,18 @@
 #ifndef _DUNE_EDITOR_VIEW_ASSET_
 #define _DUNE_EDITOR_VIEW_ASSET_
 
-#include <Sable\Core\Common\DataTypes.h>
+#include <Sable/Core/Common/DataTypes.h>
 
-#include <Dune\Editor\Ctrl\EventClient.h>
-#include <Dune\Editor\Utilities\IconTable.h>
-#include <Dune\Editor\View\AssetTree.h>
-#include <Dune\Editor\Widget\ObjectLibrary.h>
-#include <Dune\Editor\View\FBXLoader.h>
+#include <Dune/Editor/Ctrl/EventClient.h>
+#include <Dune/Editor/Utilities/IconTable.h>
+#include <Dune/Editor/View/AssetTree.h>
+#include <Dune/Editor/Widget/ObjectLibrary.h>
+#include <Dune/Editor/View/FBXLoader.h>
 
-#include <QtGui\QDockWidget>
-#include <QtGui\QToolBar>
-#include <QtCore\QMimeData>
-#include <QtCore\QFileSystemWatcher>
+#include <QtGui/QDockWidget>
+#include <QtGui/QToolBar>
+#include <QtCore/QMimeData>
+#include <QtCore/QFileSystemWatcher>
 
 namespace Dune
 {

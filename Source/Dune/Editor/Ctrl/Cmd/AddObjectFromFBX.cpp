@@ -1,4 +1,4 @@
-#include <Dune\Editor\Ctrl\Cmd\AddObjectFromFBX.h>
+#include <Dune/Editor/Ctrl/Cmd/AddObjectFromFBX.h>
 
 IMPLEMENT_MANAGED_CLASS1( Dune, CCmdAddObjectFromFBX, CCmd );
 

@@ -1,9 +1,9 @@
 #ifndef _DUNE_EDITOR_VIEW_INPUT_KEYBOARD_
 #define _DUNE_EDITOR_VIEW_INPUT_KEYBOARD_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Input\Keyboard\Interface.h>
-#include <Sable\Application\Window.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Input/Keyboard/Interface.h>
+#include <Sable/Application/Window.h>
 
 
 namespace Dune

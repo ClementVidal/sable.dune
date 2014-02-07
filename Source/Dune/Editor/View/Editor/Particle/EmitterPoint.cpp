@@ -1,6 +1,6 @@
-#include <Dune\Editor\View\Editor\Particle\EmitterPoint.h>
+#include <Dune/Editor/View/Editor/Particle/EmitterPoint.h>
 
-#include <QtGui\QFormLayout>
+#include <QtGui/QFormLayout>
 
 using namespace Dune;
 

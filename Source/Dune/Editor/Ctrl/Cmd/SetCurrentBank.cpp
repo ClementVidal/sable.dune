@@ -1,4 +1,4 @@
-#include <Dune\Editor\Ctrl\Cmd\SetCurrentBank.h>
+#include <Dune/Editor/Ctrl/Cmd/SetCurrentBank.h>
 
 IMPLEMENT_MANAGED_CLASS1( Dune, CCmdSetCurrentBank, CCmd );
 

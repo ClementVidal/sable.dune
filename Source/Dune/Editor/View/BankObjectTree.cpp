@@ -1,14 +1,14 @@
-#include <Dune\Editor\View\BankObjectTree.h>
+#include <Dune/Editor/View/BankObjectTree.h>
 
-#include <Dune\Model\Project\Project.h>
-#include <Dune\Model\Property\Interface.h>
-#include <Dune\Editor\Application\Application.h>
-#include <Dune\Editor\Ctrl\Cmd\SetObjectProperty.h>
-#include <Dune\Editor\Ctrl\Cmd\SetObjectHierarchy.h>
+#include <Dune/Model/Project/Project.h>
+#include <Dune/Model/Property/Interface.h>
+#include <Dune/Editor/Application/Application.h>
+#include <Dune/Editor/Ctrl/Cmd/SetObjectProperty.h>
+#include <Dune/Editor/Ctrl/Cmd/SetObjectHierarchy.h>
 
-#include <QtGui\QContextMenuEvent>
-#include <QtGui\QFileDialog>
-#include <QtGui\QInputDialog>
+#include <QtGui/QContextMenuEvent>
+#include <QtGui/QFileDialog>
+#include <QtGui/QInputDialog>
 
 using namespace Dune;
 

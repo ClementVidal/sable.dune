@@ -1,9 +1,9 @@
 #ifndef _DUNE_MODEL_ASSET_MODEL_
 #define _DUNE_MODEL_ASSET_MODEL_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Graphics\Geometry\Header.h>
-#include <Dune\Model\Asset\FBX\Header.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Graphics/Geometry/Header.h>
+#include <Dune/Model/Asset/FBX/Header.h>
 
 namespace Dune
 {

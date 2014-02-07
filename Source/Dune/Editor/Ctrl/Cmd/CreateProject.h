@@ -1,8 +1,8 @@
 #ifndef _DUNE_EDITOR_CTRL_CMD_CREATEPROJECT_
 #define _DUNE_EDITOR_CTRL_CMD_CREATEPROJECT_
 
-#include <Dune\Editor\Ctrl\Cmd\Cmd.h>
-#include <Sable\Core\File\FilePath.h>
+#include <Dune/Editor/Ctrl/Cmd/Cmd.h>
+#include <Sable/Core/File/FilePath.h>
 
 
 

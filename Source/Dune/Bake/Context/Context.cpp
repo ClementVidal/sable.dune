@@ -1,6 +1,6 @@
-#include <Dune\Bake\Context\Context.h>
+#include <Dune/Bake/Context/Context.h>
 
-#include <Dune\Bake\ObjectSet.h>
+#include <Dune/Bake/ObjectSet.h>
 
 using namespace Dune;
 

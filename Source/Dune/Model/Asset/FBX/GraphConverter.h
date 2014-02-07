@@ -1,7 +1,7 @@
 #ifndef _DUNE_MODEL_ASSET_FBX_GRAPHCONVERTER_
 #define _DUNE_MODEL_ASSET_FBX_GRAPHCONVERTER_
 
-#include <Sable\Core\Common\DataTypes.h>
+#include <Sable/Core/Common/DataTypes.h>
 
 namespace Dune
 {

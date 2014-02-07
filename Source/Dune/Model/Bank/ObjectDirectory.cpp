@@ -1,8 +1,8 @@
-#include <Dune\Model\Bank\ObjectDirectory.h>
+#include <Dune/Model/Bank/ObjectDirectory.h>
 
-#include <Dune\Model\Project\Project.h>
+#include <Dune/Model/Project/Project.h>
 
-#include <Sable\Audio\Buffer\Header.h>
+#include <Sable/Audio/Buffer/Header.h>
 
 using namespace Dune;
 

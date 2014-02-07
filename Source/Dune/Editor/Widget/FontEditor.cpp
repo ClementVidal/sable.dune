@@ -1,16 +1,16 @@
-#include <Dune\Editor\Widget\FontEditor.h> 
+#include <Dune/Editor/Widget/FontEditor.h> 
 
-#include <Dune\Resources\Icons\FontEditor.xpm>
+#include <Dune/Resources/Icons/FontEditor.xpm>
 
-#include <QtGui\QLabel>
-#include <QtGui\QGroupBox>
-#include <QtGui\QPainter>
+#include <QtGui/QLabel>
+#include <QtGui/QGroupBox>
+#include <QtGui/QPainter>
 
 using namespace Dune;
 
 CFontEditor::SUnicodeScript CFontEditor::m_UnicodeScriptTable[] = 
 { 
-	#include <Dune\Editor\Widget\UnicodeScriptTable.inc>
+	#include <Dune/Editor/Widget/UnicodeScriptTable.inc>
 };
 
 UInt32 CFontEditor::SUnicodeScript::GetCodePointCount() const

@@ -1,4 +1,4 @@
-#include <Dune\Editor\View\Editor\Scene\ManipulatorHandleRotation.h>
+#include <Dune/Editor/View/Editor/Scene/ManipulatorHandleRotation.h>
 
 using namespace Dune;
 

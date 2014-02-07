@@ -1,13 +1,13 @@
 #ifndef _DUNE_EDITOR_WIDGET_DAEOBJECTPICKER_
 #define _DUNE_EDITOR_WIDGET_DAEOBJECTPICKER_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Dune\Editor\Application\Application.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Dune/Editor/Application/Application.h>
 
-#include <QtGui\QDialog>
-#include <QtGui\QTreeWidget>
-#include <QtGui\QComboBox>
-#include <QtGui\QPushButton>
+#include <QtGui/QDialog>
+#include <QtGui/QTreeWidget>
+#include <QtGui/QComboBox>
+#include <QtGui/QPushButton>
 
 #include <vector>
 

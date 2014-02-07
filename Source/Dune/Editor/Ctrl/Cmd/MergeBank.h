@@ -1,8 +1,8 @@
 #ifndef _DUNE_EDITOR_CTRL_CMD_MERGEBANK_
 #define _DUNE_EDITOR_CTRL_CMD_MERGEBANK_
 
-#include <Dune\Editor\Ctrl\Cmd\Cmd.h>
-#include <Dune\Model\Bank\Bank.h>
+#include <Dune/Editor/Ctrl/Cmd/Cmd.h>
+#include <Dune/Model/Bank/Bank.h>
 
 namespace Dune
 {

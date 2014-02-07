@@ -1,6 +1,6 @@
-#include <Dune\Model\Gui\LayoutHBox.h>
+#include <Dune/Model/Gui/LayoutHBox.h>
 
-#include <Sable\Gui\Layout\HBox.h>
+#include <Sable/Gui/Layout/HBox.h>
 
 using namespace Dune;
 

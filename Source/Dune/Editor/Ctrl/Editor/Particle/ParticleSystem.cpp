@@ -1,12 +1,12 @@
-#include <Dune\Editor\Ctrl\Editor\Particle\ParticleSystem.h>
+#include <Dune/Editor/Ctrl/Editor/Particle/ParticleSystem.h>
 
-#include <Dune\Editor\Ctrl\Project.h>
-#include <Dune\Editor\Sable\EditorRenderer.h>
-#include <Dune\Editor\View\Editor\DisplayWindow.h>
+#include <Dune/Editor/Ctrl/Project.h>
+#include <Dune/Editor/Sable/EditorRenderer.h>
+#include <Dune/Editor/View/Editor/DisplayWindow.h>
 
-#include <Sable\Graphics\Debug\Header.h>
-#include <Sable\Graphics\Particle\Operator\Header.h>
-#include <Sable\Graphics\Particle\Group.h>
+#include <Sable/Graphics/Debug/Header.h>
+#include <Sable/Graphics/Particle/Operator/Header.h>
+#include <Sable/Graphics/Particle/Group.h>
 
 using namespace Dune;
 

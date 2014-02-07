@@ -1,4 +1,4 @@
-#include <Dune\Editor\Ctrl\Cmd\RemoveSingleObject.h>
+#include <Dune/Editor/Ctrl/Cmd/RemoveSingleObject.h>
 
 IMPLEMENT_MANAGED_CLASS1( Dune, CCmdRemoveSingleObject, CCmd );
 

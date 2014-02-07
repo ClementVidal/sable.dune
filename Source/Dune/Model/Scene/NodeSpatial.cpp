@@ -1,4 +1,4 @@
-#include <Dune\Model\Scene\NodeSpatial.h>
+#include <Dune/Model/Scene/NodeSpatial.h>
 
 using namespace Dune;
 

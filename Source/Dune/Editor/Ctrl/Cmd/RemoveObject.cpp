@@ -1,9 +1,9 @@
-#include <Dune\Editor\Ctrl\Cmd\RemoveObject.h>
+#include <Dune/Editor/Ctrl/Cmd/RemoveObject.h>
 
-#include <Dune\Editor\Ctrl\Cmd\RemoveSingleObject.h>
-#include <Dune\Model\Bank\Object.h>
-#include <Dune\Model\Bank\Bank.h>
-#include <Dune\Model\Asset\Asset.h>
+#include <Dune/Editor/Ctrl/Cmd/RemoveSingleObject.h>
+#include <Dune/Model/Bank/Object.h>
+#include <Dune/Model/Bank/Bank.h>
+#include <Dune/Model/Asset/Asset.h>
 
 IMPLEMENT_MANAGED_CLASS1( Dune, CCmdRemoveObject, CCmd );
 

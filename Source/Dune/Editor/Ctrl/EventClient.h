@@ -1,9 +1,9 @@
 #ifndef _DUNE_EDITOR_APPLICATION_EVENTCLIENT_
 #define _DUNE_EDITOR_APPLICATION_EVENTCLIENT_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\Event\Header.h>
-#include <Sable\Core\String\String.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/Event/Header.h>
+#include <Sable/Core/String/String.h>
 
 
 

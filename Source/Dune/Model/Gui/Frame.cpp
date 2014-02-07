@@ -1,4 +1,4 @@
-#include <Dune\Model\Gui\Frame.h>
+#include <Dune/Model/Gui/Frame.h>
 
 using namespace Dune;
 
@@ -84,8 +84,8 @@ Bool CWidgetFrame::Serialize( Sb::CPersistentArchive& ar )
     return CWidget::Serialize( ar );
 }
 
-#include <Dune\Model\Property\Property.h>
-#include <Sable\Gui\Widget\Frame.h>
+#include <Dune/Model/Property/Property.h>
+#include <Sable/Gui/Widget/Frame.h>
 
 Void CWidgetFrame::PrepareBakeObjectSet( CBakeContext& context, CBakeObjectSet& objSet ) const
 {

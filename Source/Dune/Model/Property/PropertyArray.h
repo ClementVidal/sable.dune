@@ -1,12 +1,12 @@
 #ifndef _DUNE_PROPERTY_PROPERTYARRAY_
 #define _DUNE_PROPERTY_PROPERTYARRAY_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\Collection\Array.h>
-#include <Sable\Core\ManagedObject\TypeInfo.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/Collection/Array.h>
+#include <Sable/Core/ManagedObject/TypeInfo.h>
 
-#include <Dune\Model\Property\Concrete.h>
-#include <Dune\Model\Property\Macro.h>
+#include <Dune/Model/Property/Concrete.h>
+#include <Dune/Model/Property/Macro.h>
 
 namespace Dune
 {

@@ -1,4 +1,4 @@
-#include <Dune\Editor\View\Editor\Scene\ManipulatorHandleTranslation2D.h>
+#include <Dune/Editor/View/Editor/Scene/ManipulatorHandleTranslation2D.h>
 
 #define AXIS_UNIT_LENGTH (1.0f/8.0f)
 

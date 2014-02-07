@@ -1,4 +1,4 @@
-#include <Dune\Editor\Sable\EditorWindow.h>
+#include <Dune/Editor/Sable/EditorWindow.h>
 
 using namespace Dune;
 

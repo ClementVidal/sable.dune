@@ -1,8 +1,8 @@
 #ifndef _DUNE_EDITOR_WIDGET_SHADEREDITORSYNTAXHIGHLIGHTER_
 #define _DUNE_EDITOR_WIDGET_SHADEREDITORSYNTAXHIGHLIGHTER_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <QtGui\QSyntaxHighlighter>
+#include <Sable/Core/Common/DataTypes.h>
+#include <QtGui/QSyntaxHighlighter>
 
 namespace Dune
 {

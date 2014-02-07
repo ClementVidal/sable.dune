@@ -1,7 +1,7 @@
-#include <Dune\Editor\View\Editor\EditorContainer.h> 
+#include <Dune/Editor/View/Editor/EditorContainer.h> 
 
-#include <Dune\Editor\View\Editor\Editor.h> 
-#include <Dune\Editor\Sable\Application.h>
+#include <Dune/Editor/View/Editor/Editor.h> 
+#include <Dune/Editor/Sable/Application.h>
 
 using namespace Dune;
 

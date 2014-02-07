@@ -1,13 +1,13 @@
-#include <Dune\Bake\RequestDispatcher.h>
+#include <Dune/Bake/RequestDispatcher.h>
 
-#include <Dune\Model\Bank\Bank.h>
-#include <Dune\Model\Bank\Object.h>
-#include <Dune\Model\Gui\Header.h>
-#include <Dune\Model\Gui\Header.h>
-#include <Dune\Model\Asset\Header.h>
-#include <Dune\Bake\Context\Context.h>
-#include <Dune\Bake\DependencySolver.h>
-#include <Dune\Model\Project\Project.h>
+#include <Dune/Model/Bank/Bank.h>
+#include <Dune/Model/Bank/Object.h>
+#include <Dune/Model/Gui/Header.h>
+#include <Dune/Model/Gui/Header.h>
+#include <Dune/Model/Asset/Header.h>
+#include <Dune/Bake/Context/Context.h>
+#include <Dune/Bake/DependencySolver.h>
+#include <Dune/Model/Project/Project.h>
 
 using namespace Dune;
 

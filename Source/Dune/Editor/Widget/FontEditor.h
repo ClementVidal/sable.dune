@@ -1,17 +1,17 @@
 #ifndef _DUNE_EDITOR_WIDGET_FONTEDITOR_
 #define _DUNE_EDITOR_WIDGET_FONTEDITOR_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Graphics\Text\Font.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Graphics/Text/Font.h>
 
-#include <Dune\Editor\Utilities\IconTable.h>
+#include <Dune/Editor/Utilities/IconTable.h>
 
-#include <QtGui\QSpinBox>
-#include <QtGui\QComboBox>
-#include <QtGui\QPixmap>
-#include <QtGui\QFontComboBox>
-#include <QtGui\QLabel>
-#include <QtGui\QDockWidget>
+#include <QtGui/QSpinBox>
+#include <QtGui/QComboBox>
+#include <QtGui/QPixmap>
+#include <QtGui/QFontComboBox>
+#include <QtGui/QLabel>
+#include <QtGui/QDockWidget>
 
 namespace Dune
 {

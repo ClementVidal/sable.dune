@@ -1,8 +1,8 @@
 #ifndef _DUNE_MODEL_ASSET_HELPER_
 #define _DUNE_MODEL_ASSET_HELPER_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Dune\Model\Asset\FBX\Header.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Dune/Model/Asset/FBX/Header.h>
 
 
 

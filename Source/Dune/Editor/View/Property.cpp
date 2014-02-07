@@ -1,13 +1,13 @@
-#include <Dune\Editor\View\Property.h> 
+#include <Dune/Editor/View/Property.h> 
 
-#include <Dune\Editor\View\MainFrame.h>
-#include <Dune\Editor\Ctrl\Cmd\Header.h>
-#include <Dune\Editor\Ctrl\CommandProcessor.h>
-#include <Dune\Editor\View\PropertyGrid.h> 
-#include <Dune\Editor\Widget\ObjectPicker.h>
-#include <Dune\Editor\Widget\DependencyViewer.h> 
+#include <Dune/Editor/View/MainFrame.h>
+#include <Dune/Editor/Ctrl/Cmd/Header.h>
+#include <Dune/Editor/Ctrl/CommandProcessor.h>
+#include <Dune/Editor/View/PropertyGrid.h> 
+#include <Dune/Editor/Widget/ObjectPicker.h>
+#include <Dune/Editor/Widget/DependencyViewer.h> 
 
-#include <Dune\Resources\Icons\PropertyView.xpm>
+#include <Dune/Resources/Icons/PropertyView.xpm>
 
 using namespace Dune;
 

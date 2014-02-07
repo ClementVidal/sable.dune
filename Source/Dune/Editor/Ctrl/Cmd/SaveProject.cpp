@@ -1,6 +1,6 @@
-#include <Dune\Editor\Ctrl\Cmd\SaveProject.h>
+#include <Dune/Editor/Ctrl/Cmd/SaveProject.h>
 
-#include <Dune\Editor\Ctrl\Project.h>
+#include <Dune/Editor/Ctrl/Project.h>
 
 IMPLEMENT_MANAGED_CLASS1( Dune, CCmdSaveProject, CCmd );
 

@@ -1,11 +1,11 @@
 #ifndef _DUNE_EDITOR_CTRL_COMMANDPROCESSOR_
 #define _DUNE_EDITOR_CTRL_COMMANDPROCESSOR_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\ManagedObject\ManagedObject.h>
-#include <Sable\Core\Event\Header.h>
-#include <Sable\Core\ManagedObject\Ref.h>
-#include <Sable\Core\String\String.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/ManagedObject/ManagedObject.h>
+#include <Sable/Core/Event/Header.h>
+#include <Sable/Core/ManagedObject/Ref.h>
+#include <Sable/Core/String/String.h>
 
 namespace Dune
 {

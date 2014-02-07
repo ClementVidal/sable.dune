@@ -1,9 +1,9 @@
-#include <Dune\Editor\Widget\BakeWindow.h> 
+#include <Dune/Editor/Widget/BakeWindow.h> 
 
-#include <Dune\Model\Project\Project.h>
-#include <Dune\Editor\Application\Application.h>
+#include <Dune/Model/Project/Project.h>
+#include <Dune/Editor/Application/Application.h>
 
-#include <QtGui\QLayout.h>
+#include <QtGui/QLayout.h>
 
 using namespace Dune;
 

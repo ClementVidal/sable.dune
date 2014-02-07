@@ -1,18 +1,18 @@
 #ifndef _DUNE_EDITOR_WIDGET_BAKEWINDOW_
 #define _DUNE_EDITOR_WIDGET_BAKEWINDOW_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Dune\Editor\Application\Application.h>
-#include <Dune\Bake\Context\Export.h>
-#include <Dune\Bake\Configuration.h>
-#include <Dune\Bake\RequestDispatcher.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Dune/Editor/Application/Application.h>
+#include <Dune/Bake/Context/Export.h>
+#include <Dune/Bake/Configuration.h>
+#include <Dune/Bake/RequestDispatcher.h>
 
-#include <QtGui\QProgressBar>
-#include <QtGui\QDialog>
-#include <QtGui\QPushButton>
-#include <QtGui\QListWidget>
-#include <QtGui\QCheckBox>
-#include <QtGui\QLineEdit>
+#include <QtGui/QProgressBar>
+#include <QtGui/QDialog>
+#include <QtGui/QPushButton>
+#include <QtGui/QListWidget>
+#include <QtGui/QCheckBox>
+#include <QtGui/QLineEdit>
 
 
 

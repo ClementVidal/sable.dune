@@ -1,12 +1,12 @@
 #ifndef _DUNE_EDITOR_CTRL_PROJECT_PROJECT_
 #define _DUNE_EDITOR_CTRL_PROJECT_PROJECT_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\Event\Header.h>
-#include <Sable\Core\Collection\Array.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/Event/Header.h>
+#include <Sable/Core/Collection/Array.h>
 
-#include <Dune\Editor\Ctrl\Ctrl.h>
-#include <Dune\Model\Bank\Bank.h>
+#include <Dune/Editor/Ctrl/Ctrl.h>
+#include <Dune/Model/Bank/Bank.h>
 
 namespace Dune
 {

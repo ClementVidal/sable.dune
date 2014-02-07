@@ -1,11 +1,11 @@
 #ifndef _DUNE_EDITOR_WIDGET_TEXTEDITOR_
 #define _DUNE_EDITOR_WIDGET_TEXTEDITOR_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Dune\Editor\Application\Application.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Dune/Editor/Application/Application.h>
 
-#include <QtGui\QDialog>
-#include <QtGui\QTextEdit>
+#include <QtGui/QDialog>
+#include <QtGui/QTextEdit>
 
 
 namespace Dune

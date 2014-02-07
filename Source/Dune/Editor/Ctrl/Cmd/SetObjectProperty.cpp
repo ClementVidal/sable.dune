@@ -1,7 +1,7 @@
-#include <Dune\Editor\Ctrl\Cmd\SetObjectProperty.h>
+#include <Dune/Editor/Ctrl/Cmd/SetObjectProperty.h>
 
-#include <Dune\Model\Property\Interface.h>
-#include <Dune\Model\Bank\Object.h>
+#include <Dune/Model/Property/Interface.h>
+#include <Dune/Model/Bank/Object.h>
 
 IMPLEMENT_MANAGED_CLASS1( Dune, CCmdSetObjectProperty, CCmd );
 

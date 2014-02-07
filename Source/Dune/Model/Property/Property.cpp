@@ -1,8 +1,8 @@
-#include <Dune\Model\Property\Property.h> 
+#include <Dune/Model/Property/Property.h> 
 
-#include <Sable\Core\String\String.h>
+#include <Sable/Core/String/String.h>
 
-#include <Dune\Common\LexicalCast.h>
+#include <Dune/Common/LexicalCast.h>
 
 using namespace Dune;
 

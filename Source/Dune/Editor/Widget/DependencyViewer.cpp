@@ -1,9 +1,9 @@
-#include <Dune\Editor\Widget\DependencyViewer.h> 
+#include <Dune/Editor/Widget/DependencyViewer.h> 
 
-#include <Dune\Model\Bank\Object.h>
-#include <Sable\Core\Collection\Map.h>
+#include <Dune/Model/Bank/Object.h>
+#include <Sable/Core/Collection/Map.h>
 
-#include <QtGui\QVBoxLayout>
+#include <QtGui/QVBoxLayout>
 
 using namespace Dune;
 

@@ -1,13 +1,13 @@
-#include <Dune\Model\Asset\Material.h>
+#include <Dune/Model/Asset/Material.h>
 
-#include <Dune\Model\Asset\FBX\MaterialConverter.h>
-#include <Dune\Model\Asset\Texture2D.h>
-#include <Dune\Model\Asset\Texture3D.h>
-#include <Dune\Model\Asset\Shader.h>
-#include <Dune\Model\Asset\StatesSampler.h>
-#include <Dune\Common\Log.h>
+#include <Dune/Model/Asset/FBX/MaterialConverter.h>
+#include <Dune/Model/Asset/Texture2D.h>
+#include <Dune/Model/Asset/Texture3D.h>
+#include <Dune/Model/Asset/Shader.h>
+#include <Dune/Model/Asset/StatesSampler.h>
+#include <Dune/Common/Log.h>
 
-#include <Sable\Graphics\Shader\Header.h>
+#include <Sable/Graphics/Shader/Header.h>
 
 using namespace Dune;
 

@@ -1,4 +1,4 @@
-#include <Dune\Editor\Ctrl\Cmd\AddPropertyArrayItem.h>
+#include <Dune/Editor/Ctrl/Cmd/AddPropertyArrayItem.h>
 
 IMPLEMENT_MANAGED_CLASS1( Dune, CCmdAddPropertyArrayItem, CCmd );
 

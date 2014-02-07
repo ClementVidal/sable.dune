@@ -1,4 +1,4 @@
-#include <Dune\Editor\View\Editor\Particle\Emitter.h>
+#include <Dune/Editor/View/Editor/Particle/Emitter.h>
 
 using namespace Dune;
 

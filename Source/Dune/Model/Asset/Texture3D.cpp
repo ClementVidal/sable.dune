@@ -1,13 +1,13 @@
-#include <Dune\Model\Asset\Texture3D.h>
+#include <Dune/Model/Asset/Texture3D.h>
 
-#include <Dune\Model\Project\Project.h>
-#include <Sable\Graphics\Texture\Texture3D.h>
-#include <Sable\Graphics\Common\DataTypes.h>
-#include <Sable\Media\Dds\DDSFile.h>
-#include <Sable\Media\Tga\TGAFile.h>
+#include <Dune/Model/Project/Project.h>
+#include <Sable/Graphics/Texture/Texture3D.h>
+#include <Sable/Graphics/Common/DataTypes.h>
+#include <Sable/Media/Dds/DDSFile.h>
+#include <Sable/Media/Tga/TGAFile.h>
 
-#include <QtCore\QFile>
-#include <QtCore\QString>
+#include <QtCore/QFile>
+#include <QtCore/QString>
 
 using namespace Dune;
 

@@ -1,6 +1,6 @@
-#include <Dune\Editor\View\Editor\Scene\GizmoCamera.h>
+#include <Dune/Editor/View/Editor/Scene/GizmoCamera.h>
 
-#include <Dune\Editor\Application\Application.h>
+#include <Dune/Editor/Application/Application.h>
 
 using namespace Dune;
 
@@ -23,7 +23,7 @@ Void CGizmoCamera::LoadMesh()
 {
 	CObjLoader loader;
 	loader.Load( 
-#include <Dune\Resources\Mesh\Camera.inc>
+#include <Dune/Resources/Mesh/Camera.inc>
 		);
 
 	const CObjLoader::SFaceTable& faceTable = loader.GetFaceTable();

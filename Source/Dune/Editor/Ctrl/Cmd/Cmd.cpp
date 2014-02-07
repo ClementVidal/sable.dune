@@ -1,4 +1,4 @@
-#include <Dune\Editor\Ctrl\Cmd\Cmd.h>
+#include <Dune/Editor/Ctrl/Cmd/Cmd.h>
 
 IMPLEMENT_MANAGED_CLASS1( Dune, CCmd, Sb::CManagedObject );
 

@@ -1,28 +1,28 @@
-#include <Dune\Editor\Ctrl\Project.h>
+#include <Dune/Editor/Ctrl/Project.h>
 
-#include <Dune\Editor\View\Asset.h>
-#include <Dune\Editor\View\Scene.h>
-#include <Dune\Editor\View\UI.h>
-#include <Dune\Editor\Ctrl\CommandProcessor.h>
-#include <Dune\Model\Project\Project.h>
-#include <Dune\Model\Asset\Asset.h>
-#include <Dune\Model\Gui\Widget.h>
-#include <Dune\Common\XMLDataLayout.h>
-#include <Dune\Model\Asset\FBX\Interface.h>
-#include <Dune\Model\Property\PropertyArray.h>
-#include <Dune\Model\Scene\World.h>
-#include <Dune\Editor\Ctrl\Editor\UI\UI.h>
-#include <Dune\Editor\View\Editor\UI\UI.h>
-#include <Dune\Editor\Ctrl\Editor\Scene\Scene.h>
-#include <Dune\Editor\View\Editor\Scene\Scene.h>
-#include <Dune\Editor\Widget\ShaderEditor.h> 
-#include <Dune\Editor\Widget\FontEditor.h> 
-#include <Dune\Editor\Widget\GameObjectEditor.h> 
-#include <Dune\Editor\Widget\ImageViewer.h> 
-#include <Dune\Editor\Widget\MaterialEditor.h> 
-#include <Dune\Editor\View\Editor\Particle\ParticleSystem.h>
+#include <Dune/Editor/View/Asset.h>
+#include <Dune/Editor/View/Scene.h>
+#include <Dune/Editor/View/UI.h>
+#include <Dune/Editor/Ctrl/CommandProcessor.h>
+#include <Dune/Model/Project/Project.h>
+#include <Dune/Model/Asset/Asset.h>
+#include <Dune/Model/Gui/Widget.h>
+#include <Dune/Common/XMLDataLayout.h>
+#include <Dune/Model/Asset/FBX/Interface.h>
+#include <Dune/Model/Property/PropertyArray.h>
+#include <Dune/Model/Scene/World.h>
+#include <Dune/Editor/Ctrl/Editor/UI/UI.h>
+#include <Dune/Editor/View/Editor/UI/UI.h>
+#include <Dune/Editor/Ctrl/Editor/Scene/Scene.h>
+#include <Dune/Editor/View/Editor/Scene/Scene.h>
+#include <Dune/Editor/Widget/ShaderEditor.h> 
+#include <Dune/Editor/Widget/FontEditor.h> 
+#include <Dune/Editor/Widget/GameObjectEditor.h> 
+#include <Dune/Editor/Widget/ImageViewer.h> 
+#include <Dune/Editor/Widget/MaterialEditor.h> 
+#include <Dune/Editor/View/Editor/Particle/ParticleSystem.h>
 
-#include <Sable\Core\Log\Logger.h>
+#include <Sable/Core/Log/Logger.h>
 
 using namespace Dune;
 

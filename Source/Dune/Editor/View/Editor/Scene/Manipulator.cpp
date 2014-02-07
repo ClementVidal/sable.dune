@@ -1,11 +1,11 @@
-#include <Dune\Editor\View\Editor\Scene\Manipulator.h>
+#include <Dune/Editor/View/Editor/Scene/Manipulator.h>
 
-#include <Dune\Editor\View\Editor\Scene\ManipulatorHandleRotation.h>
-#include <Dune\Editor\View\Editor\Scene\ManipulatorHandleTranslation1D.h>
-#include <Dune\Editor\View\Editor\Scene\ManipulatorHandleTranslation2D.h>
-#include <Dune\Editor\Ctrl\Cmd\SetObjectProperty.h>
+#include <Dune/Editor/View/Editor/Scene/ManipulatorHandleRotation.h>
+#include <Dune/Editor/View/Editor/Scene/ManipulatorHandleTranslation1D.h>
+#include <Dune/Editor/View/Editor/Scene/ManipulatorHandleTranslation2D.h>
+#include <Dune/Editor/Ctrl/Cmd/SetObjectProperty.h>
 
-#include <Dune\Editor\Application\Application.h>
+#include <Dune/Editor/Application/Application.h>
 
 using namespace Dune;
 

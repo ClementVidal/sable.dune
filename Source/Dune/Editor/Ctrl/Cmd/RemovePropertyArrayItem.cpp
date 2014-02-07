@@ -1,4 +1,4 @@
-#include <Dune\Editor\Ctrl\Cmd\RemovePropertyArrayItem.h>
+#include <Dune/Editor/Ctrl/Cmd/RemovePropertyArrayItem.h>
 
 IMPLEMENT_MANAGED_CLASS1( Dune, CCmdRemovePropertyArrayItem, CCmd );
 

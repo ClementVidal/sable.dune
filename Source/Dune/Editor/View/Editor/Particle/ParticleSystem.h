@@ -1,13 +1,13 @@
 #ifndef _DUNE_EDITOR_VIEW_EDITOR_PARTICLESYSTEM_
 #define _DUNE_EDITOR_VIEW_EDITOR_PARTICLESYSTEM_
 
-#include <Dune\Editor\View\Editor\Editor.h>
+#include <Dune/Editor/View/Editor/Editor.h>
 
-#include <Sable\Graphics\Particle\Operator\Operator.h>
-#include <Sable\Input\Common\CameraController.h>
+#include <Sable/Graphics/Particle/Operator/Operator.h>
+#include <Sable/Input/Common/CameraController.h>
 
-#include <QtGui\QToolBox>
-#include <QtGui\QTreeWidget>
+#include <QtGui/QToolBox>
+#include <QtGui/QTreeWidget>
 
 namespace Dune
 {

@@ -1,4 +1,4 @@
-#include <Dune\Editor\Ctrl\Cmd\Meta.h>
+#include <Dune/Editor/Ctrl/Cmd/Meta.h>
 
 IMPLEMENT_MANAGED_CLASS1( Dune, CCmdMeta, CCmd );
 

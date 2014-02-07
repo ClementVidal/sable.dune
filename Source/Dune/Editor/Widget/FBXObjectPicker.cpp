@@ -1,10 +1,10 @@
-#include <Dune\Editor\Widget\FBXObjectPicker.h> 
+#include <Dune/Editor/Widget/FBXObjectPicker.h> 
 
-#include <Dune\Editor\Application\Application.h>
-#include <Dune\Model\Asset\Helper.h>
-#include <Dune\Model\Asset\Material.h>
+#include <Dune/Editor/Application/Application.h>
+#include <Dune/Model/Asset/Helper.h>
+#include <Dune/Model/Asset/Material.h>
 
-#include <QtGui\QPushButton.h>
+#include <QtGui/QPushButton.h>
 
 using namespace Dune;
 

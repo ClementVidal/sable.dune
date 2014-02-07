@@ -1,13 +1,13 @@
 #ifndef _DUNE_EDITOR_VIEW_SCENE_
 #define _DUNE_EDITOR_VIEW_SCENE_
 
-#include <Sable\Core\Common\DataTypes.h>
+#include <Sable/Core/Common/DataTypes.h>
 
-#include <Dune\Editor\Ctrl\EventClient.h>
-#include <Dune\Editor\Utilities\IconTable.h>
-#include <Dune\Editor\View\SceneTree.h>
+#include <Dune/Editor/Ctrl/EventClient.h>
+#include <Dune/Editor/Utilities/IconTable.h>
+#include <Dune/Editor/View/SceneTree.h>
 
-#include <QtGui\QDockWidget>
+#include <QtGui/QDockWidget>
 
 namespace Dune
 {

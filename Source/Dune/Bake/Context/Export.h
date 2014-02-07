@@ -1,12 +1,12 @@
 #ifndef _DUNE_BAKE_CONTEXT_EXPORT_
 #define _DUNE_BAKE_CONTEXT_EXPORT_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\Thread\Header.h>
-#include <Sable\Core\Bank\Header.h>
-#include <Dune\Bake\Context\Context.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/Thread/Header.h>
+#include <Sable/Core/Bank/Header.h>
+#include <Dune/Bake/Context/Context.h>
 
-#include <QtCore\QString>
+#include <QtCore/QString>
 
 namespace Dune
 {

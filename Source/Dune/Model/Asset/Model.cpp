@@ -1,10 +1,10 @@
-#include <Dune\Model\Asset\Model.h>
+#include <Dune/Model/Asset/Model.h>
 
-#include <Dune\Bake\Context\Header.h>
+#include <Dune/Bake/Context/Header.h>
 
-#include <Sable\Graphics\Geometry\Model.h>
-#include <Sable\Physic\Shape\Header.h>
-#include <Sable\Physic\Common\Header.h>
+#include <Sable/Graphics/Geometry/Model.h>
+#include <Sable/Physic/Shape/Header.h>
+#include <Sable/Physic/Common/Header.h>
 
 #include <NxPhysicsSDK.h>
 #include <NxCooking.h>

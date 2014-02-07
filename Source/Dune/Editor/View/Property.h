@@ -1,17 +1,17 @@
 #ifndef _DUNE_EDITOR_VIEW_PROPERTY_
 #define _DUNE_EDITOR_VIEW_PROPERTY_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\ManagedObject\Ref.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/ManagedObject/Ref.h>
 
-#include <Dune\Editor\Ctrl\EventClient.h>
-#include <Dune\Editor\Utilities\IconTable.h>
+#include <Dune/Editor/Ctrl/EventClient.h>
+#include <Dune/Editor/Utilities/IconTable.h>
 
-#include <QtGui\QDockWidget>
-#include <QtGui\QScrollArea>
-#include <QtGui\QToolBar>
-#include <QtGui\QFrame>
-#include <QtGui\QVBoxLayout>
+#include <QtGui/QDockWidget>
+#include <QtGui/QScrollArea>
+#include <QtGui/QToolBar>
+#include <QtGui/QFrame>
+#include <QtGui/QVBoxLayout>
 
 
 namespace Dune

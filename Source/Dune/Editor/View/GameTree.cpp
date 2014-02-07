@@ -1,19 +1,19 @@
 
-#include <Dune\Editor\View\GameTree.h>
+#include <Dune/Editor/View/GameTree.h>
 
-#include <Dune\Model\Project\Project.h>
-#include <Dune\Model\Property\Interface.h>
-#include <Dune\Model\Game\Header.h>
-#include <Dune\Model\Bank\ObjectDirectory.h>
-#include <Dune\Editor\Application\Application.h>
-#include <Dune\Editor\Ctrl\Game.h>
-#include <Dune\Editor\Widget\FBXObjectPicker.h>
-#include <Dune\Editor\Ctrl\Cmd\SetObjectProperty.h>
-#include <Dune\Editor\Ctrl\Cmd\AddObjectFromFBX.h>
+#include <Dune/Model/Project/Project.h>
+#include <Dune/Model/Property/Interface.h>
+#include <Dune/Model/Game/Header.h>
+#include <Dune/Model/Bank/ObjectDirectory.h>
+#include <Dune/Editor/Application/Application.h>
+#include <Dune/Editor/Ctrl/Game.h>
+#include <Dune/Editor/Widget/FBXObjectPicker.h>
+#include <Dune/Editor/Ctrl/Cmd/SetObjectProperty.h>
+#include <Dune/Editor/Ctrl/Cmd/AddObjectFromFBX.h>
 
-#include <QtGui\QContextMenuEvent>
-#include <QtGui\QFileDialog>
-#include <QtGui\QInputDialog>
+#include <QtGui/QContextMenuEvent>
+#include <QtGui/QFileDialog>
+#include <QtGui/QInputDialog>
 
 using namespace Dune;
 

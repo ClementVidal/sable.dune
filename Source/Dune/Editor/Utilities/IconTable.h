@@ -1,10 +1,10 @@
 #ifndef _DUNE_EDITOR_UTILITIES_ICONTABLE_
 #define _DUNE_EDITOR_UTILITIES_ICONTABLE_
 
-#include <Sable\Core\Common\DataTypes.h>
+#include <Sable/Core/Common/DataTypes.h>
 
-#include <QtGui\QPixmap>
-#include <QtGui\QIcon>
+#include <QtGui/QPixmap>
+#include <QtGui/QIcon>
 
 
 

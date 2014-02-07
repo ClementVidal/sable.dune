@@ -1,8 +1,8 @@
 #ifndef _DUNE_EDITOR_VIEW_EDITOR_MANIPULATOR_HANDLE_
 #define _DUNE_EDITOR_VIEW_EDITOR_MANIPULATOR_HANDLE_
 
-#include <Sable\Core\ManagedObject\ManagedObject.h>
-#include <Sable\Core\Common\DataTypes.h>
+#include <Sable/Core/ManagedObject/ManagedObject.h>
+#include <Sable/Core/Common/DataTypes.h>
 
 namespace Dune
 {

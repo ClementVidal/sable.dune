@@ -1,6 +1,6 @@
-#include <Dune\Editor\Utilities\IconTable.h>
+#include <Dune/Editor/Utilities/IconTable.h>
 
-#include <QtGui\QBitmap>
+#include <QtGui/QBitmap>
 
 using namespace Dune;
 

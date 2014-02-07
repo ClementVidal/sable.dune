@@ -1,4 +1,4 @@
-#include <Dune\Editor\Widget\ColorRangeWidget.h> 
+#include <Dune/Editor/Widget/ColorRangeWidget.h> 
 
 #include <QtGui/QFormLayout>
 

@@ -1,9 +1,9 @@
 #ifndef _DUNE_EDITOR_VIEW_PROJECTSETTINGS_
 #define _DUNE_EDITOR_VIEW_PROJECTSETTINGS_
 
-#include <Sable\Core\Common\DataTypes.h>
+#include <Sable/Core/Common/DataTypes.h>
 
-#include <QtGui\QDialog>
+#include <QtGui/QDialog>
 
 
 

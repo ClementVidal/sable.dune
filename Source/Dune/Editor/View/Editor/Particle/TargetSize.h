@@ -1,11 +1,11 @@
 #ifndef _DUNE_EDITOR_VIEW_EDITOR_PARTICLE_TARGETSIZE_
 #define _DUNE_EDITOR_VIEW_EDITOR_PARTICLE_TARGETSIZE_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Graphics\Particle\Operator\TargetSize.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Graphics/Particle/Operator/TargetSize.h>
 
-#include <QtGui\QWidget>
-#include <QtGui\QFormLayout>
+#include <QtGui/QWidget>
+#include <QtGui/QFormLayout>
 
 
 

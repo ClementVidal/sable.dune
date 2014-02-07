@@ -1,4 +1,4 @@
-#include <Dune\Editor\Widget\ColorWIdget.h> 
+#include <Dune/Editor/Widget/ColorWIdget.h> 
 
 using namespace Dune;
 

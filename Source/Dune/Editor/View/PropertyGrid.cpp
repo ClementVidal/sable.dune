@@ -1,6 +1,6 @@
-#include <Dune\Editor\View\PropertyGrid.h> 
+#include <Dune/Editor/View/PropertyGrid.h> 
 
-#include <Dune\Model\Property\Property.h> 
+#include <Dune/Model/Property/Property.h> 
 
 using namespace Dune;
 

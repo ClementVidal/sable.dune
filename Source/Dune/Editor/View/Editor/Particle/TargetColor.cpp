@@ -1,4 +1,4 @@
-#include <Dune\Editor\View\Editor\Particle\TargetColor.h>
+#include <Dune/Editor/View/Editor/Particle/TargetColor.h>
 
 using namespace Dune;
 

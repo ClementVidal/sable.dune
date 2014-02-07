@@ -1,14 +1,14 @@
 #ifndef _DUNE_EDITOR_WIDGET_GAMEOBJECTEDITOR_
 #define _DUNE_EDITOR_WIDGET_GAMEOBJECTEDITOR_
 
-#include <Sable\Core\Common\DataTypes.h>
+#include <Sable/Core/Common/DataTypes.h>
 
-#include <Dune\Editor\Utilities\IconTable.h>
+#include <Dune/Editor/Utilities/IconTable.h>
 
-#include <QtGui\QTextEdit>
-#include <QtGui\QListWidget>
-#include <QtGui\QTreeWidget>
-#include <QtGui\QDialog>
+#include <QtGui/QTextEdit>
+#include <QtGui/QListWidget>
+#include <QtGui/QTreeWidget>
+#include <QtGui/QDialog>
 
 namespace Dune
 {

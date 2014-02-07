@@ -1,10 +1,10 @@
-#include <Dune\Editor\View\UITree.h> 
+#include <Dune/Editor/View/UITree.h> 
 
-#include <Dune\Editor\Application\Application.h>
-#include <Dune\Editor\View\Editor\EditorContainer.h>
-#include <Dune\Model\Project\Project.h>
-#include <Dune\Editor\Ctrl\Cmd\AddObject.h>
-#include <Dune\Editor\Ctrl\UI.h>
+#include <Dune/Editor/Application/Application.h>
+#include <Dune/Editor/View/Editor/EditorContainer.h>
+#include <Dune/Model/Project/Project.h>
+#include <Dune/Editor/Ctrl/Cmd/AddObject.h>
+#include <Dune/Editor/Ctrl/UI.h>
 
 using namespace Dune;
 

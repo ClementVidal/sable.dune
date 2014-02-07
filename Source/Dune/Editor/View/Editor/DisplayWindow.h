@@ -1,16 +1,16 @@
 #ifndef _DUNE_EDITOR_VIEW_EDITOR_DISPLAYWINDOW_
 #define _DUNE_EDITOR_VIEW_EDITOR_DISPLAYWINDOW_
 
-#include <Sable\Core\String\String.h>
-#include <Sable\Core\Event\Header.h>
-#include <Sable\Application\Window.h>
+#include <Sable/Core/String/String.h>
+#include <Sable/Core/Event/Header.h>
+#include <Sable/Application/Window.h>
 
-#include <Dune\Editor\Sable\EditorRenderer.h>
-#include <Dune\Editor\Sable\EditorWindow.h>
+#include <Dune/Editor/Sable/EditorRenderer.h>
+#include <Dune/Editor/Sable/EditorWindow.h>
 
-#include <QtGui\QFrame>
-#include <QtGui\QWidget>
-#include <QtCore\QTimer>
+#include <QtGui/QFrame>
+#include <QtGui/QWidget>
+#include <QtCore/QTimer>
 
 namespace Dune
 {

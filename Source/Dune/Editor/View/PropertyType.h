@@ -1,26 +1,26 @@
 #ifndef _DUNE_EDITOR_VIEW_PROPERTYTYPE_
 #define _DUNE_EDITOR_VIEW_PROPERTYTYPE_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\Math\Vector2f.h>
-#include <Sable\Core\Math\Vector3f.h>
-#include <Sable\Core\String\String.h>
-#include <Dune\Model\Asset\Asset.h>
-#include <Dune\Model\Property\Property.h> 
-#include <Dune\Model\Property\PropertyArray.h> 
-#include <Dune\Editor\Application\Application.h>
-#include <Dune\Editor\Widget\ScalarWidget.h>
-#include <Dune\Editor\Widget\VectorWidget.h>
-#include <Dune\Editor\Widget\ColorWidget.h>
-#include <Dune\Editor\Widget\MatrixWidget.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/Math/Vector2f.h>
+#include <Sable/Core/Math/Vector3f.h>
+#include <Sable/Core/String/String.h>
+#include <Dune/Model/Asset/Asset.h>
+#include <Dune/Model/Property/Property.h> 
+#include <Dune/Model/Property/PropertyArray.h> 
+#include <Dune/Editor/Application/Application.h>
+#include <Dune/Editor/Widget/ScalarWidget.h>
+#include <Dune/Editor/Widget/VectorWidget.h>
+#include <Dune/Editor/Widget/ColorWidget.h>
+#include <Dune/Editor/Widget/MatrixWidget.h>
 
-#include <QtGui\QHBoxLayout>
-#include <QtGui\QLabel>
-#include <QtGui\QLineEdit>
-#include <QtGui\QPushButton>
-#include <QtGui\QSpinBox>
-#include <QtGui\QComboBox>
-#include <QtGui\QCheckBox>
+#include <QtGui/QHBoxLayout>
+#include <QtGui/QLabel>
+#include <QtGui/QLineEdit>
+#include <QtGui/QPushButton>
+#include <QtGui/QSpinBox>
+#include <QtGui/QComboBox>
+#include <QtGui/QCheckBox>
 
 
 

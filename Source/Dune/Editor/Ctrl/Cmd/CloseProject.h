@@ -1,7 +1,7 @@
 #ifndef _DUNE_EDITOR_CTRL_CMD_CLOSEPROJECT_
 #define _DUNE_EDITOR_CTRL_CMD_CLOSEPROJECT_
 
-#include <Dune\Editor\Ctrl\Cmd\Cmd.h>
+#include <Dune/Editor/Ctrl/Cmd/Cmd.h>
 
 
 

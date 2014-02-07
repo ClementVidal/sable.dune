@@ -1,6 +1,6 @@
-#include <Dune\Model\Asset\FBX\Interface.h>
+#include <Dune/Model/Asset/FBX/Interface.h>
 
-#include <Dune\Model\Asset\FBX\Doc.h>
+#include <Dune/Model/Asset/FBX/Doc.h>
 
 using namespace Dune;
 

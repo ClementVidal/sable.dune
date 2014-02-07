@@ -1,9 +1,9 @@
-#include <Dune\Editor\Application\Settings.h>
+#include <Dune/Editor/Application/Settings.h>
 
-#include <Dune\Model\Project\Project.h>
-#include <Dune\Common\Log.h>
+#include <Dune/Model/Project/Project.h>
+#include <Dune/Common/Log.h>
 
-#include <QtCore\QTextStream>
+#include <QtCore/QTextStream>
 
 using namespace Dune;
 

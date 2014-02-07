@@ -1,10 +1,10 @@
 #ifndef _DUNE_MODEl_ELEMENT_UI_TEXTFIELD_
 #define _DUNE_MODEl_ELEMENT_UI_TEXTFIELD_
 
-#include <Sable\Core\Common\DataTypes.h>
+#include <Sable/Core/Common/DataTypes.h>
 
-#include <Dune\Model\Gui\Widget.h>
-#include <Dune\Model\Property\Header.h>
+#include <Dune/Model/Gui/Widget.h>
+#include <Dune/Model/Property/Header.h>
 
 namespace Dune
 {

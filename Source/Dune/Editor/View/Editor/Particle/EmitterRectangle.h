@@ -1,10 +1,10 @@
 #ifndef _DUNE_EDITOR_VIEW_EDITOR_PARTICLE_EMITTERRECTANGLE_
 #define _DUNE_EDITOR_VIEW_EDITOR_PARTICLE_EMITTERRECTANGLE_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Dune\Editor\View\Editor\Particle\Emitter.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Dune/Editor/View/Editor/Particle/Emitter.h>
 
-#include <Dune\Editor\Widget\VectorWidget.h>
+#include <Dune/Editor/Widget/VectorWidget.h>
 
 
 

@@ -1,7 +1,7 @@
 #ifndef _DUNE_EDITOR_CTRL_CMD_REMOVEOBJECT_
 #define _DUNE_EDITOR_CTRL_CMD_REMOVEOBJECT_
 
-#include <Dune\Editor\Ctrl\Cmd\Meta.h>
+#include <Dune/Editor/Ctrl/Cmd/Meta.h>
 
 
 

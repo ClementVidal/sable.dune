@@ -1,6 +1,6 @@
-#include <Dune\Model\Gui\Text.h>
+#include <Dune/Model/Gui/Text.h>
 
-#include <Sable\Gui\Widget\Text.h>
+#include <Sable/Gui/Widget/Text.h>
 
 using namespace Dune;
 

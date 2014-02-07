@@ -1,14 +1,14 @@
 #ifndef _DUNE_EDITOR_VIEW_BANKOBJECTTREE_
 #define _DUNE_EDITOR_VIEW_BANKOBJECTTREE_
 
-#include <Sable\Core\Common\DataTypes.h>
+#include <Sable/Core/Common/DataTypes.h>
 
-#include <Dune\Editor\Ctrl\EventClient.h>
-#include <Dune\Editor\Utilities\IconTable.h>
-#include <Dune\Editor\View\FBXLoader.h>
+#include <Dune/Editor/Ctrl/EventClient.h>
+#include <Dune/Editor/Utilities/IconTable.h>
+#include <Dune/Editor/View/FBXLoader.h>
 
-#include <QtGui\QTreeWidget>
-#include <QtCore\QMimeData>
+#include <QtGui/QTreeWidget>
+#include <QtCore/QMimeData>
 
 
 

@@ -1,4 +1,4 @@
-#include <Dune\Editor\Widget\Float32RangeWidget.h> 
+#include <Dune/Editor/Widget/Float32RangeWidget.h> 
 
 using namespace Dune;
 

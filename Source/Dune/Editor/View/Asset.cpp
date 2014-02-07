@@ -1,13 +1,13 @@
-#include <Dune\Editor\View\Asset.h> 
+#include <Dune/Editor/View/Asset.h> 
 
-#include <Dune\Resources\Icons\AssetTools.xpm>
-#include <Dune\Resources\Icons\AssetType.xpm>
-#include <Dune\Editor\Ctrl\Cmd\MergeBank.h>
-#include <Dune\Editor\Widget\FBXObjectPicker.h>
-#include <Dune\Editor\Ctrl\Cmd\AddObjectFromFBX.h>
+#include <Dune/Resources/Icons/AssetTools.xpm>
+#include <Dune/Resources/Icons/AssetType.xpm>
+#include <Dune/Editor/Ctrl/Cmd/MergeBank.h>
+#include <Dune/Editor/Widget/FBXObjectPicker.h>
+#include <Dune/Editor/Ctrl/Cmd/AddObjectFromFBX.h>
 
-#include <QtGui\QFileDialog>
-#include <QtGui\QMessageBox>
+#include <QtGui/QFileDialog>
+#include <QtGui/QMessageBox>
 
 using namespace Dune;
 

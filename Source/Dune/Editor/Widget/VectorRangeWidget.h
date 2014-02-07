@@ -1,9 +1,9 @@
 #ifndef _DUNE_EDITOR_WIDGET_VECTORRANGEWIDGET_
 #define _DUNE_EDITOR_WIDGET_VECTORRANGEWIDGET_
 
-#include <Sable\Core\Common\DataTypes.h>
+#include <Sable/Core/Common/DataTypes.h>
 
-#include <Dune\Editor\Widget\VectorWidget.h> 
+#include <Dune/Editor/Widget/VectorWidget.h> 
 
 
 

@@ -1,19 +1,19 @@
-#include <Dune\Editor\View\MainFrame.h>
+#include <Dune/Editor/View/MainFrame.h>
 
-#include <Dune\Editor\View\Property.h>
-#include <Dune\Editor\View\Log.h>
-#include <Dune\Editor\View\CommandStacks.h>
-#include <Dune\Editor\View\Asset.h>
-#include <Dune\Editor\View\Scene.h>
-#include <Dune\Editor\View\UI.h>
-#include <Dune\Editor\View\Editor\EditorContainer.h>
-#include <Dune\Editor\Widget\BakeWindow.h> 
-#include <Dune\Editor\Ctrl\Project.h>
-#include <Dune\Common\Log.h>
-#include <Dune\Resources\Icons\MainFrame.xpm>
+#include <Dune/Editor/View/Property.h>
+#include <Dune/Editor/View/Log.h>
+#include <Dune/Editor/View/CommandStacks.h>
+#include <Dune/Editor/View/Asset.h>
+#include <Dune/Editor/View/Scene.h>
+#include <Dune/Editor/View/UI.h>
+#include <Dune/Editor/View/Editor/EditorContainer.h>
+#include <Dune/Editor/Widget/BakeWindow.h> 
+#include <Dune/Editor/Ctrl/Project.h>
+#include <Dune/Common/Log.h>
+#include <Dune/Resources/Icons/MainFrame.xpm>
 
-#include <QtGui\QShortcut>
-#include <QtGui\QMessageBox>
+#include <QtGui/QShortcut>
+#include <QtGui/QMessageBox>
 
 #define PROJECT_MENU_ID 2
 

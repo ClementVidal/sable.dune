@@ -1,6 +1,6 @@
-#include <Dune\Editor\View\Editor\Particle\KillOld.h>
+#include <Dune/Editor/View/Editor/Particle/KillOld.h>
 
-#include <Dune\Editor\Widget\VectorWidget.h>
+#include <Dune/Editor/Widget/VectorWidget.h>
 
 using namespace Dune;
 

@@ -1,9 +1,9 @@
 #ifndef _DUNE_EDITOR_VIEW_EDITOR_PARTICLE_OPERATOR_
 #define _DUNE_EDITOR_VIEW_EDITOR_PARTICLE_OPERATOR_
 
-#include <Sable\Core\Common\DataTypes.h>
+#include <Sable/Core/Common/DataTypes.h>
 
-#include <Dune\Editor\Widget\VectorRangeWidget.h>
+#include <Dune/Editor/Widget/VectorRangeWidget.h>
 
 #include <QtGui/QFormLayout>
 

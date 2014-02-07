@@ -1,5 +1,5 @@
 
-#include <Dune\Editor\View\Input\Mouse.h>
+#include <Dune/Editor/View/Input/Mouse.h>
 
 using namespace Dune;
 

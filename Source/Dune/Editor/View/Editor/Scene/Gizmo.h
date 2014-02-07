@@ -1,8 +1,8 @@
 #ifndef _DUNE_EDITOR_VIEW_EDITOR_SCENE_GIZMO_
 #define _DUNE_EDITOR_VIEW_EDITOR_SCENE_GIZMO_
 
-#include <Sable\Core\ManagedObject\ManagedObject.h>
-#include <Sable\Core\Event\Slot.h>
+#include <Sable/Core/ManagedObject/ManagedObject.h>
+#include <Sable/Core/Event/Slot.h>
 
 
 namespace Dune

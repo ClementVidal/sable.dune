@@ -1,9 +1,9 @@
 #ifndef _DUNE_EDITOR_VIEW_EDITOR_SCENE_
 #define _DUNE_EDITOR_VIEW_EDITOR_SCENE_
 
-#include <Dune\Editor\View\Editor\Editor.h>
-#include <Dune\Editor\View\Editor\Scene\Manipulator.h>
-#include <Dune\Editor\Utilities\IconTable.h>
+#include <Dune/Editor/View/Editor/Editor.h>
+#include <Dune/Editor/View/Editor/Scene/Manipulator.h>
+#include <Dune/Editor/Utilities/IconTable.h>
 
 namespace Dune
 {

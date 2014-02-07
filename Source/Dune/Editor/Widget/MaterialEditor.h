@@ -1,11 +1,11 @@
 #ifndef _DUNE_EDITOR_WIDGET_MATERIALEDITOR_
 #define _DUNE_EDITOR_WIDGET_MATERIALEDITOR_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Dune\Editor\Application\Application.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Dune/Editor/Application/Application.h>
 
-#include <QtGui\QDialog>
-#include <QtGui\QTreeWidget>
+#include <QtGui/QDialog>
+#include <QtGui/QTreeWidget>
 
 
 

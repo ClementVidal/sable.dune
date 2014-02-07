@@ -1,21 +1,21 @@
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\Common\Manager.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/Common/Manager.h>
 
 namespace Sb = Sable;
 
-#include <Dune\Model\Project\Header.h>
-#include <Dune\Common\Log.h>
-#include <Dune\Common\XMLDataLayout.h>
-#include <Dune\Common\CommandLineParser.h>
-#include <Dune\Bake\Configuration.h>
-#include <Dune\Bake\RequestDispatcher.h>
-#include <Dune\Bake\Context\header.h>
+#include <Dune/Model/Project/Header.h>
+#include <Dune/Common/Log.h>
+#include <Dune/Common/XMLDataLayout.h>
+#include <Dune/Common/CommandLineParser.h>
+#include <Dune/Bake/Configuration.h>
+#include <Dune/Bake/RequestDispatcher.h>
+#include <Dune/Bake/Context/header.h>
 
-#include <QtCore\QString>
-#include <QtCore\QDir>
-#include <QtCore\QFileInfo>
-#include <QtCore\QCoreApplication>
+#include <QtCore/QString>
+#include <QtCore/QDir>
+#include <QtCore/QFileInfo>
+#include <QtCore/QCoreApplication>
 
 using namespace Dune;
 

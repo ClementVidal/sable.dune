@@ -1,9 +1,9 @@
 #ifndef _DUNE_BAKE_CONTEXT_EDITOR_
 #define _DUNE_BAKE_CONTEXT_EDITOR_
 
-#include <Sable\Core\Common\DataTypes.h>
+#include <Sable/Core/Common/DataTypes.h>
 
-#include <Dune\Bake\Context\Context.h>
+#include <Dune/Bake/Context/Context.h>
 
 namespace Dune
 {

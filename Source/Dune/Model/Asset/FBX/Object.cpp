@@ -1,4 +1,4 @@
-#include <Dune\Model\Asset\FBX\Object.h>
+#include <Dune/Model/Asset/FBX/Object.h>
 
 IMPLEMENT_MANAGED_CLASS( Dune, CFBXObject );
 

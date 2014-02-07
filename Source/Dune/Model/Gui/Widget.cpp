@@ -1,9 +1,9 @@
-#include <Dune\Model\Gui\Widget.h>
+#include <Dune/Model/Gui/Widget.h>
 
-#include <Dune\Model\Asset\Asset.h>
-#include <Dune\Editor\Ctrl\Editor\UI\UI.h>
+#include <Dune/Model/Asset/Asset.h>
+#include <Dune/Editor/Ctrl/Editor/UI/UI.h>
 
-#include <Sable\Gui\Widget\Header.h>
+#include <Sable/Gui/Widget/Header.h>
 
 using namespace Dune;
 

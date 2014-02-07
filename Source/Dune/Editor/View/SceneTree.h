@@ -1,9 +1,9 @@
 #ifndef _DUNE_EDITOR_VIEW_SCENETREE_
 #define _DUNE_EDITOR_VIEW_SCENETREE_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Dune\Editor\Utilities\IconTable.h>
-#include <Dune\Editor\View\BankObjectTree.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Dune/Editor/Utilities/IconTable.h>
+#include <Dune/Editor/View/BankObjectTree.h>
 
 namespace Dune
 {

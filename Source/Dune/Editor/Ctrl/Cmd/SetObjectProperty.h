@@ -1,8 +1,8 @@
 #ifndef _DUNE_EDITOR_CTRL_CMD_SETOBJECTPROPERTY_
 #define _DUNE_EDITOR_CTRL_CMD_SETOBJECTPROPERTY_
 
-#include <Dune\Editor\Ctrl\Cmd\Cmd.h>
-#include <Dune\Model\Bank\Bank.h>
+#include <Dune/Editor/Ctrl/Cmd/Cmd.h>
+#include <Dune/Model/Bank/Bank.h>
 
 
 

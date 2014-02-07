@@ -1,9 +1,9 @@
-#include <Dune\Editor\Ctrl\CommandProcessor.h>
+#include <Dune/Editor/Ctrl/CommandProcessor.h>
 
-#include <Dune\Model\Project\Project.h>
-#include <Dune\Editor\Ctrl\Cmd\Cmd.h>
+#include <Dune/Model/Project/Project.h>
+#include <Dune/Editor/Ctrl/Cmd/Cmd.h>
 
-#include <Dune\Common\LexicalCast.h>
+#include <Dune/Common/LexicalCast.h>
 
 using namespace Dune;
 

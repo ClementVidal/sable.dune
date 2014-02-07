@@ -1,4 +1,4 @@
-#include <Dune\Model\Bank\Object.h>
+#include <Dune/Model/Bank/Object.h>
 
 using namespace Dune;
 

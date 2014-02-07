@@ -1,4 +1,4 @@
-#include <Dune\Model\Scene\NodeRender.h>
+#include <Dune/Model/Scene/NodeRender.h>
 
 using namespace Dune;
 

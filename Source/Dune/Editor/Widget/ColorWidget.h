@@ -1,7 +1,7 @@
 #ifndef _DUNE_EDITOR_WIDGET_COLORWIDGET_
 #define _DUNE_EDITOR_WIDGET_COLORWIDGET_
 
-#include <Sable\Core\Common\DataTypes.h>
+#include <Sable/Core/Common/DataTypes.h>
 
 
 

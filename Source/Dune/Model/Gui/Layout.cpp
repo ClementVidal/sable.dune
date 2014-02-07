@@ -1,6 +1,6 @@
-#include <Dune\Model\Gui\Layout.h>
+#include <Dune/Model/Gui/Layout.h>
 
-#include <Sable\Gui\Layout\Layout.h>
+#include <Sable/Gui/Layout/Layout.h>
 
 using namespace Dune;
 

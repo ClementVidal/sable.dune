@@ -1,8 +1,8 @@
-#include <Dune\Editor\Widget\ObjectPicker.h> 
+#include <Dune/Editor/Widget/ObjectPicker.h> 
 
-#include <Dune\Model\Project\Project.h>
-#include <Dune\Model\Asset\Asset.h>
-#include <Dune\Editor\Application\Application.h>
+#include <Dune/Model/Project/Project.h>
+#include <Dune/Model/Asset/Asset.h>
+#include <Dune/Editor/Application/Application.h>
 
 using namespace Dune;
 

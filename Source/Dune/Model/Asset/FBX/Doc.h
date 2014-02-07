@@ -1,8 +1,8 @@
 #ifndef _DUNE_MODEL_ASSET_FBX_DAE_
 #define _DUNE_MODEL_ASSET_FBX_DAE_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\ManagedObject\ManagedObject.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/ManagedObject/ManagedObject.h>
 
 #include <fbxsdk.h>
 

@@ -1,9 +1,9 @@
 #ifndef _DUNE_EDITOR_VIEW_EDITOR_PARTICLE_GRAVITY_
 #define _DUNE_EDITOR_VIEW_EDITOR_PARTICLE_GRAVITY_
 
-#include <Sable\Core\Common\DataTypes.h>
+#include <Sable/Core/Common/DataTypes.h>
 
-#include <QtGui\QFormLayout>
+#include <QtGui/QFormLayout>
 
 
 

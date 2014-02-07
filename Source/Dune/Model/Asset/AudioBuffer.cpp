@@ -1,8 +1,8 @@
-#include <Dune\Model\Asset\AudioBuffer.h>
+#include <Dune/Model/Asset/AudioBuffer.h>
 
-#include <Dune\Model\Project\Project.h>
-#include <Dune\Bake\ObjectSet.h>
-#include <Sable\Audio\Buffer\Header.h>
+#include <Dune/Model/Project/Project.h>
+#include <Dune/Bake/ObjectSet.h>
+#include <Sable/Audio/Buffer/Header.h>
 
 using namespace Dune;
  

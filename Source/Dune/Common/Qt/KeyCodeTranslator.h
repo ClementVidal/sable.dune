@@ -1,8 +1,8 @@
 #ifndef _DUNE_COMMON_KEYCODETRANSLATOR_
 #define _DUNE_COMMON_KEYCODETRANSLATOR_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Input\Keyboard\Event.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Input/Keyboard/Event.h>
 
 //#include 
 namespace Dune

@@ -1,6 +1,6 @@
-#include <Dune\Editor\Ctrl\Cmd\LoadProject.h>
+#include <Dune/Editor/Ctrl/Cmd/LoadProject.h>
 
-#include <Dune\Editor\Ctrl\Project.h>
+#include <Dune/Editor/Ctrl/Project.h>
 
 IMPLEMENT_MANAGED_CLASS1( Dune, CCmdLoadProject, CCmd );
 

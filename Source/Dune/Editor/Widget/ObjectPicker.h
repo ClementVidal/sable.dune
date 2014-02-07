@@ -1,11 +1,11 @@
 #ifndef _DUNE_EDITOR_VIEW_OBJECTPICKER_
 #define _DUNE_EDITOR_VIEW_OBJECTPICKER_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Dune\Editor\Application\Application.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Dune/Editor/Application/Application.h>
 
-#include <QtGui\QComboBox>
-#include <QtGui\QTreeWidget>
+#include <QtGui/QComboBox>
+#include <QtGui/QTreeWidget>
 
 
 

@@ -1,9 +1,9 @@
 #ifndef _DUNE_EDITOR_WIDGET_VECTORWIDGET_
 #define _DUNE_EDITOR_WIDGET_VECTORWIDGET_
 
-#include <Sable\Core\Common\DataTypes.h>
+#include <Sable/Core/Common/DataTypes.h>
 
-#include <Dune\Editor\Widget\ScalarWidget.h> 
+#include <Dune/Editor/Widget/ScalarWidget.h> 
 
 namespace Dune
 {

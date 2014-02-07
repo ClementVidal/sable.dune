@@ -1,7 +1,7 @@
-#include <Dune\Common\ObjLoader.h>
+#include <Dune/Common/ObjLoader.h>
 
-#include <Sable\Core\Common\Buffer.h>
-#include <Sable\Core\File\File.h>
+#include <Sable/Core/Common/Buffer.h>
+#include <Sable/Core/File/File.h>
 
 using namespace Dune;
 

@@ -1,4 +1,4 @@
-#include <Dune\Editor\Widget\TextEditor.h> 
+#include <Dune/Editor/Widget/TextEditor.h> 
 
 using namespace Dune;
 

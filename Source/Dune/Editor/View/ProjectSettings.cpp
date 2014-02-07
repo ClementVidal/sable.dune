@@ -1,7 +1,7 @@
-#include <Dune\Editor\View\ProjectSettings.h>
+#include <Dune/Editor/View/ProjectSettings.h>
 
-#include <Dune\Model\Project\Project.h>
-#include <Dune\Editor\Application\Application.h>
+#include <Dune/Model/Project/Project.h>
+#include <Dune/Editor/Application/Application.h>
 
 using namespace Dune;
 

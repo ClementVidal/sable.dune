@@ -1,8 +1,8 @@
-#include <Dune\Common\XMLDataLayout.h>
+#include <Dune/Common/XMLDataLayout.h>
 
-#include <QtCore\QFile>
-#include <QtCore\QTextStream>
-#include <QtXml\QDomText>
+#include <QtCore/QFile>
+#include <QtCore/QTextStream>
+#include <QtXml/QDomText>
 
 Sb::CXMLDataLayout::CXMLDataLayout( const Sb::CFilePath& path )
 {

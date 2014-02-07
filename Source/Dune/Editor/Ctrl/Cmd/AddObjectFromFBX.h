@@ -1,9 +1,9 @@
 #ifndef _DUNE_EDITOR_CTRL_CMD_ADDELEMENTFROMDAE_
 #define _DUNE_EDITOR_CTRL_CMD_ADDELEMENTFROMDAE_
 
-#include <Dune\Editor\Ctrl\Cmd\Cmd.h>
+#include <Dune/Editor/Ctrl/Cmd/Cmd.h>
 
-#include <Dune\Model\Asset\FBX\Object.h>
+#include <Dune/Model/Asset/FBX/Object.h>
 
 namespace Dune
 {

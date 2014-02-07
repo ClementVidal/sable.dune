@@ -1,18 +1,18 @@
 #ifndef _DUNE_EDITOR_VIEW_PROPERTYARRAYTYPE_
 #define _DUNE_EDITOR_VIEW_PROPERTYARRAYTYPE_
 
-#include <Sable\Core\Common\DataTypes.h>
+#include <Sable/Core/Common/DataTypes.h>
 
-#include <Dune\Editor\View\PropertyType.h>
+#include <Dune/Editor/View/PropertyType.h>
 
-#include <QtGui\QHBoxLayout>
-#include <QtGui\QLabel>
-#include <QtGui\QLineEdit>
-#include <QtGui\QPushButton>
-#include <QtGui\QSpinBox>
-#include <QtGui\QDoubleSpinBox>
-#include <QtGui\QComboBox>
-#include <QtGui\QCheckBox>
+#include <QtGui/QHBoxLayout>
+#include <QtGui/QLabel>
+#include <QtGui/QLineEdit>
+#include <QtGui/QPushButton>
+#include <QtGui/QSpinBox>
+#include <QtGui/QDoubleSpinBox>
+#include <QtGui/QComboBox>
+#include <QtGui/QCheckBox>
 
 
 

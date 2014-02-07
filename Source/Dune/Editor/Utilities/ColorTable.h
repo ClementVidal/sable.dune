@@ -1,9 +1,9 @@
 #ifndef _DUNE_EDITOR_UTILITIES_COLORTABLE_
 #define _DUNE_EDITOR_UTILITIES_COLORTABLE_
 
-#include <Sable\Core\Common\DataTypes.h>
+#include <Sable/Core/Common/DataTypes.h>
 
-#include <QtGui\Qcolor>
+#include <QtGui/Qcolor>
 
 #define COLOR_TABLE_SIZE 12
 

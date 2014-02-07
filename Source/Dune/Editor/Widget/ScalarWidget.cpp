@@ -1,4 +1,4 @@
-#include <Dune\Editor\Widget\ScalarWidget.h> 
+#include <Dune/Editor/Widget/ScalarWidget.h> 
 
 using namespace Dune;
 

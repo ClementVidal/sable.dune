@@ -1,7 +1,7 @@
 #ifndef _DUNE_EDITOR_VIEW_EDITOR_SCENE_MANIPULATORHANDLETRANSLATION_
 #define _DUNE_EDITOR_VIEW_EDITOR_SCENE_MANIPULATORHANDLETRANSLATION_
 
-#include <Dune\Editor\View\Editor\Scene\Handle.h>
+#include <Dune/Editor/View/Editor/Scene/Handle.h>
 
 namespace Dune
 {

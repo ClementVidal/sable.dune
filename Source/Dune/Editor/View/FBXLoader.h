@@ -1,10 +1,10 @@
 #ifndef _DUNE_EDITOR_VIEW_COLLADALOADER_
 #define _DUNE_EDITOR_VIEW_COLLADALOADER_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <SAble\Core\Thread\Thread.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <SAble/Core/Thread/Thread.h>
 
-#include <QtCore\QTimer>
+#include <QtCore/QTimer>
 
 
 

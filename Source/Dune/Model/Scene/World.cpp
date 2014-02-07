@@ -1,6 +1,6 @@
-#include <Dune\Model\Scene\World.h>
+#include <Dune/Model/Scene/World.h>
 
-#include <Sable\Graphics\Scene\World.h>
+#include <Sable/Graphics/Scene/World.h>
 
 using namespace Dune;
 

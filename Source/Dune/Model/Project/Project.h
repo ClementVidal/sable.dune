@@ -1,16 +1,16 @@
 #ifndef _DUNE_MODEL_PROJECT_PROJECT_
 #define _DUNE_MODEL_PROJECT_PROJECT_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\Collection\Map.h>
-#include <Sable\Core\ManagedObject\Ref.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/Collection/Map.h>
+#include <Sable/Core/ManagedObject/Ref.h>
 
-#include <Dune\Model\Bank\Bank.h>
-#include <Dune\Model\Project\Settings.h>
-#include <Dune\Model\Bank\Object.h>
-#include <Dune\Common\Uuid.h>
-#include <Dune\Model\Asset\FBX\Manager.h>
-#include <Dune\Model\Bank\ObjectAccessor.h>
+#include <Dune/Model/Bank/Bank.h>
+#include <Dune/Model/Project/Settings.h>
+#include <Dune/Model/Bank/Object.h>
+#include <Dune/Common/Uuid.h>
+#include <Dune/Model/Asset/FBX/Manager.h>
+#include <Dune/Model/Bank/ObjectAccessor.h>
 
 #define Project_SystemBankIndex INT32_MAX_VAL
 

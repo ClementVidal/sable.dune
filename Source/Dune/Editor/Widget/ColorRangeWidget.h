@@ -1,9 +1,9 @@
 #ifndef _DUNE_EDITOR_WIDGET_COLORRANGEWIDGET_
 #define _DUNE_EDITOR_WIDGET_COLORRANGEWIDGET_
 
-#include <Sable\Core\Common\DataTypes.h>
+#include <Sable/Core/Common/DataTypes.h>
 
-#include <Dune\Editor\Widget\ColorWidget.h> 
+#include <Dune/Editor/Widget/ColorWidget.h> 
 
 
 

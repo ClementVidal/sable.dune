@@ -1,12 +1,12 @@
 #ifndef _DUNE_MODEL_ASSET_TEXTURE3D_
 #define _DUNE_MODEL_ASSET_TEXTURE3D_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\File\FilePath.h>
-#include <Sable\Core\Collection\Array.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/File/FilePath.h>
+#include <Sable/Core/Collection/Array.h>
 
-#include <Dune\Model\Asset\Asset.h>
-#include <Dune\Model\Property\Property.h>
+#include <Dune/Model/Asset/Asset.h>
+#include <Dune/Model/Property/Property.h>
 
 
 

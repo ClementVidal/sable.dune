@@ -1,12 +1,12 @@
 #ifndef _DUNE_EDITOR_VIEW_EDITOR_EDITOR_
 #define _DUNE_EDITOR_VIEW_EDITOR_EDITOR_
 
-#include <Sable\Core\String\String.h>
-#include <Sable\Core\Event\Header.h>
+#include <Sable/Core/String/String.h>
+#include <Sable/Core/Event/Header.h>
 
-#include <QtGui\QFrame>
-#include <QtGui\QWidget>
-#include <QtCore\QTimer>
+#include <QtGui/QFrame>
+#include <QtGui/QWidget>
+#include <QtCore/QTimer>
 
 namespace Dune
 {

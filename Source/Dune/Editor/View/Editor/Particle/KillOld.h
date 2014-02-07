@@ -1,8 +1,8 @@
 #ifndef _DUNE_EDITOR_VIEW_EDITOR_PARTICLE_KILLOLD_
 #define _DUNE_EDITOR_VIEW_EDITOR_PARTICLE_KILLOLD_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Graphics\Particle\Operator\KillOld.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Graphics/Particle/Operator/KillOld.h>
 
 #include <QtGui/QFrame>
 #include <QtGui/QFormLayout>

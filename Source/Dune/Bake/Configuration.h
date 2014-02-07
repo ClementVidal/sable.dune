@@ -1,10 +1,10 @@
 #ifndef _DUNE_BAKE_CONFIGURATION_
 #define _DUNE_BAKE_CONFIGURATION_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\File\FilePath.h>
-#include <Sable\Core\Collection\BitArray.h>
-#include <Sable\Core\ManagedObject\Ref.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/File/FilePath.h>
+#include <Sable/Core/Collection/BitArray.h>
+#include <Sable/Core/ManagedObject/Ref.h>
 
 namespace Dune
 {

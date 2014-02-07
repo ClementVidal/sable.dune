@@ -1,6 +1,6 @@
-#include <Dune\Editor\Widget\GameObjectEditor.h> 
+#include <Dune/Editor/Widget/GameObjectEditor.h> 
 
-#include <Sable\Game\Service\Service.h>
+#include <Sable/Game/Service/Service.h>
 
 using namespace Dune;
 

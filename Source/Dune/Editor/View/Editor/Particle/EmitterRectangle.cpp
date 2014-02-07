@@ -1,7 +1,7 @@
-#include <Dune\Editor\View\Editor\Particle\EmitterRectangle.h>
+#include <Dune/Editor/View/Editor/Particle/EmitterRectangle.h>
 
-//#include <Dune\Editor\Widget\VectorWidget.h>
-//#include <Dune\Editor\Widget\WxFloatInputCtrl.h>
+//#include <Dune/Editor/Widget/VectorWidget.h>
+//#include <Dune/Editor/Widget/WxFloatInputCtrl.h>
 
 using namespace Dune;
 

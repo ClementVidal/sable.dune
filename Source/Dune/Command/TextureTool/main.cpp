@@ -1,15 +1,15 @@
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\Common\Manager.h>
-#include <Sable\Media\Dds\Header.h>
-#include <Sable\Media\Tga\Header.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/Common/Manager.h>
+#include <Sable/Media/Dds/Header.h>
+#include <Sable/Media/Tga/Header.h>
 
-#include <Dune\Model\Project\Header.h>
-#include <Dune\Common\Log.h>
-#include <Dune\Bake\Configuration.h>
+#include <Dune/Model/Project/Header.h>
+#include <Dune/Common/Log.h>
+#include <Dune/Bake/Configuration.h>
 
-#include <wx\cmdline.h>
-#include <wx\filename.h>
-#include <wx\dir.h>
+#include <wx/cmdline.h>
+#include <wx/filename.h>
+#include <wx/dir.h>
 
 using namespace Dune;
 Void Process3DTexture( CTextureInfo& textureInfo, const wxFileName& inputFileName, const wxFileName& outputFileName )

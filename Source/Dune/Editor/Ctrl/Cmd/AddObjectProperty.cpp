@@ -1,4 +1,4 @@
-#include <Dune\Editor\Ctrl\Cmd\AddObjectProperty.h>
+#include <Dune/Editor/Ctrl/Cmd/AddObjectProperty.h>
 
 IMPLEMENT_MANAGED_CLASS1( Dune, CCmdAddObjectProperty, CCmd );
 

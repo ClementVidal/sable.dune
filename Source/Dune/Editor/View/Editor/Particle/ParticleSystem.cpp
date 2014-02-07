@@ -1,12 +1,12 @@
-#include <Dune\Editor\View\Editor\Particle\ParticleSystem.h>
+#include <Dune/Editor/View/Editor/Particle/ParticleSystem.h>
 
-#include <Sable\Graphics\Particle\Operator\Header.h>
+#include <Sable/Graphics/Particle/Operator/Header.h>
 
-#include <Dune\Editor\View\Editor\Particle\Header.h>
-#include <Dune\Bake\Context\Header.h>
-#include <Dune\Editor\Ctrl\Editor\Particle\ParticleSystem.h>
+#include <Dune/Editor/View/Editor/Particle/Header.h>
+#include <Dune/Bake/Context/Header.h>
+#include <Dune/Editor/Ctrl/Editor/Particle/ParticleSystem.h>
 
-#include <QtGui\QInputDialog>
+#include <QtGui/QInputDialog>
 
 using namespace Dune;
 

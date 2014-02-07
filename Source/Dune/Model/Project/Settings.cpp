@@ -1,4 +1,4 @@
-#include <Dune\Model\Project\Settings.h>
+#include <Dune/Model/Project/Settings.h>
 
 using namespace Dune;
 

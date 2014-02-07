@@ -1,13 +1,13 @@
 #ifndef _DUNE_EDITOR_WIDGET_IMAGEVIEWER_
 #define _DUNE_EDITOR_WIDGET_IMAGEVIEWER_
 
-#include <Sable\Core\Common\DataTypes.h>
+#include <Sable/Core/Common/DataTypes.h>
 
-#include <Dune\Editor\Utilities\IconTable.h>
+#include <Dune/Editor/Utilities/IconTable.h>
 
-#include <QtGui\Qlabel>
-#include <QtGui\QScrollArea>
-#include <QtGui\QDockWidget>
+#include <QtGui/Qlabel>
+#include <QtGui/QScrollArea>
+#include <QtGui/QDockWidget>
 
 namespace Sable
 {

@@ -1,10 +1,10 @@
-#include <Dune\Editor\Widget\ShaderEditor.h> 
+#include <Dune/Editor/Widget/ShaderEditor.h> 
 
-#include <Dune\Resources\Icons\ShaderEditor.xpm>
-#include <Sable\Graphics\Shader\Compiler.h>
-#include <Dune\Editor\Widget\ShaderEditorSyntaxHighlighter.h> 
+#include <Dune/Resources/Icons/ShaderEditor.xpm>
+#include <Sable/Graphics/Shader/Compiler.h>
+#include <Dune/Editor/Widget/ShaderEditorSyntaxHighlighter.h> 
 
-#include <QtGui\QSplitter>
+#include <QtGui/QSplitter>
 
 using namespace Dune;
 

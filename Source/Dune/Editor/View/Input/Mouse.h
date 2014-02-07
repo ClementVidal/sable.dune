@@ -1,10 +1,10 @@
 #ifndef _DUNE_VIEW_INPUT_MOUSE_MOUSE_
 #define _DUNE_VIEW_INPUT_MOUSE_MOUSE_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\ManagedObject\Header.h>
-#include <Sable\Input\Mouse\Interface.h>
-#include <Sable\Application\Window.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/ManagedObject/Header.h>
+#include <Sable/Input/Mouse/Interface.h>
+#include <Sable/Application/Window.h>
 
 
 namespace Dune

@@ -1,13 +1,13 @@
-#include <Dune\Editor\Ctrl\Editor\Scene\Scene.h>
+#include <Dune/Editor/Ctrl/Editor/Scene/Scene.h>
 
-#include <Dune\Editor\Ctrl\Project.h>
-#include <Dune\Model\Scene\NodeRender.h>
-#include <Dune\Model\Scene\CameraPerspective.h>
-#include <Dune\Editor\View\Editor\DisplayWindow.h>
-#include <Sable\Input\Keyboard\Interface.h>
-#include <Sable\Gui\Widget\Widget.h>
-#include <Sable\Graphics\Camera\Camera.h>
-#include <Dune\Editor\View\Editor\Scene\GizmoCamera.h>
+#include <Dune/Editor/Ctrl/Project.h>
+#include <Dune/Model/Scene/NodeRender.h>
+#include <Dune/Model/Scene/CameraPerspective.h>
+#include <Dune/Editor/View/Editor/DisplayWindow.h>
+#include <Sable/Input/Keyboard/Interface.h>
+#include <Sable/Gui/Widget/Widget.h>
+#include <Sable/Graphics/Camera/Camera.h>
+#include <Dune/Editor/View/Editor/Scene/GizmoCamera.h>
 
 using namespace Dune;
 

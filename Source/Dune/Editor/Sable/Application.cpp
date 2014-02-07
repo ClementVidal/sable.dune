@@ -1,9 +1,9 @@
-#include <Dune\Editor\Sable\Application.h>
+#include <Dune/Editor/Sable/Application.h>
 
-#include <Dune\Editor\View\Input\Mouse.h>
-#include <Dune\Editor\View\Input\Keyboard.h>
+#include <Dune/Editor/View/Input/Mouse.h>
+#include <Dune/Editor/View/Input/Keyboard.h>
 
-#include <Sable\Input\Pad\Header.h>
+#include <Sable/Input/Pad/Header.h>
 
 using namespace Dune;
 

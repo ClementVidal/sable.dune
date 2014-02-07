@@ -1,4 +1,4 @@
-#include <Dune\Editor\View\Log.h> 
+#include <Dune/Editor/View/Log.h> 
 
 using namespace Dune;
 

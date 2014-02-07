@@ -1,9 +1,9 @@
 #ifndef _DUNE_EDITOR_VIEW_EDITOR_SCENE_GIZMOCAMERA_
 #define _DUNE_EDITOR_VIEW_EDITOR_SCENE_GIZMOCAMERA_
 
-#include <Sable\Core\ManagedObject\ManagedObject.h>
-#include <Sable\Core\Event\Slot.h>
-#include <Dune\Editor\View\Editor\Scene\Gizmo.h>
+#include <Sable/Core/ManagedObject/ManagedObject.h>
+#include <Sable/Core/Event/Slot.h>
+#include <Dune/Editor/View/Editor/Scene/Gizmo.h>
 
 namespace Dune
 {

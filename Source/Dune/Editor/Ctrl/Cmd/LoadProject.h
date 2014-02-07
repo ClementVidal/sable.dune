@@ -1,9 +1,9 @@
 #ifndef _DUNE_EDITOR_CTRL_CMD_LOADPROJECT_
 #define _DUNE_EDITOR_CTRL_CMD_LOADPROJECT_
 
-#include <Dune\Editor\Ctrl\Cmd\Cmd.h>
+#include <Dune/Editor/Ctrl/Cmd/Cmd.h>
 
-#include <Sable\Core\File\FilePath.h>
+#include <Sable/Core/File/FilePath.h>
 
 
 

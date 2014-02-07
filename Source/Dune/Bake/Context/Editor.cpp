@@ -1,6 +1,6 @@
-#include <Dune\Bake\Context\Editor.h>
+#include <Dune/Bake/Context/Editor.h>
 
-#include <QtCore\QDir>
+#include <QtCore/QDir>
 
 using namespace Dune;
 

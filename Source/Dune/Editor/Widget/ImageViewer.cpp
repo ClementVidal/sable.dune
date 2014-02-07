@@ -1,9 +1,9 @@
-#include <Dune\Editor\Widget\ImageViewer.h> 
+#include <Dune/Editor/Widget/ImageViewer.h> 
 
-#include <Sable\Media\Dds\DDSFile.h>
-#include <Sable\Media\Tga\TGAFile.h>
+#include <Sable/Media/Dds/DDSFile.h>
+#include <Sable/Media/Tga/TGAFile.h>
 
-#include <QtGui\QPixmap>
+#include <QtGui/QPixmap>
 
 using namespace Dune;
 

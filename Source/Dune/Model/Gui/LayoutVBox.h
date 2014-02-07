@@ -1,9 +1,9 @@
 #ifndef _DUNE_MODEl_ELEMENT_UI_LAYOUTVBOX_
 #define _DUNE_MODEl_ELEMENT_UI_LAYOUTVBOX_
 
-#include <Dune\Model\Gui\Layout.h>
+#include <Dune/Model/Gui/Layout.h>
 
-#include <Sable\Core\Common\DataTypes.h>
+#include <Sable/Core/Common/DataTypes.h>
 
 
 

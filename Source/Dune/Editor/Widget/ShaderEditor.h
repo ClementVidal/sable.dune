@@ -1,14 +1,14 @@
 #ifndef _DUNE_EDITOR_WIDGET_SHADEREDITOR_
 #define _DUNE_EDITOR_WIDGET_SHADEREDITOR_
 
-#include <Sable\Core\Common\DataTypes.h>
+#include <Sable/Core/Common/DataTypes.h>
 
-#include <Dune\Editor\Utilities\IconTable.h>
+#include <Dune/Editor/Utilities/IconTable.h>
 
-#include <QtGui\QTextEdit>
-#include <QtGui\QListWidget>
-#include <QtGui\QSyntaxHighlighter>
-#include <QtGui\QDockWidget>
+#include <QtGui/QTextEdit>
+#include <QtGui/QListWidget>
+#include <QtGui/QSyntaxHighlighter>
+#include <QtGui/QDockWidget>
 
 namespace Dune
 {

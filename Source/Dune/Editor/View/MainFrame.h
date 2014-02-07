@@ -1,16 +1,16 @@
 #ifndef _DUNE_EDITOR_VIEW_MAINFRAME_
 #define _DUNE_EDITOR_VIEW_MAINFRAME_
 
-#include <SAble\Core\Math\Vector2f.h>
+#include <SAble/Core/Math/Vector2f.h>
 
-#include <Dune\Editor\Ctrl\EventClient.h>
+#include <Dune/Editor/Ctrl/EventClient.h>
 
-#include <QtGui\QMainWindow>
-#include <QtGui\QMenuBar>
-#include <QtGui\QMenu>
-#include <QtGui\QStatusBar>
-#include <QtCore\QSignalMapper>
-#include <QtGui\QProgressBar>
+#include <QtGui/QMainWindow>
+#include <QtGui/QMenuBar>
+#include <QtGui/QMenu>
+#include <QtGui/QStatusBar>
+#include <QtCore/QSignalMapper>
+#include <QtGui/QProgressBar>
 
 namespace Dune
 {

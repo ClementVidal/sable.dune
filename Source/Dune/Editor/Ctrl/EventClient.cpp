@@ -1,10 +1,10 @@
-#include <Dune\Editor\Ctrl\EventClient.h>
+#include <Dune/Editor/Ctrl/EventClient.h>
 
-#include <Dune\Editor\Ctrl\CommandProcessor.h>
-#include <Dune\Model\Project\Project.h>
-#include <Dune\Model\Property\Interface.h>
-#include <Dune\Model\Bank\Object.h>
-#include <Dune\Editor\Application\Application.h>
+#include <Dune/Editor/Ctrl/CommandProcessor.h>
+#include <Dune/Model/Project/Project.h>
+#include <Dune/Model/Property/Interface.h>
+#include <Dune/Model/Bank/Object.h>
+#include <Dune/Editor/Application/Application.h>
 
 using namespace Dune;
 

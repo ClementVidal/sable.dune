@@ -1,4 +1,4 @@
-#include <Dune\Editor\Ctrl\Cmd\SelectObject.h>
+#include <Dune/Editor/Ctrl/Cmd/SelectObject.h>
 
 IMPLEMENT_MANAGED_CLASS1( Dune, CCmdSelectObject, CCmd );
 

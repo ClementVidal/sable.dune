@@ -1,9 +1,9 @@
-#include <Dune\Editor\View\Editor\UI\UI.h>
+#include <Dune/Editor/View/Editor/UI/UI.h>
 
-#include <Sable\Input\Keyboard\Interface.h>
-#include <Sable\Graphics\Debug\RenderPass.h>
-#include <Dune\Editor\Sable\EditorRenderer.h>
-#include <Dune\Editor\Ctrl\Editor\UI\UI.h>
+#include <Sable/Input/Keyboard/Interface.h>
+#include <Sable/Graphics/Debug/RenderPass.h>
+#include <Dune/Editor/Sable/EditorRenderer.h>
+#include <Dune/Editor/Ctrl/Editor/UI/UI.h>
 
 using namespace Dune;
 

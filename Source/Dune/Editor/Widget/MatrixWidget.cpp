@@ -1,4 +1,4 @@
-#include <Dune\Editor\Widget\MatrixWidget.h> 
+#include <Dune/Editor/Widget/MatrixWidget.h> 
 
 using namespace Dune;
 

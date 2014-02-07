@@ -1,11 +1,11 @@
 #ifndef _DUNE_EDITOR_VIEW_UITREE_
 #define _DUNE_EDITOR_VIEW_UITREE_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Dune\Editor\Ctrl\EventClient.h>
-#include <Dune\Editor\Utilities\ColorTable.h>
-#include <Dune\Editor\Utilities\IconTable.h>
-#include <Dune\Editor\View\BankObjectTree.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Dune/Editor/Ctrl/EventClient.h>
+#include <Dune/Editor/Utilities/ColorTable.h>
+#include <Dune/Editor/Utilities/IconTable.h>
+#include <Dune/Editor/View/BankObjectTree.h>
 
 
 namespace Dune

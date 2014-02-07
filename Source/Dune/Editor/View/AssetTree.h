@@ -1,15 +1,15 @@
 #ifndef _DUNE_EDITOR_VIEW_ASSETTREE_
 #define _DUNE_EDITOR_VIEW_ASSETTREE_
 
-#include <Sable\Core\Common\DataTypes.h>
+#include <Sable/Core/Common/DataTypes.h>
 
-#include <Dune\Editor\View\BankObjectTree.h>
-#include <Dune\Editor\Ctrl\EventClient.h>
-#include <Dune\Editor\Utilities\IconTable.h>
+#include <Dune/Editor/View/BankObjectTree.h>
+#include <Dune/Editor/Ctrl/EventClient.h>
+#include <Dune/Editor/Utilities/IconTable.h>
 
-#include <QtGui\QTreeWidget>
-#include <QtCore\QMimeData>
-#include <QtCore\QFileSystemWatcher>
+#include <QtGui/QTreeWidget>
+#include <QtCore/QMimeData>
+#include <QtCore/QFileSystemWatcher>
 
 namespace Dune
 {

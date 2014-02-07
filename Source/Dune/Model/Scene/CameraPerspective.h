@@ -1,8 +1,8 @@
 #ifndef _DUNE_MODEL_ELEMENT_SCENE_CAMERAPERSPECTIVE_
 #define _DUNE_MODEL_ELEMENT_SCENE_CAMERAPERSPECTIVE_
 
-#include <Dune\Model\Bank\Object.h>
-#include <Dune\Model\Scene\NodeSpatial.h>
+#include <Dune/Model/Bank/Object.h>
+#include <Dune/Model/Scene/NodeSpatial.h>
 
 namespace Dune
 {

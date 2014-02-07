@@ -1,9 +1,9 @@
 #ifndef _DUNE_EDITOR_EDITOR_SABLE_EDITORWINDOW_
 #define _DUNE_EDITOR_EDITOR_SABLE_EDITORWINDOW_
 
-#include <Sable\Core\Common\DataTypes.h>
+#include <Sable/Core/Common/DataTypes.h>
 
-#include <Sable\Application\Window.h>
+#include <Sable/Application/Window.h>
 
 namespace Dune
 {

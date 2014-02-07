@@ -1,8 +1,8 @@
-#include <Dune\Model\Asset\ParticleSystem.h>
+#include <Dune/Model/Asset/ParticleSystem.h>
 
-#include <Dune\Common\XMLDataLayout.h>
-#include <Dune\Model\Project\Project.h>
-#include <Sable\Graphics\Particle\Header.h>
+#include <Dune/Common/XMLDataLayout.h>
+#include <Dune/Model/Project/Project.h>
+#include <Sable/Graphics/Particle/Header.h>
 
 using namespace Dune;
 

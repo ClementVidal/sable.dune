@@ -1,12 +1,12 @@
 #ifndef _DUNE_EDITOR_VIEW_PROPERTYGRID_
 #define _DUNE_EDITOR_VIEW_PROPERTYGRID_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Dune\Editor\Ctrl\EventClient.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Dune/Editor/Ctrl/EventClient.h>
 
-#include <QtGui\QWidget>
-#include <QtGui\QGridLayout>
-#include <QtGui\QScrollArea>
+#include <QtGui/QWidget>
+#include <QtGui/QGridLayout>
+#include <QtGui/QScrollArea>
 
 
 

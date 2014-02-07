@@ -1,6 +1,6 @@
-#include <Dune\Editor\View\UI.h> 
+#include <Dune/Editor/View/UI.h> 
 
-#include <Dune\Resources\Icons\ElementView.xpm>
+#include <Dune/Resources/Icons/ElementView.xpm>
 
 
 using namespace Dune;

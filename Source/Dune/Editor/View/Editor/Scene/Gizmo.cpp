@@ -1,6 +1,6 @@
-#include <Dune\Editor\View\Editor\Scene\Gizmo.h>
+#include <Dune/Editor/View/Editor/Scene/Gizmo.h>
 
-#include <Dune\Editor\Application\Application.h>
+#include <Dune/Editor/Application/Application.h>
 
 using namespace Dune;
 

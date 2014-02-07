@@ -1,9 +1,9 @@
 #ifndef _DUNE_EDITOR_WIDGET_SCALARWIDGET_
 #define _DUNE_EDITOR_WIDGET_SCALARWIDGET_
 
-#include <Sable\Core\Common\DataTypes.h>
+#include <Sable/Core/Common/DataTypes.h>
 
-#include <QtGUI\QLineEdit>
+#include <QtGUI/QLineEdit>
 
 namespace Dune
 {

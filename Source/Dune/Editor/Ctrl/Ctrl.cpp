@@ -1,4 +1,4 @@
-#include <Dune\Editor\Ctrl\Ctrl.h>
+#include <Dune/Editor/Ctrl/Ctrl.h>
 
 using namespace Dune;
 

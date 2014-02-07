@@ -1,14 +1,14 @@
-#include <Dune\Editor\Ctrl\Asset.h>
+#include <Dune/Editor/Ctrl/Asset.h>
 
-#include <Dune\Editor\View\Property.h>
-#include <Dune\Model\Asset\Header.h>
-#include <Dune\Editor\View\AssetTree.h>
-#include <Dune\Editor\Ctrl\Project.h>
-#include <Dune\Model\Property\Property.h> 
-#include <Dune\Common\LexicalCast.h>
-#include <Dune\Common\LibraryObject.h>
-#include <Dune\Editor\Ctrl\Cmd\Header.h>
-#include <Dune\Bake\DependencySolver.h>
+#include <Dune/Editor/View/Property.h>
+#include <Dune/Model/Asset/Header.h>
+#include <Dune/Editor/View/AssetTree.h>
+#include <Dune/Editor/Ctrl/Project.h>
+#include <Dune/Model/Property/Property.h> 
+#include <Dune/Common/LexicalCast.h>
+#include <Dune/Common/LibraryObject.h>
+#include <Dune/Editor/Ctrl/Cmd/Header.h>
+#include <Dune/Bake/DependencySolver.h>
 
 using namespace Dune;
 

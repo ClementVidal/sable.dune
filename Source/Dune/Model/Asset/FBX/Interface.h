@@ -1,10 +1,10 @@
 #ifndef _DUNE_MODEL_ASSET_FBX_INTERFACE_
 #define _DUNE_MODEL_ASSET_FBX_INTERFACE_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\Event\Header.h>
-#include <Dune\Model\Asset\Asset.h>
-#include <Dune\Model\Asset\FBX\Header.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/Event/Header.h>
+#include <Dune/Model/Asset/Asset.h>
+#include <Dune/Model/Asset/FBX/Header.h>
 
 
 

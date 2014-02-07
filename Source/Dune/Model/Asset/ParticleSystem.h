@@ -1,12 +1,12 @@
 #ifndef _DUNE_MODEL_ASSET_PARTICLESYSTEM_
 #define _DUNE_MODEL_ASSET_PARTICLESYSTEM_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\String\String.h>
-#include <Sable\Core\Collection\Array.h>
-#include <Sable\Graphics\Particle\System.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/String/String.h>
+#include <Sable/Core/Collection/Array.h>
+#include <Sable/Graphics/Particle/System.h>
 
-#include <Dune\Model\Asset\Asset.h>
+#include <Dune/Model/Asset/Asset.h>
 
 namespace Dune
 {

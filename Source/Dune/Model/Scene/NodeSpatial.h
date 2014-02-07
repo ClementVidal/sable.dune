@@ -1,7 +1,7 @@
 #ifndef _DUNE_MODEL_ELEMENT_SCENE_NODESPATIAL_
 #define _DUNE_MODEL_ELEMENT_SCENE_NODESPATIAL_
 
-#include <Dune\Model\Bank\Object.h>
+#include <Dune/Model/Bank/Object.h>
 
 namespace Dune
 {

@@ -1,15 +1,15 @@
 #ifndef _DUNE_EDITOR_VIEW_GAMEOBJECT_
 #define _DUNE_EDITOR_VIEW_GAMEOBJECT_
 
-#include <Sable\Core\Common\DataTypes.h>
+#include <Sable/Core/Common/DataTypes.h>
 
-#include <Dune\Editor\Ctrl\EventClient.h>
-#include <Dune\Editor\Utilities\IconTable.h>
-#include <Dune\Editor\View\GameTree.h>
-#include <Dune\Editor\Widget\ObjectLibrary.h>
+#include <Dune/Editor/Ctrl/EventClient.h>
+#include <Dune/Editor/Utilities/IconTable.h>
+#include <Dune/Editor/View/GameTree.h>
+#include <Dune/Editor/Widget/ObjectLibrary.h>
 
-#include <QtGui\QDockWidget>
-#include <QtGui\QToolBar>
+#include <QtGui/QDockWidget>
+#include <QtGui/QToolBar>
 
 namespace Dune
 {

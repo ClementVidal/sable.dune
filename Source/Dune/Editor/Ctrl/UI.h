@@ -1,9 +1,9 @@
 #ifndef _DUNE_EDITOR_CTRL_PROJECT_ELEMENT_
 #define _DUNE_EDITOR_CTRL_PROJECT_ELEMENT_
 
-#include <Sable\Core\Common\DataTypes.h>
+#include <Sable/Core/Common/DataTypes.h>
 
-#include <Dune\Editor\Ctrl\Ctrl.h>
+#include <Dune/Editor/Ctrl/Ctrl.h>
 
 namespace Dune
 {

@@ -1,7 +1,7 @@
 #ifndef _DUNE_EDITOR_VIEW_EDITOR_UI_UI_
 #define _DUNE_EDITOR_VIEW_EDITOR_UI_UI_
 
-#include <Dune\Editor\View\Editor\Editor.h>
+#include <Dune/Editor/View/Editor/Editor.h>
 
 namespace Dune
 {

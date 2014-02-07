@@ -1,10 +1,10 @@
 #ifndef _DUNE_EDITOR_VIEW_EDITOR_MANIPULATOR_MANIPULATOR_
 #define _DUNE_EDITOR_VIEW_EDITOR_MANIPULATOR_MANIPULATOR_
 
-#include <Sable\Core\ManagedObject\ManagedObject.h>
-#include <SAble\Core\Math\Matrix4x4f.h>
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Input\Mouse\Event.h>
+#include <Sable/Core/ManagedObject/ManagedObject.h>
+#include <SAble/Core/Math/Matrix4x4f.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Input/Mouse/Event.h>
 
 namespace Sable
 {

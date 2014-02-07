@@ -1,6 +1,6 @@
-#include <Dune\Editor\Widget\ObjectLibrary.h> 
+#include <Dune/Editor/Widget/ObjectLibrary.h> 
 
-#include <QtCore\QDiriterator>
+#include <QtCore/QDiriterator>
 
 using namespace Dune;
 

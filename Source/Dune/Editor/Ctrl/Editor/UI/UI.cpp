@@ -1,13 +1,13 @@
-#include <Dune\Editor\Ctrl\Editor\UI\UI.h>
+#include <Dune/Editor/Ctrl/Editor/UI/UI.h>
 
-#include <Dune\Editor\Ctrl\Project.h>
-#include <Dune\Model\Gui\Header.h>
-#include <Dune\Editor\View\Editor\UI\UI.h>
-#include <Dune\Editor\Sable\EditorRenderer.h>
+#include <Dune/Editor/Ctrl/Project.h>
+#include <Dune/Model/Gui/Header.h>
+#include <Dune/Editor/View/Editor/UI/UI.h>
+#include <Dune/Editor/Sable/EditorRenderer.h>
 
-#include <Sable\Input\Keyboard\Interface.h>
-#include <Sable\Gui\Widget\Widget.h>
-#include <Sable\Graphics\Debug\RenderPass.h>
+#include <Sable/Input/Keyboard/Interface.h>
+#include <Sable/Gui/Widget/Widget.h>
+#include <Sable/Graphics/Debug/RenderPass.h>
 
 using namespace Dune;
 

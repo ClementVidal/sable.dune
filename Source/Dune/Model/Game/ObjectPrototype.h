@@ -1,14 +1,14 @@
 #ifndef _DUNE_GAME_OBJECTPROTOTYPE_
 #define _DUNE_GAME_OBJECTPROTOTYPE_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\String\String.h>
-#include <Sable\Core\Collection\Array.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/String/String.h>
+#include <Sable/Core/Collection/Array.h>
 
-#include <Sable\Game\Property\Property.h>
+#include <Sable/Game/Property/Property.h>
 
-#include <Dune\Model\Bank\Object.h>
-#include <Dune\Model\Property\Property.h>
+#include <Dune/Model/Bank/Object.h>
+#include <Dune/Model/Property/Property.h>
 
 
 namespace Dune

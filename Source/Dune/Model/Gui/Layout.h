@@ -1,9 +1,9 @@
 #ifndef _DUNE_MODEl_ELEMENT_UI_LAYOUT_
 #define _DUNE_MODEl_ELEMENT_UI_LAYOUT_
 
-#include <Dune\Model\Bank\Object.h>
+#include <Dune/Model/Bank/Object.h>
 
-#include <Sable\Core\Common\DataTypes.h>
+#include <Sable/Core/Common/DataTypes.h>
 
 namespace Dune
 {

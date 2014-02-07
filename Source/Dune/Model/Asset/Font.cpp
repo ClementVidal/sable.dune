@@ -1,13 +1,13 @@
-#include <Dune\Model\Asset\Font.h>
+#include <Dune/Model/Asset/Font.h>
 
-#include <Dune\Model\Project\Project.h>
-#include <Dune\Bake\Context\Export.h>
+#include <Dune/Model/Project/Project.h>
+#include <Dune/Bake/Context/Export.h>
 
-#include <Sable\Graphics\Text\Header.h>
+#include <Sable/Graphics/Text/Header.h>
 
-#include <QtCore\QDir>
-#include <QtCore\QFile>
-#include <QtCore\QString>
+#include <QtCore/QDir>
+#include <QtCore/QFile>
+#include <QtCore/QString>
 
 using namespace Dune;
  

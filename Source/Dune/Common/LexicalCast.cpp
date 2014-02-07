@@ -1,15 +1,15 @@
-#include <Dune\Common\LexicalCast.h>
+#include <Dune/Common/LexicalCast.h>
 
-#include <Dune\Model\Bank\Bank.h>
-#include <Dune\Model\Project\Project.h>
+#include <Dune/Model/Bank/Bank.h>
+#include <Dune/Model/Project/Project.h>
 
-#include <Sable\Core\Math\Vector2i.h>
-#include <Sable\Core\Math\Vector2f.h>
-#include <Sable\Core\Math\Vector3f.h>
-#include <Sable\Core\Math\Vector4f.h>
-#include <Sable\Core\Math\Matrix4x4f.h>
-#include <Sable\Core\Common\Color.h>
-#include <Sable\Core\File\FilePath.h>
+#include <Sable/Core/Math/Vector2i.h>
+#include <Sable/Core/Math/Vector2f.h>
+#include <Sable/Core/Math/Vector3f.h>
+#include <Sable/Core/Math/Vector4f.h>
+#include <Sable/Core/Math/Matrix4x4f.h>
+#include <Sable/Core/Common/Color.h>
+#include <Sable/Core/File/FilePath.h>
 
 using namespace Dune;
 

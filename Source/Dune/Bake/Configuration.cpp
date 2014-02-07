@@ -1,4 +1,4 @@
-#include <Dune\Bake\Configuration.h>
+#include <Dune/Bake/Configuration.h>
 
 using namespace Dune;
 

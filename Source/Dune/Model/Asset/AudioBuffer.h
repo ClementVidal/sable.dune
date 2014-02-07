@@ -1,11 +1,11 @@
 #ifndef _DUNE_MODEL_ASSET_AUDIOBUFFER_
 #define _DUNE_MODEL_ASSET_AUDIOBUFFER_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\String\String.h>
-#include <Sable\Core\Collection\Array.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/String/String.h>
+#include <Sable/Core/Collection/Array.h>
 
-#include <Dune\Model\Asset\Asset.h>
+#include <Dune/Model/Asset/Asset.h>
 
 
 

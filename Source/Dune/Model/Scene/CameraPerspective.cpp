@@ -1,6 +1,6 @@
-#include <Dune\Model\Scene\CameraPerspective.h>
+#include <Dune/Model/Scene/CameraPerspective.h>
 
-#include <Sable\Graphics\Camera\Perspective.h>
+#include <Sable/Graphics/Camera/Perspective.h>
 
 using namespace Dune;
 

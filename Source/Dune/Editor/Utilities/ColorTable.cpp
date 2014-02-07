@@ -1,4 +1,4 @@
-#include <Dune\Editor\Utilities\ColorTable.h>
+#include <Dune/Editor/Utilities/ColorTable.h>
 
 using namespace Dune;
 

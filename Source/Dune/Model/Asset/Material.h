@@ -1,9 +1,9 @@
 #ifndef _DUNE_MODEL_ASSET_MATERIAL_
 #define _DUNE_MODEL_ASSET_MATERIAL_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Graphics\Material\Header.h>
-#include <Dune\Model\Asset\FBX\Header.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Graphics/Material/Header.h>
+#include <Dune/Model/Asset/FBX/Header.h>
 
 
 

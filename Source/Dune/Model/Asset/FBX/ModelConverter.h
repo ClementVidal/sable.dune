@@ -1,8 +1,8 @@
 #ifndef _DUNE_MODEL_ASSET_FBX_MODELCONVERTER_
 #define _DUNE_MODEL_ASSET_FBX_MODELCONVERTER_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Graphics\Geometry\Header.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Graphics/Geometry/Header.h>
 
 #define MAXUVSET 8
 

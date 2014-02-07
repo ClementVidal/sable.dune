@@ -1,11 +1,11 @@
-#include <Dune\Editor\View\Editor\Scene\Scene.h>
+#include <Dune/Editor/View/Editor/Scene/Scene.h>
 
-#include <Sable\Input\Keyboard\Interface.h>
-#include <Sable\Graphics\Debug\RenderPass.h>
-#include <Dune\Editor\Sable\EditorRenderer.h>
-#include <Dune\Editor\Ctrl\Editor\Scene\Scene.h>
+#include <Sable/Input/Keyboard/Interface.h>
+#include <Sable/Graphics/Debug/RenderPass.h>
+#include <Dune/Editor/Sable/EditorRenderer.h>
+#include <Dune/Editor/Ctrl/Editor/Scene/Scene.h>
 
-#include <Dune\Resources\Icons\SceneEditor.xpm>
+#include <Dune/Resources/Icons/SceneEditor.xpm>
 
 using namespace Dune;
 

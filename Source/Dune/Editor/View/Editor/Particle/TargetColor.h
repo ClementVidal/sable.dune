@@ -1,11 +1,11 @@
 #ifndef _DUNE_EDITOR_VIEW_EDITOR_PARTICLE_TARGETCOLOR_
 #define _DUNE_EDITOR_VIEW_EDITOR_PARTICLE_TARGETCOLOR_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Graphics\Particle\Operator\TargetColor.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Graphics/Particle/Operator/TargetColor.h>
 
-#include <Dune\Editor\View\Editor\Particle\Operator.h>
-#include <Dune\Editor\Widget\VectorRangeWidget.h>
+#include <Dune/Editor/View/Editor/Particle/Operator.h>
+#include <Dune/Editor/Widget/VectorRangeWidget.h>
 
 #include <QtGui/QFormLayout>
 

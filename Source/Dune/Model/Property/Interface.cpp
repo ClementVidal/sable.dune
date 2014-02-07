@@ -1,4 +1,4 @@
-#include <Dune\Model\Property\Interface.h> 
+#include <Dune/Model/Property/Interface.h> 
 
 IMPLEMENT_MANAGED_CLASS1( Dune, CPropertyInterface, Sb::CManagedObject );
 

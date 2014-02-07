@@ -1,10 +1,10 @@
-#include <Dune\Editor\View\Game.h> 
+#include <Dune/Editor/View/Game.h> 
 
-#include <Dune\Model\Game\Header.h>
-#include <Dune\Resources\Icons\GameTools.xpm>
-#include <Dune\Resources\Icons\GameType.xpm>
+#include <Dune/Model/Game/Header.h>
+#include <Dune/Resources/Icons/GameTools.xpm>
+#include <Dune/Resources/Icons/GameType.xpm>
 
-#include <Dune\Editor\Ctrl\Cmd\MergeBank.h>
+#include <Dune/Editor/Ctrl/Cmd/MergeBank.h>
 
 using namespace Dune;
 

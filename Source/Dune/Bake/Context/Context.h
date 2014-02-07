@@ -1,14 +1,14 @@
 #ifndef _DUNE_BAKE_CONTEXT_CONTEXT_
 #define _DUNE_BAKE_CONTEXT_CONTEXT_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\ManagedObject\ManagedObject.h>
-#include <Sable\Core\ManagedObject\Ref.h>
-#include <Sable\Core\Thread\CriticalSection.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/ManagedObject/ManagedObject.h>
+#include <Sable/Core/ManagedObject/Ref.h>
+#include <Sable/Core/Thread/CriticalSection.h>
 
-#include <Dune\Bake\Configuration.h>
-#include <Dune\Bake\Context\Context.h>
-#include <Dune\Bake\ObjectSet.h>
+#include <Dune/Bake/Configuration.h>
+#include <Dune/Bake/Context/Context.h>
+#include <Dune/Bake/ObjectSet.h>
 
 namespace Sable
 {

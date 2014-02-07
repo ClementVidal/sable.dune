@@ -1,4 +1,4 @@
-#include <Dune\Editor\Widget\ShaderEditorSyntaxHighlighter.h> 
+#include <Dune/Editor/Widget/ShaderEditorSyntaxHighlighter.h> 
 
 using namespace Dune;
 

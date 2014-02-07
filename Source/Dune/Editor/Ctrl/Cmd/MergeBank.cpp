@@ -1,4 +1,4 @@
-#include <Dune\Editor\Ctrl\Cmd\MergeBank.h>
+#include <Dune/Editor/Ctrl/Cmd/MergeBank.h>
 
 IMPLEMENT_MANAGED_CLASS1( Dune, CCmdMergeBank, CCmd );
 

@@ -1,8 +1,8 @@
-#include <Dune\Editor\View\PropertyArrayType.h> 
+#include <Dune/Editor/View/PropertyArrayType.h> 
 
-#include <Dune\Common\Log.h>
+#include <Dune/Common/Log.h>
 
-#include <QtGui\QColorDialog>
+#include <QtGui/QColorDialog>
 
 using namespace Dune;
 

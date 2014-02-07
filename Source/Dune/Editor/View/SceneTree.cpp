@@ -1,15 +1,15 @@
-#include <Dune\Editor\View\SceneTree.h> 
+#include <Dune/Editor/View/SceneTree.h> 
 
-#include <Dune\Model\Scene\NodeRender.h>
-#include <Dune\Model\Scene\World.h>
-#include <Dune\Model\Scene\CameraPerspective.h>
-#include <Dune\Editor\Application\Application.h>
-#include <Dune\Editor\View\Editor\EditorContainer.h>
-#include <Dune\Model\Project\Project.h>
-#include <Dune\Editor\Ctrl\Cmd\AddObject.h>
-#include <Dune\Editor\Ctrl\Scene.h>
+#include <Dune/Model/Scene/NodeRender.h>
+#include <Dune/Model/Scene/World.h>
+#include <Dune/Model/Scene/CameraPerspective.h>
+#include <Dune/Editor/Application/Application.h>
+#include <Dune/Editor/View/Editor/EditorContainer.h>
+#include <Dune/Model/Project/Project.h>
+#include <Dune/Editor/Ctrl/Cmd/AddObject.h>
+#include <Dune/Editor/Ctrl/Scene.h>
 
-#include <Sable\Core\Collection\HashTable.h>
+#include <Sable/Core/Collection/HashTable.h>
 
 using namespace Dune;
 

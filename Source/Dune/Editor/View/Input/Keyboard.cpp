@@ -1,4 +1,4 @@
-#include <Dune\Editor\View\Input\Keyboard.h>
+#include <Dune/Editor/View/Input/Keyboard.h>
 
 using namespace Dune;
 

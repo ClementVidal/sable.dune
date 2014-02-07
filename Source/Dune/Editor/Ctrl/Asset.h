@@ -1,11 +1,11 @@
 #ifndef _DUNE_EDITOR_CTRL_PROJECT_ASSET_
 #define _DUNE_EDITOR_CTRL_PROJECT_ASSET_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\Event\Header.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/Event/Header.h>
 
-#include <Dune\Editor\Ctrl\Ctrl.h>
-#include <Dune\Model\Asset\FBX\Header.h>
+#include <Dune/Editor/Ctrl/Ctrl.h>
+#include <Dune/Model/Asset/FBX/Header.h>
 
 
 namespace Sable

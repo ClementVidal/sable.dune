@@ -1,11 +1,11 @@
 #ifndef _DUNE_EDITOR_VIEW_LOG_
 #define _DUNE_EDITOR_VIEW_LOG_
 
-#include <Sable\Core\Common\DataTypes.h>
+#include <Sable/Core/Common/DataTypes.h>
 
-#include <Dune\Editor\Ctrl\EventClient.h>
+#include <Dune/Editor/Ctrl/EventClient.h>
 
-#include <QtGui\QListWidget>
+#include <QtGui/QListWidget>
 
 
 

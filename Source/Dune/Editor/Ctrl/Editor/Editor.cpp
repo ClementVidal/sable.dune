@@ -1,6 +1,6 @@
-#include <Dune\Editor\Ctrl\Editor\Editor.h>
+#include <Dune/Editor/Ctrl/Editor/Editor.h>
 
-#include <Sable\Graphics\Scene\View.h>
+#include <Sable/Graphics/Scene/View.h>
 
 using namespace Dune;
 

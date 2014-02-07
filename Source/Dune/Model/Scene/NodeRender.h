@@ -1,8 +1,8 @@
 #ifndef _DUNE_MODEL_ELEMENT_SCENE_NODERENDER_
 #define _DUNE_MODEL_ELEMENT_SCENE_NODERENDER_
 
-#include <Dune\Model\Bank\Object.h>
-#include <Dune\Model\Scene\NodeSpatial.h>
+#include <Dune/Model/Bank/Object.h>
+#include <Dune/Model/Scene/NodeSpatial.h>
 
 namespace Dune
 {

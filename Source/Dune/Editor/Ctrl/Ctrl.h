@@ -1,10 +1,10 @@
 #ifndef _DUNE_EDITOR_CTRL_CTRL_
 #define _DUNE_EDITOR_CTRL_CTRL_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\ManagedObject\ManagedObject.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/ManagedObject/ManagedObject.h>
 
-#include <Dune\Editor\Ctrl\EventClient.h>
+#include <Dune/Editor/Ctrl/EventClient.h>
 
 
 

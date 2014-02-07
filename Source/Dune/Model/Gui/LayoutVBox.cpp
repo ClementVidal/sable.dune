@@ -1,6 +1,6 @@
-#include <Dune\Model\Gui\LayoutVBox.h>
+#include <Dune/Model/Gui/LayoutVBox.h>
 
-#include <Sable\Gui\Layout\VBox.h>
+#include <Sable/Gui/Layout/VBox.h>
 
 using namespace Dune;
 

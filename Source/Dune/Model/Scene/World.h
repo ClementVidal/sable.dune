@@ -1,7 +1,7 @@
 #ifndef _DUNE_MODEL_ELEMENT_SCENE_WORLD_
 #define _DUNE_MODEL_ELEMENT_SCENE_WORLD_
 
-#include <Dune\Model\Bank\Object.h>
+#include <Dune/Model/Bank/Object.h>
 
 namespace Dune
 {

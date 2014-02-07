@@ -1,4 +1,4 @@
-#include <Dune\Common\Qt\KeyCodeTranslator.h>
+#include <Dune/Common/Qt/KeyCodeTranslator.h>
 
 using namespace Dune;
 

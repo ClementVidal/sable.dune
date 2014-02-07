@@ -1,6 +1,6 @@
-#include <Dune\Model\Bank\Handle.h>
+#include <Dune/Model/Bank/Handle.h>
 
-#include <Dune\Common\Log.h>
+#include <Dune/Common/Log.h>
 
 using namespace Dune;
 

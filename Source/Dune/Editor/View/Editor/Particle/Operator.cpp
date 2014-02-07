@@ -1,4 +1,4 @@
-#include <Dune\Editor\View\Editor\Particle\Operator.h>
+#include <Dune/Editor/View/Editor/Particle/Operator.h>
 
 using namespace Dune;
 

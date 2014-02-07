@@ -1,6 +1,6 @@
-#include <Dune\Common\Log.h>
+#include <Dune/Common/Log.h>
 
-#include <Sable\Core\Common\Manager.h>
+#include <Sable/Core/Common/Manager.h>
 
 using namespace Dune;
 

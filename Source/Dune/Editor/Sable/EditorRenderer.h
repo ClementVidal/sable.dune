@@ -1,10 +1,10 @@
 #ifndef _DUNE_EDITOR_EDITOR_SABLE_RENDERER_
 #define _DUNE_EDITOR_EDITOR_SABLE_RENDERER_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\ManagedObject\Ref.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/ManagedObject/Ref.h>
 
-#include <Sable\Graphics\Renderer\Header.h>
+#include <Sable/Graphics/Renderer/Header.h>
 
 
 #define RENDERERPASS_DEPTH 0

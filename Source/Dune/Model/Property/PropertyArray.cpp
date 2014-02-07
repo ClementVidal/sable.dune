@@ -1,4 +1,4 @@
-#include <Dune\Model\Property\PropertyArray.h>
+#include <Dune/Model/Property/PropertyArray.h>
 
 using namespace Dune;
 

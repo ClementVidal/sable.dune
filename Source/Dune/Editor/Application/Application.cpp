@@ -1,18 +1,18 @@
-#include <Dune\Editor\Application\Application.h>
+#include <Dune/Editor/Application/Application.h>
 
-#include <Sable\Gui\Common\RenderPass.h>
-#include <Sable\Graphics\Shader\Compiler.h>
+#include <Sable/Gui/Common/RenderPass.h>
+#include <Sable/Graphics/Shader/Compiler.h>
 
-#include <Dune\Editor\View\MainFrame.h>
-#include <Dune\Editor\View\bank.h>
-#include <Dune\Editor\View\Property.h>
-#include <Dune\Editor\View\Editor\EditorContainer.h>
-#include <Dune\Editor\Ctrl\Project.h>
-#include <Dune\Editor\Ctrl\CommandProcessor.h>
-#include <Dune\Common\XMLDataLayout.h>
-#include <Dune\Resources\Icons\Application.xpm>
+#include <Dune/Editor/View/MainFrame.h>
+#include <Dune/Editor/View/bank.h>
+#include <Dune/Editor/View/Property.h>
+#include <Dune/Editor/View/Editor/EditorContainer.h>
+#include <Dune/Editor/Ctrl/Project.h>
+#include <Dune/Editor/Ctrl/CommandProcessor.h>
+#include <Dune/Common/XMLDataLayout.h>
+#include <Dune/Resources/Icons/Application.xpm>
 
-#include <QtCore\QFile>
+#include <QtCore/QFile>
 
 using namespace Dune;
 
@@ -48,7 +48,7 @@ CSableApplication& CApplication::GetSableApplication()
     return *m_Dune;
 }
 
-#include <Sable\Core\Bank\Bank.h>
+#include <Sable/Core/Bank/Bank.h>
 
 bool CApplication::Init()
 {

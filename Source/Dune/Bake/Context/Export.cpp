@@ -1,12 +1,12 @@
-#include <Dune\Bake\Context\Export.h>
+#include <Dune/Bake/Context/Export.h>
 
-#include <Dune\Bake\RequestDispatcher.h>
-#include <Dune\Model\Bank\Header.h>
+#include <Dune/Bake/RequestDispatcher.h>
+#include <Dune/Model/Bank/Header.h>
 
-#include <Sable\Core\Bank\Bank.h>
+#include <Sable/Core/Bank/Bank.h>
 
-#include <QtCore\QFileInfo>
-#include <QtCore\QDir>
+#include <QtCore/QFileInfo>
+#include <QtCore/QDir>
 
 using namespace Dune;
 

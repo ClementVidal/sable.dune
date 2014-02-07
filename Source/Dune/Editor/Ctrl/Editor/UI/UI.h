@@ -1,12 +1,12 @@
 #ifndef _DUNE_EDITOR_CTRL_EDITOR_UI_
 #define _DUNE_EDITOR_CTRL_EDITOR_UI_
 
-#include <Sable\Core\ManagedObject\Ref.h>
-#include <Sable\Core\Event\Header.h>
+#include <Sable/Core/ManagedObject/Ref.h>
+#include <Sable/Core/Event/Header.h>
 
-#include <Dune\Editor\Sable\EditorRenderer.h>
+#include <Dune/Editor/Sable/EditorRenderer.h>
 
-#include <Dune\Editor\Ctrl\Editor\Editor.h>
+#include <Dune/Editor/Ctrl/Editor/Editor.h>
 
 namespace Sable
 {

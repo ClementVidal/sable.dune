@@ -1,10 +1,10 @@
-#include <Dune\Model\Bank\Bank.h>
+#include <Dune/Model/Bank/Bank.h>
 
-#include <Dune\Model\Bank\Handle.h>
-#include <Dune\Common\Log.h>
-#include <Dune\Bake\DependencySolver.h>
+#include <Dune/Model/Bank/Handle.h>
+#include <Dune/Common/Log.h>
+#include <Dune/Bake/DependencySolver.h>
 
-#include <Sable\Core\Collection\Pair.h>
+#include <Sable/Core/Collection/Pair.h>
 
 IMPLEMENT_MANAGED_CLASS( Dune, CBank );
 

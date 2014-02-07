@@ -1,12 +1,12 @@
-#include <Dune\Editor\Sable\EditorRenderer.h>
+#include <Dune/Editor/Sable/EditorRenderer.h>
 
-#include <Sable\Graphics\RenderPass\Lighting.h>
-#include <Sable\Graphics\RenderPass\Depth.h>
-#include <Sable\Graphics\PostProcess\Glow.h>
-#include <Sable\Graphics\Debug\RenderPass.h>
-#include <Sable\Gui\Common\RenderPass.h>
-#include <Sable\Graphics\RenderTarget\Texture.h>
-#include <Sable\Graphics\LensFlare\RenderPass.h>
+#include <Sable/Graphics/RenderPass/Lighting.h>
+#include <Sable/Graphics/RenderPass/Depth.h>
+#include <Sable/Graphics/PostProcess/Glow.h>
+#include <Sable/Graphics/Debug/RenderPass.h>
+#include <Sable/Gui/Common/RenderPass.h>
+#include <Sable/Graphics/RenderTarget/Texture.h>
+#include <Sable/Graphics/LensFlare/RenderPass.h>
 
 using namespace Dune;
 

@@ -1,7 +1,7 @@
 #ifndef _DUNE_PROJECT_SETTINGS_
 #define _DUNE_PROJECT_SETTINGS_
 
-#include <Sable\Core\File\FilePath.h>
+#include <Sable/Core/File/FilePath.h>
 
 namespace Sable
 {

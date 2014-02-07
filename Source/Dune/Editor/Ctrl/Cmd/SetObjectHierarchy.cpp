@@ -1,4 +1,4 @@
-#include <Dune\Editor\Ctrl\Cmd\SetObjectHierarchy.h>
+#include <Dune/Editor/Ctrl/Cmd/SetObjectHierarchy.h>
 
 IMPLEMENT_MANAGED_CLASS1( Dune, CCmdSetObjectHierarchy, CCmd );
 

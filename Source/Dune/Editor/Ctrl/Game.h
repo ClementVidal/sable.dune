@@ -1,8 +1,8 @@
 #ifndef _DUNE_EDITOR_CTRL_GAME_
 #define _DUNE_EDITOR_CTRL_GAME_
 
-#include <Sable\Core\Common\DataTypes.h>
-#include <Sable\Core\Event\Header.h>
+#include <Sable/Core/Common/DataTypes.h>
+#include <Sable/Core/Event/Header.h>
 
 namespace Dune
 {

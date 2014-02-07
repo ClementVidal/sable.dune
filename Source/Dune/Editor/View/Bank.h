@@ -1,13 +1,13 @@
 #ifndef _DUNE_EDITOR_VIEW_BANK_
 #define _DUNE_EDITOR_VIEW_BANK_
 
-#include <Sable\Core\Common\DataTypes.h>
+#include <Sable/Core/Common/DataTypes.h>
 
-#include <Dune\Editor\Ctrl\EventClient.h>
-#include <Dune\Editor\Utilities\IconTable.h>
-#include <Dune\Model\Bank\Bank.h>
+#include <Dune/Editor/Ctrl/EventClient.h>
+#include <Dune/Editor/Utilities/IconTable.h>
+#include <Dune/Model/Bank/Bank.h>
 
-#include <QtGui\QDockWidget>
+#include <QtGui/QDockWidget>
 
 namespace Dune
 {

@@ -1,7 +1,7 @@
-#include <Dune\Model\Asset\Asset.h>
+#include <Dune/Model/Asset/Asset.h>
 
-#include <Dune\Model\Property\Property.h>
-#include <Dune\Model\Property\PropertyArray.h>
+#include <Dune/Model/Property/Property.h>
+#include <Dune/Model/Property/PropertyArray.h>
 
 using namespace Dune;
 

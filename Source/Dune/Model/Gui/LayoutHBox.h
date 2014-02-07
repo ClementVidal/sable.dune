@@ -1,9 +1,9 @@
 #ifndef _DUNE_MODEL_GUI_LAYOUTHBOX_
 #define _DUNE_MODEL_GUI_LAYOUTHBOX_
 
-#include <Dune\Model\Gui\Layout.h>
+#include <Dune/Model/Gui/Layout.h>
 
-#include <Sable\Core\Common\DataTypes.h>
+#include <Sable/Core/Common/DataTypes.h>
 
 namespace Dune
 {

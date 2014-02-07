@@ -1,13 +1,13 @@
-#include <Dune\Editor\View\Bank.h> 
+#include <Dune/Editor/View/Bank.h> 
 
-#include <Dune\Model\Project\Project.h>
-#include <Dune\Editor\Application\Application.h>
+#include <Dune/Model/Project/Project.h>
+#include <Dune/Editor/Application/Application.h>
 
-#include <Dune\Resources\Icons\BankView.xpm>
+#include <Dune/Resources/Icons/BankView.xpm>
 
-#include <QtGui\QInputDialog>
-#include <QtGui\QMessageBox>
-#include <QtGui\QFormLayout>
+#include <QtGui/QInputDialog>
+#include <QtGui/QMessageBox>
+#include <QtGui/QFormLayout>
 
 using namespace Dune;
 

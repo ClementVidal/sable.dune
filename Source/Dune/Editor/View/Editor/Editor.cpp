@@ -1,11 +1,11 @@
-#include <Dune\Editor\View\Editor\Editor.h>
+#include <Dune/Editor/View/Editor/Editor.h>
 
-#include <Sable\Input\Common\Manager.h>
+#include <Sable/Input/Common/Manager.h>
 
-#include <Dune\Common\Qt\KeyCodeTranslator.h>
-#include <Dune\Editor\Application\Application.h>
-#include <Dune\Editor\Sable\Application.h>
-#include <Dune\Editor\View\Input\Mouse.h>
+#include <Dune/Common/Qt/KeyCodeTranslator.h>
+#include <Dune/Editor/Application/Application.h>
+#include <Dune/Editor/Sable/Application.h>
+#include <Dune/Editor/View/Input/Mouse.h>
 
 using namespace Dune;
 

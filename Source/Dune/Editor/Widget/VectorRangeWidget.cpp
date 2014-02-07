@@ -1,4 +1,4 @@
-#include <Dune\Editor\Widget\VectorRangeWidget.h> 
+#include <Dune/Editor/Widget/VectorRangeWidget.h> 
 
 using namespace Dune;
 
